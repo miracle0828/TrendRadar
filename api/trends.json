@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T05:52:08.997771+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-16T06:41:34.969851+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -48,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 06时41分]"
         },
         {
           "title": "伊朗战争丨美民主党对防长赫格塞思发起弹劾",
@@ -59,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 06时41分]"
         },
         {
           "title": "伊朗警告美持续封锁是破坏停火前奏",
@@ -68,11 +69,12 @@
           "source": "微博",
           "ranks": [
             12,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 06时41分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -82,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "伊朗或用3种手段反制美军封锁",
@@ -93,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "韩国向伊朗提供50万美元人道主义援助，称与霍尔木兹通行无关",
@@ -104,8 +106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "定了，沃什即将登场，与伊朗谈判到期日同日，巧合还是宿命？",
@@ -116,8 +118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "美军称已完全切断伊朗海上进出口贸易，已拦截 8 艘进出伊朗港口的油轮，对其国内国际市场有何影响？",
@@ -127,22 +129,48 @@
             6,
             11,
             18,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
+          "url": "https://www.zhihu.com/question/2027778593300719600",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗美制通信设备遇袭时集体失灵",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%88%B6%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E9%81%87%E8%A2%AD%E6%97%B6%E9%9B%86%E4%BD%93%E5%A4%B1%E7%81%B5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "time_info": "[03时16分 ~ 06时41分]"
         },
         {
           "title": "伊朗战争丨王毅同伊朗外长通电话",
@@ -178,26 +206,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "据华尔街日报：美国副总统万斯预计将主导未来与伊朗的任何高级别会谈。",
-          "url": "https://flash.jin10.com/detail/20260416050700610800",
-          "source": "金十数据",
+          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
+          "url": "https://wallstreetcn.com/articles/3770023",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
-          "url": "https://www.zhihu.com/question/2027778593300719600",
-          "source": "知乎",
-          "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "time_info": "[03时16分 ~ 06时41分]"
         },
         {
           "title": "美国被曝将向中东增派数千名士兵，施压伊朗达成协议",
@@ -222,17 +239,6 @@
           "time_info": "01时03分"
         },
         {
-          "title": "【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3088792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
           "title": "市场消息：伊朗外交部长阿拉格齐会见了巴基斯坦陆军参谋长穆尼尔。",
           "url": "https://flash.jin10.com/detail/20260416004827946800",
           "source": "金十数据",
@@ -242,19 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "伊朗美制通信设备遇袭时集体失灵",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%88%B6%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E9%81%87%E8%A2%AD%E6%97%B6%E9%9B%86%E4%BD%93%E5%A4%B1%E7%81%B5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 05时52分]"
         },
         {
           "title": "伊朗军方回应美海上封锁",
@@ -290,26 +283,52 @@
           "time_info": "01时03分"
         },
         {
+          "title": "据华尔街日报：美国副总统万斯预计将主导未来与伊朗的任何高级别会谈。",
+          "url": "https://flash.jin10.com/detail/20260416050700610800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
           "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
           "url": "https://wallstreetcn.com/livenews/3088787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
-          "url": "https://wallstreetcn.com/articles/3770023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 05时52分]"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国封锁",
+          "url": "https://www.toutiao.com/trending/7628077805103792171/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 06时41分]"
         },
         {
           "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
@@ -322,6 +341,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
+          "url": "https://flash.jin10.com/detail/20260416044116154800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国必须遵守协议。",
+          "url": "https://flash.jin10.com/detail/20260416044056728800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
+          "url": "https://flash.jin10.com/detail/20260416043131098800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
+          "url": "https://flash.jin10.com/detail/20260416043055184800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
+          "url": "https://flash.jin10.com/detail/20260416043053830800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
         },
         {
           "title": "伊朗要求五个地区国赔偿战争损失",
@@ -344,17 +423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 04时46分]"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国封锁",
-          "url": "https://www.toutiao.com/trending/7628077805103792171/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 05时52分]"
         },
         {
           "title": "伊朗总统N连问美国",
@@ -380,15 +448,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
-          "url": "https://flash.jin10.com/detail/20260416044116154800",
-          "source": "金十数据",
+          "title": "【特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议】据美国方面15日消息，美国总统特朗普表示，美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议。特朗普在接受采访时称，当前达成协议的可能性“非常高”。根据安排，查尔斯三世及王后卡米拉将于4月27日至30日访问美国。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088804",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时41分"
         },
         {
           "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
@@ -400,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须遵守协议。",
-          "url": "https://flash.jin10.com/detail/20260416044056728800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         },
         {
           "title": "美方要求伊朗暂停铀浓缩20年遭拒绝，双方分歧仍存",
@@ -457,17 +514,6 @@
           "time_info": "01时03分"
         },
         {
-          "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
-          "url": "https://flash.jin10.com/detail/20260416043131098800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
           "title": "欧洲央行管委Nagel：不能排除4月加息可能性，因伊朗局势很不明朗",
           "url": "https://wallstreetcn.com/livenews/3088732",
           "source": "华尔街见闻-快讯",
@@ -477,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗最高领导人推动将黎巴嫩纳入美伊和谈",
+          "url": "https://wallstreetcn.com/livenews/3088800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "经济学家：伊朗战争的影响料将在美国4月进口价格数据中体现出来",
@@ -490,15 +547,15 @@
           "time_info": "01时03分"
         },
         {
-          "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
-          "url": "https://flash.jin10.com/detail/20260416043055184800",
+          "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
+          "url": "https://flash.jin10.com/detail/20260416052231796800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时41分"
         },
         {
           "title": "瑞士百达管理合伙人称伊朗战争已推动财富流入欧洲",
@@ -534,15 +591,15 @@
           "time_info": "04时46分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
-          "url": "https://flash.jin10.com/detail/20260416043053830800",
-          "source": "金十数据",
+          "title": "新西兰建筑公司警示：受伊朗战争引发的燃料相关影响",
+          "url": "https://wallstreetcn.com/livenews/3088796",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时41分"
         },
         {
           "title": "西方国家加大对美国的施压力度：多国财长联合发声，警告伊朗战争拖累全球经济",
@@ -800,11 +857,12 @@
             24,
             10,
             29,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -815,30 +873,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
           "url": "https://flash.jin10.com/detail/20260416050117948800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
         },
         {
           "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
           "url": "https://flash.jin10.com/detail/20260416045257037800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
         },
         {
           "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
@@ -902,7 +962,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -918,22 +978,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时41分]"
         },
         {
           "title": "美元指数15日下跌",
           "url": "https://flash.jin10.com/detail/20260416044116972800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
         }
       ]
     }
