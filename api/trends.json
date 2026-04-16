@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T17:18:57.303873+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-04-16T19:02:29.011745+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 115,
+      "match_count": 120,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -122,6 +122,17 @@
           "time_info": "[01时03分 ~ 10时32分]"
         },
         {
+          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
+          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 19时02分]"
+        },
+        {
           "title": "韩国向伊朗提供50万美元人道主义援助，称与霍尔木兹通行无关",
           "url": "https://news.ifeng.com/c/8sLg8QKvdGo",
           "source": "凤凰网",
@@ -186,17 +197,6 @@
           "time_info": "[01时03分 ~ 07时42分]"
         },
         {
-          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
-          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 17时18分]"
-        },
-        {
           "title": "伊朗美制通信设备遇袭时集体失灵",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%88%B6%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E9%81%87%E8%A2%AD%E6%97%B6%E9%9B%86%E4%BD%93%E5%A4%B1%E7%81%B5%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -220,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时02分]"
         },
         {
           "title": "伊朗战争丨王毅同伊朗外长通电话",
@@ -255,17 +266,6 @@
           "time_info": "15时44分"
         },
         {
-          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "美国财长贝森特：美国财政部将继续切断伊朗的非法走私和恐怖代理网络。",
           "url": "https://flash.jin10.com/detail/20260416024927797800",
           "source": "金十数据",
@@ -288,6 +288,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗决定自4月21日起将其所有教育系统全面转为线上教学。",
           "url": "https://flash.jin10.com/detail/20260416152602410800",
           "source": "金十数据",
@@ -308,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027874423894533456",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 19时02分]"
         },
         {
           "title": "市场消息：伊朗外交部长阿拉格齐会见了巴基斯坦陆军参谋长穆尼尔。",
@@ -343,6 +365,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
+          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "克里姆林宫：华盛顿拒绝了我们将伊朗浓缩铀转移到俄罗斯的提议。",
           "url": "https://flash.jin10.com/detail/20260416004755373800",
           "source": "金十数据",
@@ -371,7 +404,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -387,20 +420,33 @@
           "time_info": "01时03分"
         },
         {
+          "title": "伊朗副总统：绝不会屈服于任何外部势力的过度要求",
+          "url": "https://wallstreetcn.com/livenews/3089249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
           "url": "https://news.ifeng.com/c/8sMdMjokBOP",
           "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 17时18分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027874423894533456",
-          "source": "知乎",
           "ranks": [
             6
           ],
@@ -446,17 +492,17 @@
           "time_info": "[05时52分 ~ 06时41分]"
         },
         {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
+          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
+          "url": "https://www.cls.cn/detail/2345830",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            11,
-            12
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 19时02分]"
         },
         {
           "title": "伊朗至今尚未同意延长停火请求",
@@ -492,6 +538,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时02分]"
         },
         {
           "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
@@ -541,18 +599,6 @@
           "time_info": "[10时32分 ~ 13时31分]"
         },
         {
-          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
-          "url": "https://www.cls.cn/detail/2345830",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 17时18分]"
-        },
-        {
           "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
           "url": "https://flash.jin10.com/detail/20260416044116154800",
           "source": "金十数据",
@@ -577,6 +623,18 @@
           "time_info": "[05时52分 ~ 06时41分]"
         },
         {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时02分]"
+        },
+        {
           "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
           "url": "https://flash.jin10.com/detail/20260416043131098800",
           "source": "金十数据",
@@ -599,6 +657,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗：美国成以色列“第七个行政区”",
+          "url": "https://www.toutiao.com/trending/7628284506704805939/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗：美国已成以色列“第7个行政区”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%9C%E7%AC%AC7%E4%B8%AA%E8%A1%8C%E6%94%BF%E5%8C%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时02分]"
         },
         {
           "title": "如何评价伊朗遭袭时美制通信设备集体失灵？发展本土技术有多重要？",
@@ -717,15 +799,15 @@
           "time_info": "[01时03分 ~ 03时16分]"
         },
         {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
+          "title": "航运数据：多数通过霍尔木兹的船只使用伊朗强制路线",
+          "url": "https://flash.jin10.com/detail/20260416184043287800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "19时02分"
         },
         {
           "title": "【伊朗外交部发言人：伊美是否延长停火无法确认】伊朗外交部发言人巴加埃15日在首都德黑兰举行的记者会上表示，有关伊美延长停火的相关猜测尚无法确认，需观察美方就其宣称的外交立场是否具备实际诚意。 据伊朗伊斯兰共和国通讯社报道，巴加埃在回答关于“伊美停火是否可能延长，以及谈判中哪些问题取得相对进展”的提问时表示，美国“立场多次变化、表述相互矛盾”，即便达成某种共识，也难以确保其会履行。因此，伊美之间的对话是在非常复杂的情况下进行的。 谈及谈判进展，巴加埃表示，相关议题具有整体性，各项内容需作为一个整体加以推进。目前对话仍通过巴基斯坦作为中间方继续进行。（新华社）",
@@ -783,6 +865,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "伊朗副总统：绝不会屈服于任何外部势力的过度要求",
+          "url": "https://flash.jin10.com/detail/20260416183827958800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国封锁伊朗是否视作中美高层会晤潜在风险？外交部：中美就特朗普访华保持沟通",
           "url": "https://wallstreetcn.com/livenews/3089095",
           "source": "华尔街见闻-快讯",
@@ -827,17 +920,6 @@
           "time_info": "01时03分"
         },
         {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "伊朗国家媒体援引该国石化下游产业发展负责人发布的声明称，伊朗已暂停所有石化产品出口，直至另行通知。伊朗方面于4月6日表示，位于南帕尔斯地区的两座石化工厂设施遭到敌方空袭打击。",
           "url": "https://flash.jin10.com/detail/20260416003656847800",
           "source": "金十数据",
@@ -871,35 +953,13 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗：美国成以色列“第七个行政区”",
-          "url": "https://www.toutiao.com/trending/7628284506704805939/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "伊朗：美国已成以色列“第7个行政区”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%9C%E7%AC%AC7%E4%B8%AA%E8%A1%8C%E6%94%BF%E5%8C%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
           "url": "https://www.cls.cn/detail/2345809",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -910,7 +970,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -998,7 +1058,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1020,7 +1080,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1325,7 +1385,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek招人去内蒙草原“守机房”",
@@ -1339,11 +1399,12 @@
             20,
             9,
             21,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 17时18分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 19时02分]"
         },
         {
           "title": "算力涨价潮席卷全球！阿里、Anthropic连续调价 严重算力荒再现",
@@ -1518,6 +1579,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "OpenAI：加速网络防御生态系统（建设），保护我们所有人。 美国银行、贝莱德、纽约梅隆银行、花旗集团等公司纷纷签约。",
+          "url": "https://wallstreetcn.com/livenews/3089213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.75%，报7068.97点。 热门中概股里，小马智行初步收涨7.8%，再鼎医药涨5.7%，Boss直聘涨5.5%，百度涨2.2%，阿里涨1.5%，腾讯涨0.8%。KWEB涨0.9%。 ETF中，中概互联网指数ETF（KWEB）收涨0.92%，中国科技指数ETF（CQQQ）收跌0.24%。 德银嘉实沪深300指数ETF（ASHR）收跌0.84%，XtrackersHarvest中证50（ASHS）收跌1.10%。",
           "url": "https://wallstreetcn.com/livenews/3088758",
           "source": "华尔街见闻-快讯",
@@ -1572,7 +1644,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
