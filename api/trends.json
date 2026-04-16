@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T10:32:36.296925+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-04-16T13:31:48.212052+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 13时31分]"
         },
         {
           "title": "伊朗或用3种手段反制美军封锁",
@@ -84,11 +84,26 @@
           "ranks": [
             7,
             6,
-            15
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
+          "url": "https://wallstreetcn.com/articles/3770023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[01时03分 ~ 10时32分]"
+          "time_info": "[03时16分 ~ 13时31分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -126,19 +141,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
-          "url": "https://wallstreetcn.com/articles/3770023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时16分 ~ 10时32分]"
         },
         {
           "title": "伊朗警告美持续封锁是破坏停火前奏",
@@ -196,6 +198,28 @@
           "time_info": "[03时16分 ~ 07时42分]"
         },
         {
+          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
+          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
+          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
           "title": "伊朗战争丨王毅同伊朗外长通电话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -216,17 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "美国财长贝森特：美国财政部将继续切断伊朗的非法走私和恐怖代理网络。",
@@ -260,17 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
-          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "市场消息：伊朗外交部长阿拉格齐会见了巴基斯坦陆军参谋长穆尼尔。",
@@ -389,6 +391,51 @@
           "time_info": "[05时51分 ~ 06时41分]"
         },
         {
+          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
+          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027874423894533456",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
+          "url": "https://news.ifeng.com/c/8sMc21c8jgR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗总统连发数问怒斥美国凭什么",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%BF%9E%E5%8F%91%E6%95%B0%E9%97%AE%E6%80%92%E6%96%A5%E7%BE%8E%E5%9B%BD%E5%87%AD%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
           "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
           "url": "https://wallstreetcn.com/livenews/3088774",
           "source": "华尔街见闻-快讯",
@@ -399,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗总统感谢中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
@@ -425,6 +484,29 @@
           "time_info": "[05时52分 ~ 06时41分]"
         },
         {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
+          "title": "那个打出6:0的元帅，去了伊朗",
+          "url": "https://news.ifeng.com/c/8sMaxiuOabf",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
+        },
+        {
           "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
           "url": "https://flash.jin10.com/detail/20260416043131098800",
           "source": "金十数据",
@@ -447,6 +529,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "如何评价伊朗遭袭时美制通信设备集体失灵？发展本土技术有多重要？",
+          "url": "https://www.zhihu.com/question/2027751325488694656",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时31分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
@@ -542,28 +636,6 @@
           "time_info": "[01时03分 ~ 03时16分]"
         },
         {
-          "title": "伊朗总统连发数问怒斥美国凭什么",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%BF%9E%E5%8F%91%E6%95%B0%E9%97%AE%E6%80%92%E6%96%A5%E7%BE%8E%E5%9B%BD%E5%87%AD%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
-          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
           "title": "【伊朗外交部发言人：伊美是否延长停火无法确认】伊朗外交部发言人巴加埃15日在首都德黑兰举行的记者会上表示，有关伊美延长停火的相关猜测尚无法确认，需观察美方就其宣称的外交立场是否具备实际诚意。 据伊朗伊斯兰共和国通讯社报道，巴加埃在回答关于“伊美停火是否可能延长，以及谈判中哪些问题取得相对进展”的提问时表示，美国“立场多次变化、表述相互矛盾”，即便达成某种共识，也难以确保其会履行。因此，伊美之间的对话是在非常复杂的情况下进行的。 谈及谈判进展，巴加埃表示，相关议题具有整体性，各项内容需作为一个整体加以推进。目前对话仍通过巴基斯坦作为中间方继续进行。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3088738",
           "source": "华尔街见闻-快讯",
@@ -573,39 +645,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027874423894533456",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
-          "url": "https://news.ifeng.com/c/8sMc21c8jgR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "【特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议】据美国方面15日消息，美国总统特朗普表示，美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议。特朗普在接受采访时称，当前达成协议的可能性“非常高”。根据安排，查尔斯三世及王后卡米拉将于4月27日至30日访问美国。（央视）",
@@ -674,17 +713,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
           "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
           "url": "https://wallstreetcn.com/articles/3769955",
           "source": "华尔街见闻",
@@ -694,17 +722,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "那个打出6:0的元帅，去了伊朗",
-          "url": "https://news.ifeng.com/c/8sMaxiuOabf",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "伊朗国家媒体援引该国石化下游产业发展负责人发布的声明称，伊朗已暂停所有石化产品出口，直至另行通知。伊朗方面于4月6日表示，位于南帕尔斯地区的两座石化工厂设施遭到敌方空袭打击。",
@@ -738,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "伊朗：已做好打持久战准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E6%89%93%E6%8C%81%E4%B9%85%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "瑞士百达管理合伙人称伊朗战争已推动财富流入欧洲",
@@ -817,17 +845,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "如何评价伊朗遭袭时美制通信设备集体失灵？发展本土技术有多重要？",
-          "url": "https://www.zhihu.com/question/2027751325488694656",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
           "title": "美国财长贝森特：昨天会见了阿联酋财政事务国务部长穆罕默德·本·哈迪·阿尔·侯赛尼，讨论美国与阿联酋之间持续推进的经济与金融合作。我们还讨论了在对伊朗问题上维持“最大压力”的重要性。",
           "url": "https://flash.jin10.com/detail/20260416033104256800",
           "source": "金十数据",
@@ -900,7 +917,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -993,6 +1010,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "伊朗提出战争赔偿问题有何考量",
+          "url": "https://www.toutiao.com/trending/7628674935150772260/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "报道：伊朗提议允许船只从阿曼一侧安全驶离霍尔木兹海峡，免遭攻击",
           "url": "https://wallstreetcn.com/livenews/3088714",
           "source": "华尔街见闻-快讯",
@@ -1062,7 +1090,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "DeepSeek招人去内蒙草原“守机房”",
@@ -1102,6 +1130,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "阿里巴巴旗下世界模型ABot-PhysWorld登顶WorldArena榜首",
+          "url": "https://wallstreetcn.com/livenews/3089020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "算力涨价潮席卷全球！阿里、Anthropic连续调价 严重算力荒再现",
+          "url": "https://www.cls.cn/detail/2345656",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
@@ -1158,9 +1208,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "阿里巴巴发布可用于游戏开发的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3088996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -1194,6 +1255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，百度涨超7%，阿里巴巴、网易涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3088989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.75%，报7068.97点。 热门中概股里，小马智行初步收涨7.8%，再鼎医药涨5.7%，Boss直聘涨5.5%，百度涨2.2%，阿里涨1.5%，腾讯涨0.8%。KWEB涨0.9%。 ETF中，中概互联网指数ETF（KWEB）收涨0.92%，中国科技指数ETF（CQQQ）收跌0.24%。 德银嘉实沪深300指数ETF（ASHR）收跌0.84%，XtrackersHarvest中证50（ASHS）收跌1.10%。",
