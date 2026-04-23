@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T05:45:00.207518+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-04-24T06:43:10.963547+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 86,
       "titles": [
         {
           "title": "伊朗领导层集体驳斥特朗普",
@@ -15,8 +15,60 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时06分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[03时06分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗已制定针对美方及其盟友反击清单",
+          "url": "https://www.toutiao.com/trending/7631571064904027711/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
+          "url": "https://wallstreetcn.com/articles/3770704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16,
+            19,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
         },
         {
           "title": "伊朗战争丨德黑兰上空传出爆炸声，以色列回应",
@@ -28,6 +80,110 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时06分 ~ 04时52分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗：启动防空系统旨在应对小型无人机",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗奥委会秘书长：伊朗队尚未确定参加美加墨世界杯",
+          "url": "https://news.ifeng.com/c/8sZ2jwcQNW9",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗称收到首笔霍尔木兹海峡通行费",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%94%B6%E5%88%B0%E9%A6%96%E7%AC%94%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16,
+            23,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
+          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时06分 ~ 06时43分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、议长辞去谈判团队职务",
@@ -42,160 +198,6 @@
           "time_info": "[03时06分 ~ 04时52分]"
         },
         {
-          "title": "伊朗已制定针对美方及其盟友反击清单",
-          "url": "https://www.toutiao.com/trending/7631571064904027711/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
-          "url": "https://wallstreetcn.com/articles/3770704",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
-          "source": "知乎",
-          "ranks": [
-            6,
-            16,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
-          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗：启动防空系统旨在应对小型无人机",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗奥委会秘书长：伊朗队尚未确定参加美加墨世界杯",
-          "url": "https://news.ifeng.com/c/8sZ2jwcQNW9",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗称收到首笔霍尔木兹海峡通行费",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%94%B6%E5%88%B0%E9%A6%96%E7%AC%94%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            16,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
-        },
-        {
-          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
-          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时06分 ~ 05时45分]"
-        },
-        {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
@@ -203,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
           "title": "伊朗战争丨以防长：只要美国同意，将刺杀穆杰塔巴",
@@ -240,6 +242,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗称已制定针对美方及其盟友的反击目标清单",
+          "url": "https://www.cls.cn/detail/2354004",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时51分 ~ 06时43分]"
+        },
+        {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
           "url": "https://wallstreetcn.com/articles/3770634",
           "source": "华尔街见闻",
@@ -260,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "特朗普再称“不着急”“没压力” 想同伊朗达成“永久协议”",
+          "url": "https://flash.jin10.com/detail/20260424062741826800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "安全领域消息人士称，位于伊拉克埃尔比勒以西的伊朗库尔德反对派营地遭无人机袭击。",
@@ -284,15 +308,15 @@
           "time_info": "01时20分"
         },
         {
-          "title": "欧盟领导人非正式会议聚焦伊朗战事等议题",
-          "url": "https://wallstreetcn.com/livenews/3093540",
+          "title": "【特朗普“不会”考虑对伊朗动用核武器】被问及是否会考虑对伊朗动用核武器，特朗普回答“不会”，并称美国即便不发动核打击，也已将伊朗“彻底摧毁”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3093561",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时43分"
         },
         {
           "title": "伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破",
@@ -304,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
-          "url": "https://flash.jin10.com/detail/20260424053307020800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "【伊朗媒体：启动防空系统旨在应对小型无人机】据伊朗法尔斯通讯社23日报道，针对国内多地出现小型无人机，伊朗当晚启动防空系统。 报道说，伊朗首都德黑兰及其他几座城市之所以传出防空系统启动的声响，是因为探测到小型无人机，包括以色列“轨道器”型侦察无人机。 伊朗媒体报道，当晚早些时候，德黑兰上空传出爆炸声，防空系统启动，朝“敌对目标”开火。多家以色列媒体随后援引各自消息源报道，以色列并未对伊朗发动空袭。（新华社）",
@@ -329,15 +342,28 @@
           "time_info": "[04时52分 ~ 05时45分]"
         },
         {
-          "title": "伊朗称已制定针对美方及其盟友的反击目标清单",
-          "url": "https://www.cls.cn/detail/2354004",
-          "source": "财联社热门",
+          "title": "欧盟领导人非正式会议聚焦伊朗战事等议题",
+          "url": "https://wallstreetcn.com/livenews/3093540",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 05时45分]"
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时43分]"
+        },
+        {
+          "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
+          "url": "https://flash.jin10.com/detail/20260424053307020800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时43分]"
         },
         {
           "title": "伊朗：已制定针对美方的反击目标清单",
@@ -374,6 +400,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗外长：伊朗人民比以往任何时候更团结",
+          "url": "https://wallstreetcn.com/livenews/3093532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时43分]"
         },
         {
           "title": "伊朗革命卫队扣押集装箱船画面曝光",
@@ -495,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "伊朗外长：伊朗人民比以往任何时候更团结",
-          "url": "https://wallstreetcn.com/livenews/3093532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "伊朗总统：伊朗内部没有激进温和之分 正在团结御敌",
@@ -662,6 +689,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美国总统特朗普：如果伊朗向霍尔木兹海峡扔水雷（布雷），那他们将是愚蠢的。 不知道伊朗是否在布雷。",
+          "url": "https://wallstreetcn.com/livenews/3093545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "瑞士央行副行长：自伊朗冲突开始以来，我们观察到瑞郎贬值。",
           "url": "https://flash.jin10.com/detail/20260424021735753800",
           "source": "金十数据",
@@ -679,7 +717,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -750,6 +788,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "特朗普：没有人试图通过霍尔木兹海峡；伊朗如果想的话可以放弃手中的水雷，这（指布设水雷）真是个愚蠢的决定。",
+          "url": "https://flash.jin10.com/detail/20260424054356704800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "伊朗：将持续生产国防装备，全力保障武装力量需求",
           "url": "https://wallstreetcn.com/livenews/3093418",
           "source": "华尔街见闻-快讯",
@@ -770,6 +819,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗将削减对黎巴嫩真主党的资金支持。",
+          "url": "https://flash.jin10.com/detail/20260424053620532800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "伊朗领导层集体否认内斗分裂：我们都是伊朗人、革命者",
@@ -811,7 +871,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -833,7 +893,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -899,7 +959,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -927,11 +987,12 @@
           "ranks": [
             8,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时43分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.47%，报6843.70点。 热门中概股里，好未来初步收跌9.3%，小鹏跌6.4%，新东方跌5.8%，小马智行跌5%，文远知行、再鼎医药跌4.3%，阿里巴巴跌3.5%，网易跌3.2%，蔚来跌3%，理想、万国数据大致持平，世纪互联涨0.8%，晶科能源涨1%，阿特斯太阳能涨9.5%。 ETF中，KWEB跌2.8%，CQQQ跌2%。",
@@ -984,7 +1045,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -1006,7 +1067,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -1034,7 +1095,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -1106,7 +1167,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
