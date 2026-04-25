@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T21:02:32.825146+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-04-25T22:41:24.161450+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 144,
+      "match_count": 155,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 22时41分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 22时41分]"
         },
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -72,6 +72,18 @@
           "time_info": "[00时55分 ~ 16时52分]"
         },
         {
+          "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
+          "url": "https://wallstreetcn.com/articles/3770885",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 22时41分]"
+        },
+        {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
           "url": "https://news.ifeng.com/c/8saNhgKa31P",
           "source": "凤凰网",
@@ -83,17 +95,6 @@
           "time_info": "[00时55分 ~ 07时39分]"
         },
         {
-          "title": "伊朗战争丨凤凰直击德黑兰恢复赴华航班",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 21时02分]"
-        },
-        {
           "title": "观察｜团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
           "url": "https://m.thepaper.cn/newsDetail_forward_33046359",
           "source": "澎湃新闻",
@@ -103,19 +104,19 @@
             7,
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 22时41分]"
         },
         {
-          "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
-          "url": "https://wallstreetcn.com/articles/3770885",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨凤凰直击德黑兰恢复赴华航班",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -143,8 +144,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 22时41分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 22时41分]"
         },
         {
           "title": "伊朗最高领袖发表致辞",
@@ -156,11 +169,12 @@
             14,
             12,
             13,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 22时41分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -174,18 +188,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 13时11分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 21时02分]"
         },
         {
           "title": "团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
@@ -310,6 +312,20 @@
           "time_info": "[03时52分 ~ 07时39分]"
         },
         {
+          "title": "印尼财长紧急澄清，不会在马六甲海峡收过路费，两天前称考虑效仿伊朗向通过船只收费，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2031348279330468555",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 22时41分]"
+        },
+        {
           "title": "伊朗驻俄大使：伊朗最高领袖或与普京在里海峰会期间首次会晤",
           "url": "https://wallstreetcn.com/livenews/3094341",
           "source": "华尔街见闻-快讯",
@@ -336,6 +352,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "伊朗战争丨伊朗立场比第一轮谈判时更加强硬",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "伊朗方面否认卡利巴夫辞去谈判代表团团长一职",
           "url": "https://flash.jin10.com/detail/20260425024402114800",
           "source": "金十数据",
@@ -345,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "消息人士：伊朗外长离开巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3094409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗德黑兰机场恢复国际航班",
@@ -384,26 +422,26 @@
           "time_info": "10时13分"
         },
         {
-          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
-          "url": "https://wallstreetcn.com/livenews/3094387",
+          "title": "据伊朗媒体报道，伊朗外交部长阿拉格奇在会见巴基斯坦官员后已离开伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260425214802678800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
+          "url": "https://wallstreetcn.com/livenews/3094408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "据伊朗新闻机构：伊朗德黑兰西部阿尔博尔兹省一家胶水厂发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260425201640113800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗外长阿拉格齐已抵达伊斯兰堡，将与巴基斯坦官员们会面。（伊朗伊斯兰共和国通讯社IRNA）",
@@ -428,24 +466,13 @@
           "time_info": "02时50分"
         },
         {
-          "title": "巴基斯坦总理夏巴兹同伊朗外长阿拉格齐举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3094384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "消息人士：伊朗立场比第一轮谈判时更加强硬",
           "url": "https://news.ifeng.com/c/8scIoZfTmeC",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -461,18 +488,15 @@
           "time_info": "02时50分"
         },
         {
-          "title": "印尼财长紧急澄清，不会在马六甲海峡收过路费，两天前称考虑效仿伊朗向通过船只收费，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2031348279330468555",
-          "source": "知乎",
+          "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗有关停火原则立场",
+          "url": "https://wallstreetcn.com/livenews/3094405",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            9,
-            6,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 21时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗国防部称仍掌控霍尔木兹海峡",
@@ -589,6 +613,32 @@
           "time_info": "[18时43分 ~ 21时02分]"
         },
         {
+          "title": "消息人士：伊朗立场比第一轮谈判时更加强硬",
+          "url": "https://flash.jin10.com/detail/20260425190526196800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
+        },
+        {
+          "title": "据路透社：参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。",
+          "url": "https://flash.jin10.com/detail/20260425185646615800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
+        },
+        {
           "title": "特朗普称伊朗拟提出提议回应美方要求，伊方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3094279",
           "source": "华尔街见闻-快讯",
@@ -615,16 +665,17 @@
           "time_info": "[18时43分 ~ 21时02分]"
         },
         {
-          "title": "消息人士：伊朗立场比第一轮谈判时更加强硬",
-          "url": "https://flash.jin10.com/detail/20260425190526196800",
+          "title": "巴基斯坦总理与伊朗外长举行会谈",
+          "url": "https://flash.jin10.com/detail/20260425184920379800",
           "source": "金十数据",
           "ranks": [
-            1,
-            14
+            3,
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
         },
         {
           "title": "美国总统特朗普讨论伊朗停火问题，试图达成一份协议。（Axios）",
@@ -639,16 +690,17 @@
           "time_info": "[02时50分 ~ 03时52分]"
         },
         {
-          "title": "据路透社：参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。",
-          "url": "https://flash.jin10.com/detail/20260425185646615800",
+          "title": "据沙特阿拉比亚电视台：伊朗人更愿意与美国副总统万斯进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260425184426315800",
           "source": "金十数据",
           "ranks": [
-            2,
-            15
+            4,
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
         },
         {
           "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
@@ -663,6 +715,31 @@
           "time_info": "[00时55分 ~ 01时50分]"
         },
         {
+          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
+          "url": "https://wallstreetcn.com/livenews/3094387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：消息人士称，巴基斯坦提出了一项由多国共同对伊朗核计划进行监督的计划。",
+          "url": "https://flash.jin10.com/detail/20260425184406657800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
+        },
+        {
           "title": "埃及外交部：埃及和巴基斯坦外长在电话中讨论推动美国与伊朗之间外交关系的方式。",
           "url": "https://flash.jin10.com/detail/20260425123503525800",
           "source": "金十数据",
@@ -675,16 +752,16 @@
           "time_info": "[13时11分 ~ 15时14分]"
         },
         {
-          "title": "巴基斯坦总理与伊朗外长举行会谈",
-          "url": "https://flash.jin10.com/detail/20260425184920379800",
+          "title": "据伊朗新闻机构：伊朗德黑兰西部阿尔博尔兹省一家胶水厂发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260425201640113800",
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
+          "time_info": "[21时02分 ~ 22时41分]"
         },
         {
           "title": "以色列总理：与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -724,18 +801,6 @@
           "time_info": "[15时14分 ~ 17时52分]"
         },
         {
-          "title": "据沙特阿拉比亚电视台：伊朗人更愿意与美国副总统万斯进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260425184426315800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
-        },
-        {
           "title": "参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。（路透）",
           "url": "https://wallstreetcn.com/livenews/3094373",
           "source": "华尔街见闻-快讯",
@@ -746,6 +811,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时38分 ~ 21时02分]"
+        },
+        {
+          "title": "巴基斯坦总理夏巴兹同伊朗外长阿拉格齐举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3094384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队截获一艘船只。（Tasnim）",
@@ -774,18 +851,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时46分 ~ 10时13分]"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：消息人士称，巴基斯坦提出了一项由多国共同对伊朗核计划进行监督的计划。",
-          "url": "https://flash.jin10.com/detail/20260425184406657800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
         },
         {
           "title": "伊朗议长称以色列防长“胡言乱语”",
@@ -825,6 +890,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时52分 ~ 19时38分]"
+        },
+        {
+          "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
+          "url": "https://news.ifeng.com/c/8scFf7ecf3Y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -891,6 +967,31 @@
           "time_info": "[16时52分 ~ 18时43分]"
         },
         {
+          "title": "伊朗：已生产逾千种武器装备",
+          "url": "https://www.douyin.com/hot/2478373",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
+        },
+        {
+          "title": "“伊朗立场比第一轮谈判时更强硬”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BC%8A%E6%9C%97%E7%AB%8B%E5%9C%BA%E6%AF%94%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%B0%88%E5%88%A4%E6%97%B6%E6%9B%B4%E5%BC%BA%E7%A1%AC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时41分]"
+        },
+        {
           "title": "伊朗革命卫队：扣押一艘疑似与美军多次合作的船只",
           "url": "https://wallstreetcn.com/livenews/3094304",
           "source": "华尔街见闻-快讯",
@@ -902,17 +1003,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时38分 ~ 10时13分]"
-        },
-        {
-          "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
-          "url": "https://news.ifeng.com/c/8scFf7ecf3Y",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
         },
         {
           "title": "伊朗最高领袖发表致辞",
@@ -937,6 +1027,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时38分 ~ 21时02分]"
+        },
+        {
+          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
+          "url": "https://flash.jin10.com/detail/20260425195413000800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
+        },
+        {
+          "title": "伊朗外长向巴方阐明停火立场",
+          "url": "https://wallstreetcn.com/livenews/3094382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -998,16 +1112,39 @@
           "time_info": "[19时38分 ~ 21时02分]"
         },
         {
-          "title": "伊朗：已生产逾千种武器装备",
-          "url": "https://www.douyin.com/hot/2478373",
-          "source": "抖音",
+          "title": "消息称伊朗比第一轮谈判时更强硬",
+          "url": "https://www.toutiao.com/trending/7632283867415789631/",
+          "source": "今日头条",
           "ranks": [
-            13,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
+          "time_info": "[21时02分 ~ 22时41分]"
+        },
+        {
+          "title": "伊朗外长向巴方阐明停火立场",
+          "url": "https://flash.jin10.com/detail/20260425192937443800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
+        },
+        {
+          "title": "伊朗武装部队：美军若继续封锁 必将面临强大回应",
+          "url": "https://wallstreetcn.com/livenews/3094379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
         },
         {
           "title": "据沙特哈达斯电视台（Al-Hadath）：巴基斯坦将在接下来的几个小时内与伊朗外长阿拉格齐合作，优先解决霍尔木兹危机。",
@@ -1070,6 +1207,18 @@
           "time_info": "[03时52分 ~ 04时45分]"
         },
         {
+          "title": "伊朗武装部队：美军若继续封锁 必将面临强大回应",
+          "url": "https://flash.jin10.com/detail/20260425191551858800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
+        },
+        {
           "title": "伊朗主动联系，白宫确认：美国特使Witkoff与库什纳周六将前往巴基斯坦，万斯“随时待命”",
           "url": "https://wallstreetcn.com/livenews/3094229",
           "source": "华尔街见闻-快讯",
@@ -1094,18 +1243,6 @@
           "time_info": "[15时14分 ~ 16时52分]"
         },
         {
-          "title": "“伊朗立场比第一轮谈判时更强硬”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BC%8A%E6%9C%97%E7%AB%8B%E5%9C%BA%E6%AF%94%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%B0%88%E5%88%A4%E6%97%B6%E6%9B%B4%E5%BC%BA%E7%A1%AC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：伊朗代表团在伊斯兰堡会见了巴基斯坦陆军参谋长穆尼尔。",
           "url": "https://flash.jin10.com/detail/20260425135711845800",
           "source": "金十数据",
@@ -1128,6 +1265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时45分]"
+        },
+        {
+          "title": "伊朗称已生产超过1000种武器装备",
+          "url": "https://www.toutiao.com/trending/7632652293082648090/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
         },
         {
           "title": "白宫：近期伊朗方面已见进展。",
@@ -1163,28 +1312,6 @@
           "time_info": "13时11分"
         },
         {
-          "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
-          "url": "https://flash.jin10.com/detail/20260425195413000800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "伊朗外长向巴方阐明停火立场",
-          "url": "https://wallstreetcn.com/livenews/3094382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "美伊谈判有望：伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -1218,15 +1345,15 @@
           "time_info": "05时46分"
         },
         {
-          "title": "消息称伊朗比第一轮谈判时更强硬",
-          "url": "https://www.toutiao.com/trending/7632283867415789631/",
-          "source": "今日头条",
+          "title": "据伊朗媒体：伊朗中部伊斯法罕一家工厂发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260425205256946800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时41分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -1240,26 +1367,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "伊朗外长向巴方阐明停火立场",
-          "url": "https://flash.jin10.com/detail/20260425192937443800",
+          "title": "伊朗总统：希望“历史性挫败”能为霸权主义者敲响警钟",
+          "url": "https://flash.jin10.com/detail/20260425204943722800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "伊朗武装部队：美军若继续封锁 必将面临强大回应",
-          "url": "https://wallstreetcn.com/livenews/3094379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时41分"
         },
         {
           "title": "白宫新闻秘书莱维特：伊朗任务已转入外交阶段。",
@@ -1295,15 +1411,15 @@
           "time_info": "03时52分"
         },
         {
-          "title": "伊朗武装部队：美军若继续封锁 必将面临强大回应",
-          "url": "https://flash.jin10.com/detail/20260425191551858800",
+          "title": "伊朗议员：伊方已形成管理霍尔木兹海峡的综合方案",
+          "url": "https://flash.jin10.com/detail/20260425204118926800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时41分"
         },
         {
           "title": "消息人士：伊朗外长抵达巴基斯坦",
@@ -1394,6 +1510,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗总统：希望“历史性挫败”能为霸权主义者敲响警钟",
+          "url": "https://wallstreetcn.com/livenews/3094394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
           "url": "https://www.toutiao.com/trending/7631822978594553875/",
           "source": "今日头条",
@@ -1425,6 +1552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
+          "url": "https://wallstreetcn.com/livenews/3094393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美财政部对伊朗实施新一轮金融制裁",
@@ -1471,15 +1609,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "伊朗称已生产超过1000种武器装备",
-          "url": "https://www.toutiao.com/trending/7632652293082648090/",
-          "source": "今日头条",
+          "title": "伊朗议员：伊方已形成管理霍尔木兹海峡的综合方案",
+          "url": "https://wallstreetcn.com/livenews/3094390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时41分"
         },
         {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
@@ -1766,6 +1904,19 @@
           "time_info": "[00时55分 ~ 07时39分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时11分 ~ 22时41分]"
+        },
+        {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
           "url": "https://www.zhihu.com/question/2031152992817243775",
           "source": "知乎",
@@ -1825,36 +1976,6 @@
           "time_info": "[00时55分 ~ 10时13分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时11分 ~ 21时02分]"
-        },
-        {
-          "title": "Claude降智了吗",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            9,
-            11,
-            13,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 21时02分]"
-        },
-        {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
           "url": "https://www.zhihu.com/question/2030963912749924411",
           "source": "知乎",
@@ -1869,6 +1990,24 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 10时13分]"
+        },
+        {
+          "title": "Claude降智了吗",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            9,
+            11,
+            13,
+            12,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 22时41分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -1912,8 +2051,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时11分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时11分 ~ 22时41分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -2037,7 +2176,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -2130,6 +2269,18 @@
           "time_info": "[17时52分 ~ 18时43分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -2139,6 +2290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 10时13分]"
+        },
+        {
+          "title": "公募一季度重仓了哪些境外股？腾讯、阿里、美团和小米重仓持有合计超千亿",
+          "url": "https://www.cls.cn/detail/2355671",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时41分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -2151,17 +2314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 10时13分]"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
@@ -2206,17 +2358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "公募一季度重仓了哪些境外股？腾讯、阿里、美团和小米重仓持有合计超千亿",
-          "url": "https://www.cls.cn/detail/2355671",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
