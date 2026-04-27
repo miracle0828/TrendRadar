@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:22:59.235280+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-27T19:03:25.343173+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 94,
+      "match_count": 98,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -178,6 +178,32 @@
           "time_info": "[02时53分 ~ 07时38分]"
         },
         {
+          "title": "美国：已收到伊朗谈判新方案",
+          "url": "https://www.cls.cn/detail/2356393",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时03分]"
+        },
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时03分]"
+        },
+        {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
           "url": "https://www.cls.cn/detail/2356080",
           "source": "财联社热门",
@@ -284,6 +310,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时53分 ~ 06时37分]"
+        },
+        {
+          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
+          "url": "https://wallstreetcn.com/articles/3770921",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时03分]"
         },
         {
           "title": "巴媒记者披露伊朗外长折返伊斯兰堡内情",
@@ -411,18 +450,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "美国：已收到伊朗谈判新方案",
-          "url": "https://www.cls.cn/detail/2356393",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
-        },
-        {
           "title": "伊朗外长抵达圣彼得堡 将同普京举行会谈",
           "url": "https://wallstreetcn.com/livenews/3094657",
           "source": "华尔街见闻-快讯",
@@ -448,16 +475,28 @@
           "time_info": "[03时46分 ~ 06时37分]"
         },
         {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
+          "title": "德国总理默茨：（关于伊朗战争）伊朗人的实力显然超出预期。",
+          "url": "https://flash.jin10.com/detail/20260427185658101800",
+          "source": "金十数据",
           "ranks": [
-            8,
             5
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "伊朗递交停战条件，并提出一项分三阶段解决的谈判方案，与此前内容有哪些变化？美方接受可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031995592310616152",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            16
+          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时03分]"
         },
         {
           "title": "据伊朗媒体：伊朗外长重返巴基斯坦与核谈判“无关”。",
@@ -502,6 +541,28 @@
           "time_info": "[00时41分 ~ 03时46分]"
         },
         {
+          "title": "轰炸中，伊朗国宝来到中国",
+          "url": "https://news.ifeng.com/c/8sen9ipnPrr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时03分]"
+        },
+        {
+          "title": "伊朗战争丨美国已收到伊朗谈判新方案，详情披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时03分]"
+        },
+        {
           "title": "伊朗外长与阿曼苏丹就霍尔木兹海峡安全与地区稳定进行讨论，强调建立不受美国干预的集体安全机制。",
           "url": "https://flash.jin10.com/detail/20260427033432660800",
           "source": "金十数据",
@@ -515,28 +576,27 @@
           "time_info": "[04时38分 ~ 06时37分]"
         },
         {
-          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
-          "url": "https://wallstreetcn.com/articles/3770921",
-          "source": "华尔街见闻",
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            6
+            16,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时22分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 19时03分]"
         },
         {
-          "title": "伊朗递交停战条件，并提出一项分三阶段解决的谈判方案，与此前内容有哪些变化？美方接受可能性有多大？",
-          "url": "https://www.zhihu.com/question/2031995592310616152",
-          "source": "知乎",
+          "title": "伊朗外长抵俄，将同普京举行会谈",
+          "url": "https://news.ifeng.com/c/8sf1sT66OmC",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时22分]"
+          "time_info": "[13时53分 ~ 19时03分]"
         },
         {
           "title": "伊朗“圣城旅”指挥官：“抵抗阵线”更强更团结",
@@ -581,26 +641,41 @@
           "time_info": "[02时53分 ~ 05时37分]"
         },
         {
-          "title": "轰炸中，伊朗国宝来到中国",
-          "url": "https://news.ifeng.com/c/8sen9ipnPrr",
-          "source": "凤凰网",
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
           "ranks": [
+            15,
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时22分]"
+          "time_info": "[13时53分 ~ 19时03分]"
         },
         {
-          "title": "伊朗战争丨美国已收到伊朗谈判新方案，详情披露",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "轰炸中伊朗国宝来到中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            19,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时03分]"
+        },
+        {
+          "title": "美国已收到伊朗谈判新方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时03分]"
         },
         {
           "title": "伊朗外长折返伊斯兰堡内情披露",
@@ -614,34 +689,11 @@
           "time_info": "[10时38分 ~ 13时54分]"
         },
         {
-          "title": "伊朗外长抵俄，将同普京举行会谈",
-          "url": "https://news.ifeng.com/c/8sf1sT66OmC",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
-        },
-        {
           "title": "伊朗高官：核问题不容谈判",
           "url": "https://news.ifeng.com/c/8sf99ZtEIoE",
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -674,35 +726,12 @@
           "time_info": "[01时38分 ~ 03时46分]"
         },
         {
-          "title": "轰炸中伊朗国宝来到中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
-        },
-        {
           "title": "美国已收到伊朗谈判新方案",
           "url": "https://www.toutiao.com/trending/7633275460994125363/",
           "source": "今日头条",
           "ranks": [
             18,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时22分]"
-        },
-        {
-          "title": "美国已收到伊朗谈判新方案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -856,9 +885,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "德国总理默茨：整个国家正受到伊朗领导层的羞辱，尤其是所谓的革命卫队。",
+          "url": "https://flash.jin10.com/detail/20260427185523139800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "德国总理默茨：（关于伊朗战争）伊朗人显然在非常巧妙地进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260427185417088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "伊朗说美方过分要求令谈判无果而终",
@@ -867,7 +918,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -881,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "德国总理默茨：（关于伊朗战争）目前，我看不出美国人选择了什么退出策略。",
+          "url": "https://flash.jin10.com/detail/20260427185406224800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案",
@@ -900,7 +962,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -936,17 +998,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "美国以涉伊朗为由制裁中企 中方表态",
-          "url": "https://www.toutiao.com/trending/7632821618738167818/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "伊朗外长：目前重点是寻求确保霍尔木兹海峡安全通行的解决方案",
@@ -988,7 +1039,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1076,7 +1127,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1109,7 +1160,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1150,7 +1201,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1183,11 +1234,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 16时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 19时03分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -1236,8 +1288,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时03分]"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时03分]"
         },
         {
           "title": "Claude降智了吗",
@@ -1267,18 +1331,6 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时22分]"
-        },
-        {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
           "source": "抖音",
@@ -1294,6 +1346,18 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 19时03分]"
+        },
+        {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
           "url": "https://wallstreetcn.com/livenews/3094744",
           "source": "华尔街见闻-快讯",
@@ -1303,17 +1367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
@@ -1379,6 +1432,28 @@
           "time_info": "[10时38分 ~ 16时22分]"
         },
         {
+          "title": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+          "url": "https://wallstreetcn.com/livenews/3094945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
+          "url": "https://www.zhihu.com/question/2031824748590494923",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "港股大模型“双雄”震荡走弱，MINIMAX-W(00100.HK)跌超12%，智谱(02513.HK)跌超3%。",
           "url": "https://flash.jin10.com/detail/20260427102547435800",
           "source": "金十数据",
@@ -1388,6 +1463,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "千问APP首发灰测阿里视频模型HappyHorse",
+          "url": "https://flash.jin10.com/detail/20260427184520273800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://www.toutiao.com/trending/7632654178616213547/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
@@ -1403,6 +1500,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "路透调查：预计2026年黄金价格平均为4916美元/盎司，2027年为5100美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260427184708810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -1413,7 +1527,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
