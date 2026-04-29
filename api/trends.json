@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-30T05:04:14.067125+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-04-30T06:56:53.078943+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
+        },
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
           "url": "https://news.ifeng.com/c/8shsB9lMhW7",
@@ -19,26 +41,27 @@
           "time_info": "[01时27分 ~ 05时04分]"
         },
         {
-          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
-          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
-          "source": "凤凰网",
+          "title": "伊朗：将以前所未有军事行动回应美",
+          "url": "https://www.toutiao.com/trending/7633112393258172443/",
+          "source": "今日头条",
           "ranks": [
-            4
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -52,15 +75,63 @@
           "time_info": "01时27分"
         },
         {
+          "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260430062722756800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”",
           "url": "https://wallstreetcn.com/livenews/3096941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗：将以前所未有的军事行动回应美",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
           "title": "伊朗海军司令警告美军“勿进一步行动”",
@@ -69,7 +140,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -80,21 +151,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "伊朗：将以前所未有军事行动回应美",
-          "url": "https://www.toutiao.com/trending/7633112393258172443/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
@@ -103,7 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -125,44 +184,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
-        },
-        {
-          "title": "伊朗：将以前所未有的军事行动回应美",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
@@ -176,6 +200,17 @@
           "time_info": "[03时23分 ~ 05时04分]"
         },
         {
+          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
+          "url": "https://wallstreetcn.com/articles/3771197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 06时56分]"
+        },
+        {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -187,13 +222,24 @@
           "time_info": "01时27分"
         },
         {
+          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "美国财长贝森特：我们每天都在对伊朗施加更多经济压力。",
           "url": "https://flash.jin10.com/detail/20260430044728383800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -204,20 +250,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
-          "url": "https://wallstreetcn.com/articles/3771197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "05时04分"
         },
         {
           "title": "加拿大政府：禁止伊朗革命卫队官员入境。",
@@ -226,7 +261,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -237,9 +272,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "比尔·阿克曼：在资本市场，我们有庞大的追随者基数。 对市场而言，伊朗局势是（悬在头上）最大的风险。 我们处于一个“愚蠢的、廉价的市场底部”的上方。 投资IPO将需要数周时间，而非数月。",
@@ -259,7 +316,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -292,7 +349,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -314,7 +371,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -333,7 +390,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -343,8 +400,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -367,8 +424,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -379,8 +436,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
@@ -390,8 +447,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -402,8 +459,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -413,8 +470,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时56分]"
+        },
+        {
+          "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
+          "url": "https://flash.jin10.com/detail/20260430061412017800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -434,7 +502,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -456,7 +524,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -467,9 +535,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
+          "url": "https://wallstreetcn.com/livenews/3096972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "谷歌财报电话会将于十分钟后举行。",
@@ -478,9 +557,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "Anthropic考虑按超过9000亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3096966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -489,9 +579,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
+          "url": "https://wallstreetcn.com/livenews/3096962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
@@ -500,9 +601,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "市场消息：Anthropic考虑以超9000亿美元估值进行融资。",
+          "url": "https://flash.jin10.com/detail/20260430054820316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -517,7 +629,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
