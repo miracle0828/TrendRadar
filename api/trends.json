@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:06:42.333567+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-05-06T22:07:07.860043+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 105,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -21,6 +21,29 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时02分 ~ 19时06分]"
+        },
+        {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 22时07分]"
+        },
+        {
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 22时07分]"
         },
         {
           "title": "伊朗战争丨伊朗总统办公室官员否认总统辞职传闻",
@@ -46,16 +69,15 @@
           "time_info": "[01时02分 ~ 07时05分]"
         },
         {
-          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
-          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "title": "伊朗最大岛屿传出巨响",
+          "url": "https://news.ifeng.com/c/8su7EjBss9v",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时40分 ~ 19时06分]"
+          "time_info": "[13时57分 ~ 22时07分]"
         },
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -67,17 +89,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时05分]"
-        },
-        {
-          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
-          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 19时06分]"
         },
         {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
@@ -92,6 +103,17 @@
           "time_info": "[01时02分 ~ 07时05分]"
         },
         {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 22时07分]"
+        },
+        {
           "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
           "url": "https://www.cls.cn/detail/2363208",
           "source": "财联社热门",
@@ -101,17 +123,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时40分 ~ 16时28分]"
-        },
-        {
-          "title": "伊朗最大岛屿传出巨响",
-          "url": "https://news.ifeng.com/c/8su7EjBss9v",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 19时06分]"
         },
         {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
@@ -124,17 +135,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 10时41分]"
-        },
-        {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 19时06分]"
         },
         {
           "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
@@ -162,6 +162,18 @@
           "time_info": "[01时02分 ~ 10时41分]"
         },
         {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://www.cls.cn/detail/2363664",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 22时07分]"
+        },
+        {
           "title": "伊朗战争丨美媒：海湾地区一货船疑遭导弹袭击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -171,6 +183,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -185,13 +208,25 @@
           "time_info": "[01时02分 ~ 07时05分]"
         },
         {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 22时07分]"
+        },
+        {
           "title": "伊朗战争丨特朗普宣布“收手”，伊朗媒体：咱赢了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -224,7 +259,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -301,7 +336,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -318,14 +353,14 @@
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
-          "url": "https://www.cls.cn/detail/2363664",
-          "source": "财联社热门",
+          "url": "https://news.ifeng.com/c/8suIT3dG9dH",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 22时07分]"
         },
         {
           "title": "伊朗革命卫队再发警告：船只偏离指定航道将面临果断行动",
@@ -356,7 +391,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -367,7 +402,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -376,11 +411,12 @@
           "url": "https://www.cls.cn/detail/2363872",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 22时07分]"
         },
         {
           "title": "美国国务卿鲁比奥：对伊朗的行动已经结束，我们已完成“史诗狂怒”阶段。",
@@ -438,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "伊朗消息人士：美方提议包含不可接受条款",
+          "url": "https://wallstreetcn.com/livenews/3099428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
@@ -501,18 +548,6 @@
           "time_info": "[06时01分 ~ 07时05分]"
         },
         {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 19时06分]"
-        },
-        {
           "title": "【伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”】5月5日，伊朗伊斯兰革命卫队海军司令部发表声明，再次警告所有计划通过霍尔木兹海峡的船只。声明称，通过霍尔木兹海峡“唯一安全的路线是伊朗此前对外宣布的航道”，任何偏离该路线的船只行为都是“不安全的”，并将遭到伊朗伊斯兰革命卫队海军的“坚决回应”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3098866",
           "source": "华尔街见闻-快讯",
@@ -537,15 +572,16 @@
           "time_info": "[01时02分 ~ 02时13分]"
         },
         {
-          "title": "王毅同伊朗外长阿拉格齐会谈",
-          "url": "https://news.ifeng.com/c/8suIT3dG9dH",
-          "source": "凤凰网",
+          "title": "知情人：伊朗将同意将铀浓缩材料运出",
+          "url": "https://www.toutiao.com/trending/7636723322763349546/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时27分 ~ 19时06分]"
+          "time_info": "[19时06分 ~ 22时07分]"
         },
         {
           "title": "美称对伊朗军事行动已结束 伊朗否认",
@@ -583,6 +619,17 @@
           "time_info": "[06时01分 ~ 07时05分]"
         },
         {
+          "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771664",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
           "title": "美称对伊军事行动结束 伊朗否认",
           "url": "https://www.toutiao.com/trending/7636544684365467190/",
           "source": "今日头条",
@@ -605,6 +652,17 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
+          "title": "伊朗：若美方不让步 已准备好开火",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%8B%A5%E7%BE%8E%E6%96%B9%E4%B8%8D%E8%AE%A9%E6%AD%A5+%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
           "title": "由于伊朗战争，永利渡假村（Wynn Resorts）正权衡是否推迟其阿联酋度假村的开业时间。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3098857",
           "source": "华尔街见闻-快讯",
@@ -615,6 +673,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗赞赏中方始终站在历史正确一边",
+          "url": "https://www.toutiao.com/trending/7636368072584544298/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "伊朗将确保船只安全通过霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E7%A1%AE%E4%BF%9D%E8%88%B9%E5%8F%AA%E5%AE%89%E5%85%A8%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "特朗普称若伊朗不履约将更猛烈轰炸",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%8B%A5%E4%BC%8A%E6%9C%97%E4%B8%8D%E5%B1%A5%E7%BA%A6%E5%B0%86%E6%9B%B4%E7%8C%9B%E7%83%88%E8%BD%B0%E7%82%B8&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "美官员：美商船穿越霍尔木兹海峡时，曾遭伊朗袭击",
@@ -645,18 +736,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "知情人：伊朗将同意将铀浓缩材料运出",
-          "url": "https://www.toutiao.com/trending/7636723322763349546/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -804,13 +884,24 @@
           "time_info": "07时05分"
         },
         {
+          "title": "伊朗议会发言人：若美方不作出必要让步 伊朗已准备好开火",
+          "url": "https://wallstreetcn.com/livenews/3099414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "伊朗正评估美提出的停战谅解备忘录",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E8%AF%84%E4%BC%B0%E7%BE%8E%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -824,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，消息人士称，伊朗尚未对美国最新提案作出回应，该提案包含一些不可接受的条款。",
+          "url": "https://wallstreetcn.com/livenews/3099413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "以军总参谋长：若伊朗袭击以色列 以军已做好回应准备",
@@ -881,6 +983,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "伊朗高级议员于X平台表示，Axios的报道更像是美国的愿望清单，而非现实。美国在这场失败的战争中不会获得任何通过面对面谈判未能获得的东西。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3099409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长表示，受损设施将尽快重建。",
           "url": "https://flash.jin10.com/detail/20260506001017501800",
           "source": "金十数据",
@@ -914,6 +1027,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "以色列消息人士：以色列并不知晓特朗普已接近与伊朗达成协议；以色列一直准备应对战事升级。",
+          "url": "https://flash.jin10.com/detail/20260506213303946800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "IMF总裁：即使伊朗战争今天就结束，至少也还需要3-4个月来处理战争造成的后果。 AI对就业的总体影响实际上略微偏正面。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3098844",
           "source": "华尔街见闻-快讯",
@@ -936,6 +1060,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "伊朗称正在审阅美方提案",
+          "url": "https://wallstreetcn.com/livenews/3099406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "美国国务卿鲁比奥：我们必须在伊朗愿意谈判的议题上达成协议。",
           "url": "https://flash.jin10.com/detail/20260506032456639800",
           "source": "金十数据",
@@ -953,7 +1088,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1013,6 +1148,28 @@
           "time_info": "04时14分"
         },
         {
+          "title": "伊朗外交部发言人表示，伊朗正在审议美方提案，并将向巴基斯坦转达其立场。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3099397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "受伊朗战争影响，汉莎航空在取消2万架次航班后面临近20亿美元额外燃油成本",
+          "url": "https://wallstreetcn.com/livenews/3099430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "鲁比奥确认：对伊朗“史诗怒火”军事行动已结束",
           "url": "https://wallstreetcn.com/livenews/3098927",
           "source": "华尔街见闻-快讯",
@@ -1041,7 +1198,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         }
@@ -1052,19 +1209,20 @@
       "match_count": 22,
       "titles": [
         {
-          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
-          "url": "https://wallstreetcn.com/articles/3771572",
-          "source": "华尔街见闻",
+          "title": "从0开始了解Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            8,
+            6,
             7,
-            6
+            8,
+            9,
+            5,
+            23
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时02分 ~ 13时57分]"
+          "time_info": "[01时02分 ~ 22时07分]"
         },
         {
           "title": "UP主优化DeepSeek V4",
@@ -1080,22 +1238,22 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 13时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 22时07分]"
         },
         {
-          "title": "从0开始了解Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
-          "source": "bilibili 热搜",
+          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
+          "url": "https://wallstreetcn.com/articles/3771572",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            8,
+            10,
             9,
-            5
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 9,
           "time_info": "[01时02分 ~ 13时57分]"
         },
         {
@@ -1184,7 +1342,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
