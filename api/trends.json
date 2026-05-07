@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:43:13.842091+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-05-07T14:10:16.985922+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 10时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 14时10分]"
         },
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 10时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 14时10分]"
         },
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -130,6 +130,17 @@
           "time_info": "[00时28分 ~ 07时52分]"
         },
         {
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时10分]"
+        },
+        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -185,15 +196,27 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
-          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
-          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 14时10分]"
         },
         {
           "title": "伊朗常驻联合国代表团表示，霍尔木兹海峡问题的唯一可行解决方案很明确：永久结束战争、解除海上封锁、恢复正常通航。",
@@ -274,27 +297,28 @@
           "time_info": "[06时53分 ~ 07时52分]"
         },
         {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 10时43分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 69 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035488793264747701",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时10分]"
+        },
+        {
+          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
+          "url": "https://www.cls.cn/detail/2364403",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时10分]"
         },
         {
           "title": "伊朗：对美方的不信任源于其敌对行为",
@@ -332,6 +356,17 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
           "title": "距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅",
           "url": "https://flash.jin10.com/detail/20260507060730497800",
           "source": "金十数据",
@@ -365,17 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
-          "url": "https://www.cls.cn/detail/2364403",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "海湾合作委员会表示，伊朗对阿联酋的指控毫无根据。",
@@ -502,6 +526,28 @@
           "time_info": "00时28分"
         },
         {
+          "title": "法国外交部：只要霍尔木兹海峡关闭，我们就不会解除对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20260507135656808800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "伊朗外交部：伊朗国足将参加世界杯",
+          "url": "https://flash.jin10.com/detail/20260507135434782800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "伊朗议长卡利巴夫：军事袭击的可能性并不低。 “敌人”寄希望于施加经济压力。",
           "url": "https://wallstreetcn.com/livenews/3099479",
           "source": "华尔街见闻-快讯",
@@ -623,6 +669,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "伊朗媒体称有伊朗油轮突破美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3099749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
           "url": "https://flash.jin10.com/detail/20260507011223424800",
           "source": "金十数据",
@@ -640,7 +697,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -868,7 +925,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "从0开始了解Claude Code",
@@ -904,11 +961,12 @@
           "url": "https://www.cls.cn/detail/2364304",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时10分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -961,6 +1019,29 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时10分]"
+        },
+        {
+          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2364390",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时10分]"
+        },
+        {
           "title": "Anthropic为何成了美国安全威胁",
           "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -972,28 +1053,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 07时52分]"
-        },
-        {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2364390",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
@@ -1016,6 +1075,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "印度金融服务秘书：Anthropic的新人工智能模型引发了全球网络安全担忧，全球监管机构关注银行风险。",
+          "url": "https://flash.jin10.com/detail/20260507134416962800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "Anthropic与马斯克旗下SpaceX宣布：达成一项包含太空开发内容的计算合作协议",
