@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T21:32:53.631581+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-05-08T23:22:12.848857+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 124,
+      "match_count": 142,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 23时22分]"
         },
         {
           "title": "特朗普回应打击伊朗：只是轻微敲打",
@@ -75,6 +75,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时48分 ~ 13时30分]"
+        },
+        {
+          "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时22分]"
+        },
+        {
+          "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
+          "url": "https://v.ifeng.com/c/8sxW6y1Facc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时22分]"
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
@@ -123,6 +145,28 @@
           "time_info": "[15时29分 ~ 17时20分]"
         },
         {
+          "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
+          "url": "https://news.ifeng.com/c/8sy1qxEZ8vp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "伊朗成立“波斯湾海峡管理局”，过霍尔木兹的船要先填40多道题？",
+          "url": "https://news.ifeng.com/c/8sxblbeHFN9",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
           "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
           "url": "https://www.zhihu.com/question/2036007359844020985",
           "source": "知乎",
@@ -158,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "伊朗议会国家安全委员会主席阿齐兹在社交平台上发文称，重蹈覆辙将招致更强硬的回应，请尊重伊朗的新海洋管辖制度。",
@@ -221,9 +254,35 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美国副总统万斯会见卡塔尔总理，讨论与伊朗的谈判事宜。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3100815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 23时22分]"
         },
         {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
@@ -296,15 +355,15 @@
           "time_info": "19时14分"
         },
         {
-          "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
-          "url": "https://v.ifeng.com/c/8sxW6y1Facc",
-          "source": "凤凰网",
+          "title": "伊朗外交部：伊朗和土耳其外长通话。",
+          "url": "https://flash.jin10.com/detail/20260508230946698800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "23时22分"
         },
         {
           "title": "被扣押的油轮载有伊朗石油。（伊朗媒体IRNA）",
@@ -439,20 +498,6 @@
           "time_info": "[10时48分 ~ 15时29分]"
         },
         {
-          "title": "美中央司令部：对伊朗军事设施实施定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 21时32分]"
-        },
-        {
           "title": "伊朗打击美舰 美空袭伊沿海地区",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0+%E7%BE%8E%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%B2%BF%E6%B5%B7%E5%9C%B0%E5%8C%BA",
           "source": "百度热搜",
@@ -488,6 +533,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时48分 ~ 13时30分]"
+        },
+        {
+          "title": "美军：向两艘伊朗油轮开火",
+          "url": "https://www.toutiao.com/trending/7636684535199190571/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "美军称向两艘伊朗油轮开火",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%90%91%E4%B8%A4%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "据福克斯新闻记者：从一位美国高级官员处获悉，美军刚刚袭击了伊朗米纳布的卡尔甘港海军检查站。",
@@ -584,6 +651,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 07时02分]"
+        },
+        {
+          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "伊朗：已做好全面准备回击任何侵略",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%87%BB%E4%BB%BB%E4%BD%95%E4%BE%B5%E7%95%A5",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "伊朗部队与美军舰发生“零星冲突”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%83%A8%E9%98%9F%E4%B8%8E%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E7%94%9F%E2%80%9C%E9%9B%B6%E6%98%9F%E5%86%B2%E7%AA%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "国际能源署署长比罗尔：一旦伊朗战争结束，供应将逐步恢复，这将导致市场波动。",
@@ -702,7 +802,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -872,6 +972,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "俄国家原子能公司：伊朗布什尔核电站施工现场逐步恢复运转",
+          "url": "https://wallstreetcn.com/livenews/3100802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗南部霍尔木兹甘省锡里克市再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260508060704742800",
           "source": "金十数据",
@@ -900,9 +1011,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "据AXIOS：美国副总统万斯目前正与卡塔尔首相会晤，商讨与伊朗的谈判事宜。据一位美国官员透露，在旨在结束战争的协议谈判中，卡塔尔方面充当着美国与伊朗之间的一条关键幕后沟通渠道。",
+          "url": "https://flash.jin10.com/detail/20260508230652377800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "伊朗南部发生爆炸，伊媒指阿联酋或涉“敌对行动”",
@@ -938,6 +1060,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗锡里克附近听到的爆炸声是由于交火造成的。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3100799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "伊朗媒体：伊海军在霍尔木兹海峡附近攻击3艘美军驱逐舰",
           "url": "https://wallstreetcn.com/livenews/3100209",
           "source": "华尔街见闻-快讯",
@@ -958,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗Nour：伊朗与美国的船只在霍尔木兹海峡周边发生冲突，断断续续的冲突已经持续了一个小时。",
+          "url": "https://wallstreetcn.com/livenews/3100798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美国制裁伊拉克官员，称其协助伊朗出售石油",
@@ -988,7 +1132,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1090,6 +1234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "美军称在阿曼湾再拦截两艘伊朗油轮",
+          "url": "https://wallstreetcn.com/livenews/3100793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美军：穿越海峡时遭袭 对伊朗进行打击 无意升级局势",
@@ -1235,6 +1390,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "美军说向两艘伊朗油轮开火，使其丧失航行能力。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3100791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美媒：美军打击伊朗港口 美官员称并非重燃战争或结束停火",
           "url": "https://flash.jin10.com/detail/20260508045157834800",
           "source": "金十数据",
@@ -1356,6 +1522,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "意大利能源集团爱迪生公司（Edison）首席执行官：公司预计，在达成和平协议后，这家海湾地区的生产商将在30至45天内重启液化天然气（LNG）供应，但供应量将低于伊朗战争爆发前的水平。 如果明天早上能达成持久的和平协议，我认为在一个到一个半月的时间内，海湾地区的生产商就能恢复能源生产。 至于卡塔尔，在一个到一个半月之后，我们应该会看到液化天然气供应恢复，但供应量会比之前更有限。",
+          "url": "https://wallstreetcn.com/livenews/3100787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "据福克斯新闻记者：美军刚刚对伊朗的格什姆港和阿巴斯港发动了打击；一位美国高级官员透露，这并不意味着战争重燃。",
           "url": "https://flash.jin10.com/detail/20260508044222582800",
           "source": "金十数据",
@@ -1373,7 +1550,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1400,6 +1577,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "伊朗媒体：伊武装部队与美船只发生零星冲突",
+          "url": "https://wallstreetcn.com/livenews/3100786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "阿联酋称埃及战机已部署在其境内以应对伊朗袭击",
           "url": "https://wallstreetcn.com/livenews/3100370",
           "source": "华尔街见闻-快讯",
@@ -1409,6 +1597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "美国：对两艘悬挂伊朗旗帜的油轮实施封锁，导致其“丧失行动能力”。",
+          "url": "https://wallstreetcn.com/livenews/3100785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -1653,7 +1852,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
