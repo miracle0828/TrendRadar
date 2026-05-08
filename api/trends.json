@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:30:09.425862+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-05-08T15:29:21.268114+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 101,
+      "match_count": 106,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 13时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 15时29分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -30,6 +30,17 @@
           "time_info": "[00时50分 ~ 05时57分]"
         },
         {
+          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
+          "url": "https://wallstreetcn.com/articles/3771778",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 15时29分]"
+        },
+        {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
@@ -41,34 +52,23 @@
           "time_info": "[00时50分 ~ 05时57分]"
         },
         {
-          "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
-          "url": "https://www.cls.cn/detail/2365519",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时30分]"
-        },
-        {
-          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
-          "url": "https://wallstreetcn.com/articles/3771778",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时30分]"
-        },
-        {
           "title": "特朗普回应打击伊朗：只是轻微敲打",
           "url": "https://news.ifeng.com/c/8swugAgjYdA",
           "source": "凤凰网",
           "ranks": [
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 15时29分]"
+        },
+        {
+          "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
+          "url": "https://www.cls.cn/detail/2365519",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -110,6 +110,17 @@
           "time_info": "[13时29分 ~ 13时30分]"
         },
         {
+          "title": "伊朗战争丨美情报界：伊朗仍保有70%的导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "伊朗议会国家安全委员会主席阿齐兹在社交平台上发文称，重蹈覆辙将招致更强硬的回应，请尊重伊朗的新海洋管辖制度。",
           "url": "https://flash.jin10.com/detail/20260508041016149800",
           "source": "金十数据",
@@ -130,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美情报界：伊朗仍保有战前水平70%的导弹库存",
+          "url": "https://wallstreetcn.com/livenews/3100482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
@@ -238,6 +260,18 @@
           "time_info": "[05时57分 ~ 07时02分]"
         },
         {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 15时29分]"
+        },
+        {
           "title": "伊朗武装部队：美军袭击油轮并空袭沿海地区 伊方已进行反击",
           "url": "https://www.cls.cn/detail/2365488",
           "source": "财联社热门",
@@ -286,15 +320,29 @@
           "time_info": "[02时24分 ~ 04时14分]"
         },
         {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "伊朗打击美舰 美袭击伊油轮",
+          "url": "https://www.toutiao.com/trending/7637289576934936100/",
+          "source": "今日头条",
           "ranks": [
-            6
+            6,
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 15时29分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035858261681730120",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 15时29分]"
         },
         {
           "title": "伊朗打击美舰 美空袭伊沿海地区",
@@ -309,28 +357,16 @@
           "time_info": "[10时48分 ~ 13时30分]"
         },
         {
-          "title": "伊朗打击美舰 美袭击伊油轮",
-          "url": "https://www.toutiao.com/trending/7637289576934936100/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时30分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035858261681730120",
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
           "source": "知乎",
           "ranks": [
-            9,
-            11
+            13,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时30分]"
+          "time_info": "[13时29分 ~ 15时29分]"
         },
         {
           "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
@@ -427,17 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 07时02分]"
-        },
-        {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "布伦特原油期货盘后涨超2美元/桶，报道称美军袭击伊朗。",
@@ -579,7 +604,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -623,7 +648,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -656,7 +681,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -813,6 +838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "欧洲央行执委施纳贝尔：我认为伊朗战争造成的一些损害将难以逆转。",
@@ -975,7 +1011,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -1035,6 +1071,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "指责美在霍尔木兹海峡违反停火 伊朗公布回击画面",
+          "url": "https://wallstreetcn.com/livenews/3100449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：阿巴斯港市再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260508044708787800",
           "source": "金十数据",
@@ -1090,6 +1137,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "中情局估计美军封锁下伊朗至少可撑3到4个月",
+          "url": "https://wallstreetcn.com/livenews/3100447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3100092",
           "source": "华尔街见闻-快讯",
@@ -1140,7 +1198,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         }
@@ -1148,7 +1206,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -1157,11 +1215,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时24分 ~ 13时30分]"
+          "appearance_count": 8,
+          "time_info": "[02时24分 ~ 15时29分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -1179,11 +1238,12 @@
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek估值450亿美元",
@@ -1195,6 +1255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -1272,6 +1343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%B0%E5%80%BC450%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -1297,7 +1379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         }
