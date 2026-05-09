@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T18:57:12.403880+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-05-09T19:51:52.802014+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时16分 ~ 18时57分]"
+          "appearance_count": 14,
+          "time_info": "[03时16分 ~ 19时51分]"
         },
         {
           "title": "现场画面：伊朗海军扣押一艘油轮",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 18时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 19时51分]"
         },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -56,6 +56,18 @@
           "time_info": "[01时15分 ~ 07时56分]"
         },
         {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 19时51分]"
+        },
+        {
           "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
           "url": "https://v.ifeng.com/c/8sxW6y1Facc",
           "source": "凤凰网",
@@ -67,16 +79,16 @@
           "time_info": "[01时15分 ~ 07时56分]"
         },
         {
-          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
-          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            4,
-            8
+            1,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时42分 ~ 18时57分]"
+          "time_info": "[13时48分 ~ 19时51分]"
         },
         {
           "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
@@ -88,18 +100,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 06时03分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时57分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -161,15 +161,26 @@
           "time_info": "10时42分"
         },
         {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://wallstreetcn.com/livenews/3101051",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "市场消息：美国总统特朗普于当地时间周五晚返回白宫，但他没有回应关于其当晚是否收到伊朗回应的问题。",
@@ -205,6 +216,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时51分]"
+        },
+        {
+          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时51分]"
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
@@ -255,6 +289,18 @@
           "time_info": "[06时03分 ~ 07时56分]"
         },
         {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://wallstreetcn.com/livenews/3101051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时51分]"
+        },
+        {
           "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
           "url": "https://wallstreetcn.com/livenews/3101035",
           "source": "华尔街见闻-快讯",
@@ -265,28 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时57分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 18时57分]"
-        },
-        {
-          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
-          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 18时57分]"
         },
         {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
@@ -309,6 +333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://flash.jin10.com/detail/20260509183051864800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时51分]"
         },
         {
           "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
@@ -393,17 +429,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时03分]"
-        },
-        {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://flash.jin10.com/detail/20260509183051864800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
@@ -720,7 +745,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -748,11 +773,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 18时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -762,11 +788,12 @@
             3,
             2,
             11,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -775,11 +802,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 19时51分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -791,8 +819,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 19时51分]"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时55分 ~ 18时57分]"
+          "time_info": "[13时48分 ~ 19时51分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
@@ -806,17 +846,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
-          "url": "https://flash.jin10.com/detail/20260509183702634800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
           "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
           "url": "https://flash.jin10.com/detail/20260509024606066800",
           "source": "金十数据",
@@ -828,16 +857,16 @@
           "time_info": "03时16分"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
+          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
+          "url": "https://flash.jin10.com/detail/20260509183702634800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 17时19分]"
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时51分]"
         },
         {
           "title": "为什么 MiniMax 大模型无法识别马嘉祺是谁？",
@@ -850,6 +879,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 15时56分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -874,17 +914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时57分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
