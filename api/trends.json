@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T10:57:15.273848+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-11T14:47:56.804368+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 107,
+      "match_count": 111,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时47分]"
         },
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时52分]"
+        },
+        {
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时47分]"
         },
         {
           "title": "伊朗战争丨美国商船遭伊朗无人机袭击",
@@ -111,15 +122,16 @@
           "time_info": "[00时55分 ~ 05时46分]"
         },
         {
-          "title": "伊朗知情人士：特朗普不满意反而更好",
-          "url": "https://news.ifeng.com/c/8t246befcan",
-          "source": "凤凰网",
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时47分]"
         },
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
@@ -171,16 +183,15 @@
           "time_info": "07时52分"
         },
         {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
+          "title": "伊朗战争丨一艘超大型油轮通过霍尔木兹海",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            1
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 10时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊朗回应美方提议：聚焦结束地区战争 愿就核计划与海峡问题谈判",
@@ -200,7 +211,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -522,6 +533,30 @@
           "time_info": "[07时52分 ~ 10时57分]"
         },
         {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时47分]"
+        },
+        {
+          "title": "伊朗最高领袖会见武装部队司令并下达新指令",
+          "url": "https://www.cls.cn/detail/2367274",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时47分]"
+        },
+        {
           "title": "伊朗摧毁两个与摩萨德有关联的行动组",
           "url": "https://wallstreetcn.com/livenews/3101138",
           "source": "华尔街见闻-快讯",
@@ -747,17 +782,6 @@
           "time_info": "[06时45分 ~ 07时52分]"
         },
         {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
           "title": "美国驻联合国大使：正在研究由巴基斯坦转交的伊朗回应。",
           "url": "https://flash.jin10.com/detail/20260511010349520800",
           "source": "金十数据",
@@ -792,17 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗最高领袖会见武装部队司令并下达新指令",
-          "url": "https://www.cls.cn/detail/2367274",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引伊朗消息人士报道，伊朗在回应中要求在“所有战线”结束战争。",
@@ -1075,6 +1088,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "杰富瑞：美伊维持不战不和，但伊朗占据时间优势",
+          "url": "https://flash.jin10.com/detail/20260511142844967800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "伊朗官媒：伊朗已拒绝美国方案",
           "url": "https://wallstreetcn.com/livenews/3101180",
           "source": "华尔街见闻-快讯",
@@ -1092,9 +1116,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "韩国央行：自从伊朗战争爆发以来，讨论降息事宜已变得极为困难。 韩元的价值被严重低估了。 芯片行业预计在未来一到两年内将保持强劲态势。",
+          "url": "https://wallstreetcn.com/livenews/3101394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊媒：伊朗不会为取悦美方而制定计划",
@@ -1161,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "一艘油轮在伊朗协调下通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3101379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
@@ -1298,7 +1344,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
@@ -1343,6 +1389,18 @@
           "time_info": "[00时54分 ~ 10时57分]"
         },
         {
+          "title": "月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座",
+          "url": "https://www.cls.cn/detail/2367387",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时47分]"
+        },
+        {
           "title": "Kimi与DeepSeek到底谁更值钱",
           "url": "https://www.toutiao.com/trending/7638234526786784804/",
           "source": "今日头条",
@@ -1366,15 +1424,15 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座",
-          "url": "https://www.cls.cn/detail/2367387",
-          "source": "财联社热门",
+          "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
+          "url": "https://www.zhihu.com/question/2037110129963661155",
+          "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "阿里千问与淘宝全面打通",
@@ -1383,7 +1441,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1394,7 +1452,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
