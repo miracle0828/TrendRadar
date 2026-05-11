@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T02:59:45.811276+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-12T04:48:56.092786+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时48分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时48分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时48分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -49,8 +49,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时48分]"
+        },
+        {
+          "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
+          "url": "https://flash.jin10.com/detail/20260512043724901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：美国除了接受巴方在提案中的权利之外别无选择。",
+          "url": "https://wallstreetcn.com/livenews/3101857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -81,7 +103,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -105,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时48分]"
         },
         {
           "title": "伊朗最高领袖顾问：特朗普想要利用现在的“平静”局势，这种想法太幼稚。",
@@ -126,7 +148,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -137,9 +159,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "美媒曝阿联酋四月初曾空袭伊朗炼油厂",
+          "url": "https://flash.jin10.com/detail/20260512042007758800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
@@ -181,9 +214,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
+          "url": "https://wallstreetcn.com/livenews/3101850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
@@ -203,9 +247,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "据华尔街日报：阿联酋一直在秘密对伊朗进行攻击。阿联酋尚未公开承认对伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260512041302774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
@@ -217,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
+          "url": "https://flash.jin10.com/detail/20260512041239632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
@@ -247,7 +313,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -269,7 +335,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -280,7 +346,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -291,7 +357,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -302,7 +368,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -335,7 +401,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -351,15 +417,48 @@
           "time_info": "00时33分"
         },
         {
+          "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
+          "url": "https://wallstreetcn.com/livenews/3101828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "据美联社：美国政府敦促银行标记可疑的伊朗洗钱活动。",
           "url": "https://flash.jin10.com/detail/20260512014103904800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "美国财政部：伊朗相关制裁新目标包括革命卫队有关的个人和实体。",
+          "url": "https://flash.jin10.com/detail/20260512030711222800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://wallstreetcn.com/livenews/3101827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "伊朗：核技术不在与美国会谈的议程之内。（IRIB）",
@@ -376,7 +475,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "千问+淘宝！试水大模型变现新入口",
@@ -387,8 +486,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时48分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月11日），美国科技股七巨头（Magnificent 7）指数跌0.29%，报223.79点。成分股谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。 “超大”市值科技股指数跌0.13%，报454.22点。",
+          "url": "https://wallstreetcn.com/livenews/3101843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -397,9 +507,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.03%，报7067.16点。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。 ETF中，中国科技指数ETF（CQQQ）收涨2.07%，中概互联网指数ETF（KWEB）收涨0.14%。 德银嘉实沪深300指数ETF（ASHR）收涨2.18%，XtrackersHarvest中证50（ASHS）收涨1.81%，MSCI新兴市场ex中国ETF（EMXC）收跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
@@ -408,7 +529,46 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一（5月11日）纽约尾盘，ICE美元指数涨0.06%，报97.955点，日内交投区间为98.153-97.805点，亚太午盘刷新日高，之后逐步回撤，纽约早间转跌、北京时间22:43刷新日低。 彭博美元指数涨0.10%，报1189.10点，日内交投区间为1190.88-1187.80点。",
+          "url": "https://wallstreetcn.com/livenews/3101835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260512032542198800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报3038.63点。 MarketVectorTM数字资产100中盘指数跌1.03%，报3295.16点。 MarketVector数字资产100指数涨0.11%，报16122.26点。 目前，Solana涨1.08%，狗狗币涨0.11%，XRP跌0.75%。 比特币涨0.22%，暂报81582.41美元；以太坊跌1.42%，暂报2329.94美元。",
+          "url": "https://wallstreetcn.com/livenews/3101792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -428,23 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报3038.63点。 MarketVectorTM数字资产100中盘指数跌1.03%，报3295.16点。 MarketVector数字资产100指数涨0.11%，报16122.26点。 目前，Solana涨1.08%，狗狗币涨0.11%，XRP跌0.75%。 比特币涨0.22%，暂报81582.41美元；以太坊跌1.42%，暂报2329.94美元。",
-          "url": "https://wallstreetcn.com/livenews/3101792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         }
       ]
     }
