@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T17:38:00.616847+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-05-12T19:54:21.810146+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -42,6 +42,18 @@
           "time_info": "[00时33分 ~ 07时57分]"
         },
         {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 19时54分]"
+        },
+        {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2368275",
           "source": "财联社热门",
@@ -55,27 +67,16 @@
           "time_info": "[00时33分 ~ 07时57分]"
         },
         {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时38分]"
-        },
-        {
           "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
           "url": "https://www.cls.cn/detail/2368816",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时54分]"
         },
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -85,8 +86,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时54分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 19时54分]"
         },
         {
           "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
@@ -177,19 +191,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 17时38分]"
-        },
-        {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
           "url": "https://wallstreetcn.com/articles/3771985",
           "source": "华尔街见闻",
@@ -226,6 +227,17 @@
           "time_info": "[04时48分 ~ 06时07分]"
         },
         {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时54分]"
+        },
+        {
           "title": "美媒曝阿联酋四月初曾空袭伊朗炼油厂",
           "url": "https://flash.jin10.com/detail/20260512042007758800",
           "source": "金十数据",
@@ -236,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 06时07分]"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
@@ -382,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
@@ -566,7 +578,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -676,6 +688,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
+          "url": "https://www.zhihu.com/question/2037127514833646636",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 19时54分]"
+        },
+        {
           "title": "千问+淘宝！试水大模型变现新入口",
           "url": "https://www.cls.cn/detail/2368276",
           "source": "财联社热门",
@@ -686,18 +711,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时07分]"
-        },
-        {
-          "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
-          "url": "https://www.zhihu.com/question/2037127514833646636",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时38分]"
         },
         {
           "title": "Deepseek分析145斤怎么瘦到100斤",
@@ -728,7 +741,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
