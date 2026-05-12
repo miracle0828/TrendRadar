@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T01:23:14.395117+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-05-13T04:02:59.252721+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -15,8 +15,52 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时02分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗驻科威特大使馆需要获得对被拘留伊朗公民的接触权。",
+          "url": "https://flash.jin10.com/detail/20260513031924607800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗外交部：被科威特逮捕的四名伊朗人正在进行例行海上巡逻任务，由于“导航中断”，这才进入了科威特领海。",
+          "url": "https://flash.jin10.com/detail/20260513031833254800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "声明显示：伊朗外交部驳斥科威特关于德黑兰计划对该海湾国家采取“敌对行动”的声明。",
+          "url": "https://flash.jin10.com/detail/20260513031717822800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗官员：波斯湾溢油事件可能由油轮排污引起",
+          "url": "https://wallstreetcn.com/livenews/3102481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "世界杯将至，伊朗队仍在等待入境美国",
@@ -26,8 +70,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时02分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时02分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -52,26 +107,37 @@
           "time_info": "[01时22分 ~ 01时23分]"
         },
         {
-          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://www.cls.cn/detail/2368941",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
           "title": "科威特外交大臣：今天与阿联酋外交大臣通话，双方谴责伊朗革命卫队下属武装团伙潜入布比延岛企图对科威特国实施敌对行动并与科威特武装部队发生交火，这是对科威特国主权的公然侵犯，也是对国际法和联合国宪章的严重违反。",
           "url": "https://flash.jin10.com/detail/20260513003455934800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "【伊拉克和巴基斯坦据称已分别同伊朗签订协议以运输能源】伊拉克和巴基斯坦已分别同伊朗签订协议，以从海湾地区运输石油和液化天然气。根据协议，伊拉克确保了两艘超大型原油运输船的安全通行，这两艘船于5月10日通过了霍尔木兹海峡，每艘船载有约200万桶原油。而根据巴基斯坦和伊朗之间达成的另一项双边协议，两艘装载卡塔尔液化天然气的油轮正驶往巴基斯坦。消息人士称，伊拉克和巴基斯坦均未就过境事宜直接向伊朗或其伊朗伊斯兰革命卫队支付任何款项。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3102475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗外交部驳斥科威特有关德黑兰计划对其采取行动的说法。",
+          "url": "https://wallstreetcn.com/livenews/3102473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
@@ -80,7 +146,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -91,16 +157,104 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊拉克、巴基斯坦与伊朗达成能源运输协议 伊朗展现控制力",
+          "url": "https://flash.jin10.com/detail/20260513024737641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗：五项先决条件未落实前，不会参加下轮美伊会谈",
+          "url": "https://wallstreetcn.com/livenews/3102466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "【伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡】伊朗外交部发言人巴加埃表示，结束战事和解除对霍尔木兹海峡的封锁是同美国进行任何谈判的先决条件。巴加埃还表示，美国要求的是伊朗“彻底投降”，而不是真正的对话。他还指出，封锁霍尔木兹海峡的责任在于美国，根据国际法，海上封锁构成战争行为。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3102462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260513022656149800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗已通知巴基斯坦，美国的海上封锁加剧了与华盛顿谈判的信任危机。",
+          "url": "https://flash.jin10.com/detail/20260513022537073800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗对美国提出的五项谈判先决条件包括战争损害赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3102457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "报道：沙特曾于3月下旬报复性袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3102456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "Anthropic进一步拓展法律行业，新工具可协助准备司法考试",
+          "url": "https://wallstreetcn.com/livenews/3102483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
         {
           "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
           "url": "https://www.zhihu.com/question/2037127514833646636",
@@ -109,8 +263,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时02分]"
         },
         {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
@@ -119,9 +273,48 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
+          "url": "https://wallstreetcn.com/livenews/3102465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3102476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     }
