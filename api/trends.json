@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T02:58:35.528475+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-14T04:46:16.661664+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
@@ -14,20 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
         {
-          "title": "美国副总统万斯：重申伊朗不应该掌握核武器。",
-          "url": "https://wallstreetcn.com/livenews/3103193",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
+          "url": "https://flash.jin10.com/detail/20260514042124677800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时46分"
         },
         {
           "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
@@ -36,9 +36,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国副总统万斯：重申伊朗不应该掌握核武器。",
+          "url": "https://wallstreetcn.com/livenews/3103193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时46分]"
         },
         {
           "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
@@ -46,11 +58,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时46分]"
         },
         {
           "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
@@ -59,7 +72,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -70,7 +83,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -81,7 +94,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -92,7 +105,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -114,7 +127,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -141,15 +154,37 @@
           "time_info": "00时25分"
         },
         {
+          "title": "据伊朗媒体Fars News：安全方面的消息人士表示，有无人机袭击了伊拉克埃尔比勒北部的伊朗反对派营地。",
+          "url": "https://flash.jin10.com/detail/20260514034350903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
           "title": "加拿大央行会议纪要：重申新关税可能会激发央行采取降息行动，伊朗战争则可能会触发加息。 央行官员们对美国墨西哥加拿大贸易协议（USMCA）潜在的审议结果、伊朗战争的后果、央行政策路径都有“一系列的看法”。",
           "url": "https://wallstreetcn.com/livenews/3103168",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国副总统万斯：目前谈判的根本问题在于我们能否取得足够进展以满足特朗普设定的红线。这条红线非常简单。他需要确信我们已经制定了足够的保护措施，以确保伊朗永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260514031813482800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "【伊朗外长：科威特“非法”攻击伊朗船只并扣押伊公民】伊朗外长阿拉格齐对外表示，科威特“非法”攻击了一艘伊朗船只，并扣押了4名伊朗公民。他要求科方立即释放扣押人员，并称伊朗“保留采取回应措施的权利”。科威特方面对此暂无官方回应。（央视）",
@@ -158,7 +193,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -166,7 +201,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -177,19 +212,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时46分]"
+        },
+        {
+          "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3103215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772187",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时46分]"
         },
         {
           "title": "阿里巴巴公布第四季度财报",
@@ -200,19 +247,65 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时46分]"
+        },
+        {
+          "title": "保姆级Claude Code速成攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时46分]"
         },
         {
           "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
           "url": "https://wallstreetcn.com/livenews/3103184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时46分]"
+        },
+        {
+          "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260514041348939800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时46分"
+        },
+        {
+          "title": "谷歌母公司Alphabet收涨3.9%，创收盘历史新高。 英伟达收涨2.3%，连续第六个交易日走高。",
+          "url": "https://wallstreetcn.com/livenews/3103212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨3.89%，报7282.03点，5月5日结束交易以来持续站上50日均线（彭博数据显示该技术指标目前报6943.90点），逼近100日均线（目前报7308.60点）、2月26日收盘位7411.37点，200日均线在7671.89点。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，中概互联网指数ETF（KWEB）收涨4.94%，中国科技指数ETF（CQQQ）收涨4.88%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.06%，XtrackersHarvest中证50（ASHS）收涨1.96%，德银嘉实沪深300指数ETF（ASHR）收涨1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3103208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
@@ -221,20 +314,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "保姆级Claude Code速成攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时58分"
         },
         {
           "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
@@ -243,9 +325,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数在美国PPI数据发布日涨超0.2%",
+          "url": "https://wallstreetcn.com/livenews/3103202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         }
       ]
     }
