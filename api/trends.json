@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T14:45:48.207689+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-14T17:39:22.244678+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
@@ -52,9 +52,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
+          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
@@ -153,7 +164,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -219,7 +230,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -252,7 +263,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -263,7 +274,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -304,7 +315,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -313,11 +324,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 14时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 17时39分]"
         },
         {
           "title": "阿里巴巴公布第四季度财报",
@@ -343,8 +355,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 14时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 17时39分]"
         },
         {
           "title": "保姆级Claude Code速成攻略",
@@ -357,8 +369,30 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 11时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 17时39分]"
+        },
+        {
+          "title": "腾讯开源Agent Memory 最高降低61%Token消耗",
+          "url": "https://flash.jin10.com/detail/20260514171759512800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "腾讯开源Agent Memory 最高降低61%Token消耗",
+          "url": "https://wallstreetcn.com/livenews/3103614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
@@ -389,11 +423,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 17时39分]"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -472,7 +507,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -483,7 +518,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -505,7 +540,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -519,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "港股收盘：恒生指数平收，恒生科技指数收跌0.35%。阿里巴巴涨近4%，百度涨超2%；华虹半导体跌超2%，中芯国际跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3103567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
@@ -549,7 +595,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
