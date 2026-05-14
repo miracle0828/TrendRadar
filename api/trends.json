@@ -1,321 +1,11 @@
 {
-  "generated_at": "2026-05-14T17:39:22.244678+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-05-14T19:52:11.212402+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
-          "url": "https://news.ifeng.com/c/8t6ZERSuZf6",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 11时30分]"
-        },
-        {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            9,
-            18,
-            13,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时57分]"
-        },
-        {
-          "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
-          "url": "https://flash.jin10.com/detail/20260514025417529800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特朗普访华，伊朗民众：期待中国调停美伊冲突",
-          "url": "https://news.ifeng.com/c/8t6SA2yPI37",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
-          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
-          "url": "https://flash.jin10.com/detail/20260514024415109800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "惠誉：预计英国石油(BP.N)将于2026年底实现其140亿至180亿美元净债务目标区间的下限。伊朗战争对英国石油的运营影响有限，但预计其信用状况将受到正面影响，原因是油气价格上涨。",
-          "url": "https://flash.jin10.com/detail/20260514045739756800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
-          "url": "https://flash.jin10.com/detail/20260514042124677800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 06时11分]"
-        },
-        {
-          "title": "美国副总统万斯：重申伊朗不应该掌握核武器。",
-          "url": "https://wallstreetcn.com/livenews/3103193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 04时46分]"
-        },
-        {
-          "title": "伊朗外长要求科威特立即释放扣押人员",
-          "url": "https://www.toutiao.com/trending/7638972470343663662/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 11时30分]"
-        },
-        {
-          "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260514024226850800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国副总统万斯：如果伊朗获得核武器，将会引发核军备竞赛，多个国家将会寻求获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260514024152051800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "据以色列第12频道：内塔尼亚胡正在召开安全会议，讨论包括黎巴嫩和伊朗在内的议题。",
-          "url": "https://flash.jin10.com/detail/20260514024024403800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "尽管受伊朗战事影响，Wizz Air仍预计夏季营收将实现增长",
-          "url": "https://flash.jin10.com/detail/20260514142144596800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "阿联酋总统顾问安瓦尔·加尔加什（Anwar Gargash）：阿联酋重申政治解决方案与谈判的重要性。 阿联酋并不寻求战争，并曾真诚地致力于避免战争。 海湾地区的阿拉伯与伊朗关系不能建立在对抗和冲突之上。",
-          "url": "https://wallstreetcn.com/livenews/3103182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "伊朗海军上将西亚里：美国在伊朗战争中的失败将载入史册。",
-          "url": "https://flash.jin10.com/detail/20260514000152843800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "报道：美国参议院否决停止伊朗战争的法案，尽管议员们受挫感日益增强",
-          "url": "https://wallstreetcn.com/livenews/3103178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "伊朗高官：霍尔木兹海峡管理方案已提交伊朗议会审议，等待最终批准",
-          "url": "https://wallstreetcn.com/livenews/3103246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗外长阿拉格齐抵达印度，参加5月14日至15日举行的金砖国家外长会议。",
-          "url": "https://flash.jin10.com/detail/20260513235916362800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：德黑兰呼吁金砖国家成员明确谴责美国和以色列对伊朗的侵略。",
-          "url": "https://flash.jin10.com/detail/20260514141721784800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "报道：北约拟邀海湾国家参加峰会，伊朗战争将成议题",
-          "url": "https://wallstreetcn.com/livenews/3103127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：安全方面的消息人士表示，有无人机袭击了伊拉克埃尔比勒北部的伊朗反对派营地。",
-          "url": "https://flash.jin10.com/detail/20260514034350903800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：是时候将美国的霸权行为扫进历史的垃圾堆了。",
-          "url": "https://flash.jin10.com/detail/20260514141446316800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "英国经济增长势头强劲，但受伊朗战争和政治动荡威胁",
-          "url": "https://flash.jin10.com/detail/20260514141036438800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "加拿大央行会议纪要：重申新关税可能会激发央行采取降息行动，伊朗战争则可能会触发加息。 央行官员们对美国墨西哥加拿大贸易协议（USMCA）潜在的审议结果、伊朗战争的后果、央行政策路径都有“一系列的看法”。",
-          "url": "https://wallstreetcn.com/livenews/3103168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国副总统万斯：目前谈判的根本问题在于我们能否取得足够进展以满足特朗普设定的红线。这条红线非常简单。他需要确信我们已经制定了足够的保护措施，以确保伊朗永远不会拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260514031813482800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "【伊朗外长：科威特“非法”攻击伊朗船只并扣押伊公民】伊朗外长阿拉格齐对外表示，科威特“非法”攻击了一艘伊朗船只，并扣押了4名伊朗公民。他要求科方立即释放扣押人员，并称伊朗“保留采取回应措施的权利”。科威特方面对此暂无官方回应。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3103165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -328,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 17时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 19时52分]"
         },
         {
           "title": "阿里巴巴公布第四季度财报",
@@ -379,7 +69,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -390,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -523,6 +213,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "西班牙央行：需要获得如Anthropic的Glasswing等保护性举措的支持。",
+          "url": "https://flash.jin10.com/detail/20260514190139475800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "日本银行业、政府部门最快将于两周内Anthropic模型Mythos。（读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3103252",
           "source": "华尔街见闻-快讯",
@@ -545,6 +246,28 @@
           "time_info": "14时45分"
         },
         {
+          "title": "美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。",
+          "url": "https://wallstreetcn.com/livenews/3103666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "西班牙央行：在不利情况下，先进的人工智能模型如Anthropic的Mythos可能会产生潜在的负面系统影响。",
+          "url": "https://flash.jin10.com/detail/20260514190121726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3103173",
           "source": "华尔街见闻-快讯",
@@ -556,13 +279,24 @@
           "time_info": "02时58分"
         },
         {
+          "title": "汇丰：阿里云业务盈利能力未来两个季度或显著改善",
+          "url": "https://flash.jin10.com/detail/20260514185059941800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "港股收盘：恒生指数平收，恒生科技指数收跌0.35%。阿里巴巴涨近4%，百度涨超2%；华虹半导体跌超2%，中芯国际跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3103567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -609,6 +343,338 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
+          "url": "https://news.ifeng.com/c/8t6ZERSuZf6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 11时30分]"
+        },
+        {
+          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
+          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时52分]"
+        },
+        {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            9,
+            18,
+            13,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时57分]"
+        },
+        {
+          "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
+          "url": "https://flash.jin10.com/detail/20260514025417529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普访华，伊朗民众：期待中国调停美伊冲突",
+          "url": "https://news.ifeng.com/c/8t6SA2yPI37",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
+          "url": "https://flash.jin10.com/detail/20260514024415109800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "惠誉：预计英国石油(BP.N)将于2026年底实现其140亿至180亿美元净债务目标区间的下限。伊朗战争对英国石油的运营影响有限，但预计其信用状况将受到正面影响，原因是油气价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260514045739756800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
+          "url": "https://flash.jin10.com/detail/20260514042124677800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时11分]"
+        },
+        {
+          "title": "美国副总统万斯：重申伊朗不应该掌握核武器。",
+          "url": "https://wallstreetcn.com/livenews/3103193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时46分]"
+        },
+        {
+          "title": "伊朗外长要求科威特立即释放扣押人员",
+          "url": "https://www.toutiao.com/trending/7638972470343663662/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 11时30分]"
+        },
+        {
+          "title": "自昨晚以来，伊朗已允许30艘船只通过霍尔木兹海峡。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3103682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260514024226850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国副总统万斯：如果伊朗获得核武器，将会引发核军备竞赛，多个国家将会寻求获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260514024152051800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "据以色列第12频道：内塔尼亚胡正在召开安全会议，讨论包括黎巴嫩和伊朗在内的议题。",
+          "url": "https://flash.jin10.com/detail/20260514024024403800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "尽管受伊朗战事影响，Wizz Air仍预计夏季营收将实现增长",
+          "url": "https://flash.jin10.com/detail/20260514142144596800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "阿联酋总统顾问安瓦尔·加尔加什（Anwar Gargash）：阿联酋重申政治解决方案与谈判的重要性。 阿联酋并不寻求战争，并曾真诚地致力于避免战争。 海湾地区的阿拉伯与伊朗关系不能建立在对抗和冲突之上。",
+          "url": "https://wallstreetcn.com/livenews/3103182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗海军上将西亚里：美国在伊朗战争中的失败将载入史册。",
+          "url": "https://flash.jin10.com/detail/20260514000152843800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "报道：美国参议院否决停止伊朗战争的法案，尽管议员们受挫感日益增强",
+          "url": "https://wallstreetcn.com/livenews/3103178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗高官：霍尔木兹海峡管理方案已提交伊朗议会审议，等待最终批准",
+          "url": "https://wallstreetcn.com/livenews/3103246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗外长阿拉格齐抵达印度，参加5月14日至15日举行的金砖国家外长会议。",
+          "url": "https://flash.jin10.com/detail/20260513235916362800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：德黑兰呼吁金砖国家成员明确谴责美国和以色列对伊朗的侵略。",
+          "url": "https://flash.jin10.com/detail/20260514141721784800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "报道：北约拟邀海湾国家参加峰会，伊朗战争将成议题",
+          "url": "https://wallstreetcn.com/livenews/3103127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗革命卫队表示，自周三晚上以来，大约30艘船只在德黑兰的许可下穿越霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260514185427371800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：安全方面的消息人士表示，有无人机袭击了伊拉克埃尔比勒北部的伊朗反对派营地。",
+          "url": "https://flash.jin10.com/detail/20260514034350903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：是时候将美国的霸权行为扫进历史的垃圾堆了。",
+          "url": "https://flash.jin10.com/detail/20260514141446316800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "英国经济增长势头强劲，但受伊朗战争和政治动荡威胁",
+          "url": "https://flash.jin10.com/detail/20260514141036438800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "加拿大央行会议纪要：重申新关税可能会激发央行采取降息行动，伊朗战争则可能会触发加息。 央行官员们对美国墨西哥加拿大贸易协议（USMCA）潜在的审议结果、伊朗战争的后果、央行政策路径都有“一系列的看法”。",
+          "url": "https://wallstreetcn.com/livenews/3103168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国副总统万斯：目前谈判的根本问题在于我们能否取得足够进展以满足特朗普设定的红线。这条红线非常简单。他需要确信我们已经制定了足够的保护措施，以确保伊朗永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260514031813482800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "【伊朗外长：科威特“非法”攻击伊朗船只并扣押伊公民】伊朗外长阿拉格齐对外表示，科威特“非法”攻击了一艘伊朗船只，并扣押了4名伊朗公民。他要求科方立即释放扣押人员，并称伊朗“保留采取回应措施的权利”。科威特方面对此暂无官方回应。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3103165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     },
