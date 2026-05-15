@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:48:38.304017+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-05-15T19:56:38.612911+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -75,6 +75,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "德国总理默茨：与美国总统特朗普达成共识，伊朗必须回到谈判桌上。",
+          "url": "https://flash.jin10.com/detail/20260515194854340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "伊媒：伊朗已允许部分中国船只通过霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8t80DotgBG6",
           "source": "凤凰网",
@@ -96,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 19时56分]"
         },
         {
           "title": "道指涨幅扩大至1%，伊朗战争爆发以来首次创盘中历史新高，标普涨0.96%、科技板块涨1.9%，纳指涨1.1%，半导体指数涨超0.5%，银行指数涨1.3%，罗素2000指数涨0.7%。",
@@ -132,15 +155,26 @@
           "time_info": "03时01分"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
+          "title": "伊朗外长：核问题“太复杂”，伊美一致同意推迟核谈判",
+          "url": "https://flash.jin10.com/detail/20260515194234057800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://wallstreetcn.com/livenews/3104398",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "19时56分"
         },
         {
           "title": "伊朗外长阿拉格齐：地区国家如今意识到，不能依赖美国和以色列来保障安全。",
@@ -215,7 +249,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -264,6 +298,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "伊朗外长：霍尔木兹海峡仍对友好国家商业船只开放",
+          "url": "https://wallstreetcn.com/livenews/3104378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "伊朗司法机构发言人：扣押在霍尔木兹海峡违规的美国油轮是基于国内法和国际法的。",
           "url": "https://flash.jin10.com/detail/20260515001115110800",
           "source": "金十数据",
@@ -284,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普：我们可以袭击伊朗的桥梁和电力设施。",
+          "url": "https://wallstreetcn.com/livenews/3104377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "大批伊朗民众集会为男足壮行",
@@ -330,6 +386,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "伊朗外长：伊朗不寻求发展核武器",
+          "url": "https://wallstreetcn.com/livenews/3104374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "美国中央司令部：我们针对伊朗的所有行动完全符合武装冲突法。",
           "url": "https://flash.jin10.com/detail/20260515000535534800",
           "source": "金十数据",
@@ -339,6 +406,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬呼吁与伊拉克开展战略合作。",
+          "url": "https://flash.jin10.com/detail/20260515191642928800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://flash.jin10.com/detail/20260515191611579800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "英国央行首席经济学家Huw Pill：通胀失速趋势已经在伊朗战争之前陷入停滞。 能源价格前景存在不确定性。 应该侧重于二次（通胀）效应。 无法容忍通胀动能失控。 面对不确定性时，政策必须让央行处于最佳状态。 预计不会重演2022年那样的二次效应。 劳动力市场比2022年更加松弛。 2022年存在过剩资金。",
@@ -369,7 +458,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -380,7 +469,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         }
@@ -388,7 +477,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "沪指失守4200点、工业气体、碳化硅逆势走强，小金属领跌，恒科指涨幅回落，阿里涨4%",
@@ -447,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
+          "url": "https://www.zhihu.com/question/2038588162453104310",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
