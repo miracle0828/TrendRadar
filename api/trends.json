@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T18:14:27.597188+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-05-16T19:50:10.043101+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -20,6 +20,18 @@
           "time_info": "[00时50分 ~ 07时02分]"
         },
         {
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
           "title": "特朗普松口：可接受伊朗暂停核计划20年",
           "url": "https://news.ifeng.com/c/8tAOMUPRq30",
           "source": "凤凰网",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时53分 ~ 18时14分]"
-        },
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 18时14分]"
         },
         {
           "title": "伊朗外长称伊美同意推进浓缩铀问题谈判",
@@ -100,6 +100,18 @@
           "time_info": "07时02分"
         },
         {
+          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
+          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时50分]"
+        },
+        {
           "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
           "url": "https://flash.jin10.com/detail/20260516002146408800",
           "source": "金十数据",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://wallstreetcn.com/livenews/3104774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -132,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 18时14分]"
+        },
+        {
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://wallstreetcn.com/livenews/3104774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时50分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -170,6 +183,17 @@
           "time_info": "[16时02分 ~ 18时14分]"
         },
         {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "伊朗：一旦不安全状况结束，霍尔木兹海峡通航将恢复正常。（伊朗迈赫尔通讯社）",
           "url": "https://wallstreetcn.com/livenews/3104750",
           "source": "华尔街见闻-快讯",
@@ -182,15 +206,15 @@
           "time_info": "[16时02分 ~ 18时14分]"
         },
         {
-          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
-          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
-          "source": "凤凰网",
+          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
+          "url": "https://flash.jin10.com/detail/20260516182456183800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时50分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗进行了极其严厉的打击，结果简直令人难以置信。",
@@ -235,6 +259,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -350,8 +396,33 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 19时50分]"
+        },
+        {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 19时50分]"
+        },
         {
           "title": "Deepseek不语 只是一味跟团",
           "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=19&Refer=top",
@@ -386,30 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
-          "url": "https://www.zhihu.com/question/2038603109828486376",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 18时14分]"
-        },
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时14分]"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -448,6 +495,40 @@
           "time_info": "[16时02分 ~ 18时14分]"
         },
         {
+          "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+          "url": "https://wallstreetcn.com/livenews/3104769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时50分]"
+        },
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
           "url": "https://flash.jin10.com/detail/20260516014944429800",
           "source": "金十数据",
@@ -457,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
-          "url": "https://wallstreetcn.com/livenews/3104769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
