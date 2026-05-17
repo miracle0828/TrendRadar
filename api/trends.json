@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T22:56:04.460548+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-05-17T23:59:15.364934+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -30,6 +30,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时02分 ~ 21时17分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 23时59分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -57,6 +73,34 @@
           "time_info": "[01时02分 ~ 10时54分]"
         },
         {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 23时59分]"
+        },
+        {
+          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://wallstreetcn.com/articles/3772457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时05分 ~ 23时59分]"
+        },
+        {
           "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
           "url": "https://wallstreetcn.com/livenews/3104817",
           "source": "华尔街见闻-快讯",
@@ -71,35 +115,6 @@
           "time_info": "[03时03分 ~ 17时04分]"
         },
         {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 22时56分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 22时56分]"
-        },
-        {
           "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
           "url": "https://wallstreetcn.com/livenews/3104818",
           "source": "华尔街见闻-快讯",
@@ -112,19 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时03分 ~ 14时23分]"
-        },
-        {
-          "title": "报道：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://wallstreetcn.com/articles/3772457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 22时56分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -207,6 +209,31 @@
           "time_info": "[01时02分 ~ 07时52分]"
         },
         {
+          "title": "伊朗外长与卡塔尔外长通话，讨论“地区局势发展”。",
+          "url": "https://flash.jin10.com/detail/20260517233910090800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
+          "url": "https://wallstreetcn.com/livenews/3104872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时59分]"
+        },
+        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -221,30 +248,67 @@
           "time_info": "[03时03分 ~ 07时52分]"
         },
         {
-          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
-          "url": "https://wallstreetcn.com/livenews/3104872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 22时56分]"
-        },
-        {
           "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
           "url": "https://wallstreetcn.com/livenews/3104871",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             11,
-            23
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时59分]"
+        },
+        {
+          "title": "伊朗称美方对伊朗提出5个关键条件",
+          "url": "https://wallstreetcn.com/livenews/3104869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时59分]"
+        },
+        {
+          "title": "伊媒：美对伊朗提出5个关键条件",
+          "url": "https://news.ifeng.com/c/8tCiiAKahND",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时55分 ~ 23时59分]"
+        },
+        {
+          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
+          "url": "https://wallstreetcn.com/livenews/3104883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时05分 ~ 22时56分]"
+          "time_info": "[21时17分 ~ 23时59分]"
+        },
+        {
+          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
+          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时55分 ~ 23时59分]"
         },
         {
           "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
@@ -269,31 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时05分 ~ 21时17分]"
-        },
-        {
-          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
-          "url": "https://wallstreetcn.com/livenews/3104883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时56分]"
-        },
-        {
-          "title": "伊朗称美方对伊朗提出5个关键条件",
-          "url": "https://wallstreetcn.com/livenews/3104869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 22时56分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
@@ -344,6 +383,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时44分 ~ 07时52分]"
+        },
+        {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时55分 ~ 23时59分]"
         },
         {
           "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
@@ -408,28 +458,6 @@
           "time_info": "[19时05分 ~ 22时56分]"
         },
         {
-          "title": "伊媒：美对伊朗提出5个关键条件",
-          "url": "https://news.ifeng.com/c/8tCiiAKahND",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
-          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
-          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
           "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
           "url": "https://flash.jin10.com/detail/20260517181846468800",
           "source": "金十数据",
@@ -463,17 +491,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
@@ -521,6 +538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517233453161800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美媒：伊朗计划收取霍尔木兹海峡海底光缆通行费",
+          "url": "https://flash.jin10.com/detail/20260517233156883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "伊朗南部省份发生客车侧翻事故 已致7人死亡",
@@ -771,6 +810,18 @@
           "time_info": "[01时02分 ~ 07时52分]"
         },
         {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时17分 ~ 23时59分]"
+        },
+        {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
@@ -797,28 +848,17 @@
           "time_info": "[01时02分 ~ 07时52分]"
         },
         {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 22时56分]"
-        },
-        {
           "title": "HermesAgent 超越 OpenClaw 成为全球 Token 消耗第一，这意味着什么？",
           "url": "https://www.zhihu.com/question/2037133840666321869",
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 22时56分]"
+          "appearance_count": 5,
+          "time_info": "[21时17分 ~ 23时59分]"
         }
       ]
     }
