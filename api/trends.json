@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T02:51:27.915142+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-19T04:24:52.182400+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 35,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "巴基斯坦总理办公室：巴基斯坦总理今天在总理办公室主持了与巴基斯坦驻伊朗及海湾合作委员会（GCC）国家大使的会议。",
@@ -52,6 +52,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "伊朗官员：美国自设打击的最后期限又自行取消",
+          "url": "https://flash.jin10.com/detail/20260519040226244800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
           "source": "百度热搜",
@@ -59,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "美方被曝将暂停对伊朗的石油制裁",
@@ -70,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
@@ -81,8 +92,42 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "time_info": "[02时51分 ~ 04时24分]"
+        },
+        {
+          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
+          "url": "https://wallstreetcn.com/articles/3772533",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 04时24分]"
+        },
+        {
+          "title": "伊朗披露穆杰塔巴受伤细节",
+          "url": "https://www.toutiao.com/trending/7640468019504857124/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 04时24分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -96,17 +141,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
           "title": "沙特媒体：伊朗提出有条件地将浓缩铀转到俄罗斯",
           "url": "https://flash.jin10.com/detail/20260519000633329800",
           "source": "金十数据",
@@ -118,26 +152,37 @@
           "time_info": "00时22分"
         },
         {
-          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
-          "url": "https://wallstreetcn.com/articles/3772533",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
           "title": "伊朗总统：对话并不意味着屈服。伊朗以尊严、权威和维护国家权益的姿态进行对话，绝不会在任何情况下退让人民和国家的合法权利。我们将以逻辑和全力服务人民，直到最后，捍卫伊朗的利益和尊严。",
           "url": "https://flash.jin10.com/detail/20260519022740541800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国白宫发言人凯莉：（就伊朗问题）特朗普随时可以选择所有选项。",
+          "url": "https://flash.jin10.com/detail/20260519035307747800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
+          "url": "https://wallstreetcn.com/livenews/3105582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "【特朗普称“不考虑向德黑兰作出任何让步”】在收到伊朗关于旨在结束战事的最新协议草案回复后，美国总统特朗​​普表示，他“不考虑”向德黑兰作出任何让步。特朗普还警告称，伊朗已然知晓“即将发生什么”。 特朗普表示，他对德黑兰的回复并不感到“沮丧”。他同时指出，伊朗完全清楚美国有能力给其造成更沉重的打击。特朗普说：“我可以告诉你，他们现在比以往任何时候都更渴望达成协议，因为他们知道接下来即将发生什么。”（央视）",
@@ -146,9 +191,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗哈尔克岛连续10天未见油轮",
+          "url": "https://wallstreetcn.com/livenews/3105580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "德国财长克林贝尔：将于周二与美国财长贝森特进行双边会谈，讨论伊朗问题。",
@@ -168,7 +224,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -184,26 +240,48 @@
           "time_info": "00时22分"
         },
         {
+          "title": "伊朗总统：对话不意味投降，将全力捍卫国家尊严",
+          "url": "https://wallstreetcn.com/livenews/3105575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "伊朗在格什姆岛发现美以无人机。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3105574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁",
           "url": "https://flash.jin10.com/detail/20260519015026293800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
         {
-          "title": "伊朗披露穆杰塔巴受伤细节",
-          "url": "https://www.toutiao.com/trending/7640468019504857124/",
-          "source": "今日头条",
+          "title": "伊朗塔斯尼姆通讯社：伊朗在格什姆岛发现美以无人机。",
+          "url": "https://flash.jin10.com/detail/20260519032905544800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时51分"
+          "time_info": "04时24分"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进，考虑重启军事行动",
@@ -212,9 +290,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：在检测到微型无人机后，格什姆岛的防空系统已被激活。",
+          "url": "https://flash.jin10.com/detail/20260519031111051800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普：将推迟攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3105571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -223,9 +323,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗格什姆岛防空系统启动",
+          "url": "https://wallstreetcn.com/livenews/3105570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "伊朗格什姆岛防空系统启动",
+          "url": "https://flash.jin10.com/detail/20260519030912454800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
+          "url": "https://wallstreetcn.com/livenews/3105568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "报道：美国拒绝了伊朗的最新和平方案建议",
@@ -256,7 +389,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         }
@@ -264,19 +397,31 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3105589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
         {
           "title": "Skill 不就是 prompt 吗？为啥被吹成这样？",
           "url": "https://www.zhihu.com/question/2025951838562783802",
           "source": "知乎",
           "ranks": [
             18,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
@@ -285,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -296,9 +441,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数重新跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3105573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     }
