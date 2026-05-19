@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-20T03:00:19.062278+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-20T04:48:53.280412+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
         {
           "title": "谷歌展示Google Flow Music。",
           "url": "https://wallstreetcn.com/livenews/3106211",
@@ -25,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "IBM(IBM.N)宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -63,6 +63,18 @@
           "time_info": "00时22分"
         },
         {
+          "title": "DeepSeek最新回应",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时48分]"
+        },
+        {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
           "source": "财联社热门",
@@ -71,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
         },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
@@ -82,8 +94,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
+        },
+        {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "time_info": "[02时59分 ~ 04时48分]"
         },
         {
           "title": "千问App可生成淫秽小说？客服回应",
@@ -98,24 +121,13 @@
           "time_info": "[00时22分 ~ 03时00分]"
         },
         {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
           "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
           "url": "https://flash.jin10.com/detail/20260520022256133800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -126,7 +138,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -137,7 +149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -148,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -159,7 +171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -170,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -181,9 +193,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "谷歌发布Gemini 3.5系列模型",
@@ -192,9 +215,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "谷歌(GOOG.O)： 推出谷歌图片图像创作与编辑应用程序。",
@@ -203,9 +237,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "谷歌I/O大会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3106229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
@@ -214,7 +259,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -236,7 +281,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -247,7 +292,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         }
@@ -255,7 +300,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -265,8 +310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
         },
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -276,8 +321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
         },
         {
           "title": "调解方认为美伊谈判几乎进展甚微 伊朗坚持核心诉求不变",
@@ -286,7 +331,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -297,7 +342,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -308,7 +353,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -318,11 +363,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
         },
         {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
@@ -333,8 +379,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
         },
         {
           "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
@@ -345,8 +391,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时48分]"
         },
         {
           "title": "伊朗驻墨西哥大使：伊朗视墨西哥为拉美友好、有影响力且重要的国家，并特别重视全面扩大各领域的双边关系。",
@@ -366,7 +412,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -399,9 +445,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：很明显，伊朗正崛起成为一个强大而有影响力的国家。",
@@ -421,9 +478,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
+          "url": "https://flash.jin10.com/detail/20260520041238784800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国财长贝森特：欧洲必须改善针对伊朗影子舰队的政策。（路透）",
@@ -443,7 +511,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -457,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美媒：美军在印度洋扣押一艘伊朗相关油轮",
+          "url": "https://flash.jin10.com/detail/20260520040732136800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国总统特朗普：我们还没有撤离伊朗。",
@@ -476,7 +555,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -494,6 +573,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "彭博美元指数涨超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3106228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3106183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3106221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -507,23 +625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
-          "url": "https://wallstreetcn.com/livenews/3106183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时00分"
         }
       ]
     }
