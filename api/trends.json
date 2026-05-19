@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T16:36:14.856422+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-05-19T20:09:51.074303+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 20时09分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 06时02分]"
+        },
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时09分]"
         },
         {
           "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
@@ -70,15 +82,16 @@
           "time_info": "[02时51分 ~ 16时36分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时36分]"
+          "time_info": "[16时35分 ~ 20时09分]"
         },
         {
           "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
@@ -104,15 +117,15 @@
           "time_info": "[00时22分 ~ 08时05分]"
         },
         {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "巴基斯坦总理办公室：巴基斯坦总理今天在总理办公室主持了与巴基斯坦驻伊朗及海湾合作委员会（GCC）国家大使的会议。",
@@ -182,6 +195,30 @@
           "time_info": "[08时05分 ~ 13时01分]"
         },
         {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时09分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时09分]"
+        },
+        {
           "title": "伊朗披露穆杰塔巴受伤细节",
           "url": "https://www.toutiao.com/trending/7640468019504857124/",
           "source": "今日头条",
@@ -212,29 +249,6 @@
           "ranks": [
             12,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时36分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时36分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -296,6 +310,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "【特朗普称“不考虑向德黑兰作出任何让步”】在收到伊朗关于旨在结束战事的最新协议草案回复后，美国总统特朗​​普表示，他“不考虑”向德黑兰作出任何让步。特朗普还警告称，伊朗已然知晓“即将发生什么”。 特朗普表示，他对德黑兰的回复并不感到“沮丧”。他同时指出，伊朗完全清楚美国有能力给其造成更沉重的打击。特朗普说：“我可以告诉你，他们现在比以往任何时候都更渴望达成协议，因为他们知道接下来即将发生什么。”（央视）",
           "url": "https://wallstreetcn.com/livenews/3105552",
           "source": "华尔街见闻-快讯",
@@ -340,6 +365,28 @@
           "time_info": "02时51分"
         },
         {
+          "title": "伊朗官员称，格什姆岛传出的爆炸声是由于正在排除未爆弹药所致。（伊朗塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3106002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗声称又逮捕两名以色列间谍。",
           "url": "https://flash.jin10.com/detail/20260518235217532800",
           "source": "金十数据",
@@ -349,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "特朗普：应海湾国家请求，取消原定周二对伊朗的打击",
@@ -450,6 +508,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "伊朗格什姆岛传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3105993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -549,6 +618,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗街头出现枪支教学点",
+          "url": "https://www.toutiao.com/trending/7640752625827217451/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3105597",
           "source": "华尔街见闻-快讯",
@@ -582,6 +662,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "俄罗斯国家原子能公司：有信心在未来几周内恢复伊朗布什尔核电站的人员配置。",
+          "url": "https://flash.jin10.com/detail/20260519193450463800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
           "url": "https://wallstreetcn.com/livenews/3105528",
           "source": "华尔街见闻-快讯",
@@ -591,12 +682,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：谈判并不意味着投降，德黑兰是在维护伊朗民族权利的前提下，带着尊严参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260519193444265800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Skill 不就是 prompt 吗？为啥被吹成这样？",
@@ -639,11 +741,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 20时09分]"
         },
         {
           "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
@@ -743,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "DeepSeek：输入“”等字符触发返回异常内容属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://wallstreetcn.com/livenews/3105984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "Vera来了：英伟达首款专为Agent打造的CPU交付一批顶级AI实验室",
