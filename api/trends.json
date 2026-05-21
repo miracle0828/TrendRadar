@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T19:22:40.192387+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-05-21T23:21:47.874035+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 54,
       "titles": [
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐与巴基斯坦内政部长会晤，讨论间接的伊朗-美国谈判。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "伊朗驻法国大使：正酝酿在霍尔木兹海峡建立“永久收费站”！",
+          "url": "https://flash.jin10.com/detail/20260521230932101800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "【伊朗最高领袖下令：接近武器级的铀必须留在国内】记者获悉，当地时间21日下午，有消息人士表示，伊朗最高领袖已经下令，接近武器级的铀必须留在伊朗。消息人士还称，伊朗最高领袖的指示反映了伊朗当局的共识。（央视）",
@@ -25,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗驻法国大使：最高领袖更替后国家体系仍在运行 对外谈判一般由政府方面负责",
+          "url": "https://flash.jin10.com/detail/20260521230621304800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
@@ -121,13 +143,24 @@
           "time_info": "11时32分"
         },
         {
+          "title": "伊朗外长阿拉格齐：伊朗将“以强大的姿态”参与任何未来的谈判，并将外交层面的准备程度与伊朗武装力量的战备状态相提并论。",
+          "url": "https://flash.jin10.com/detail/20260521230328620800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "布伦特原油5分钟内上涨1.67美元/桶，报106.12美元/桶；WTI原油5分钟内上涨1.46美元/桶，报99.53美元/桶。据报道，伊朗最高领袖下令：接近武器级的铀必须留在国内。",
           "url": "https://wallstreetcn.com/livenews/3107372",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -154,6 +187,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗外长阿拉格齐：随着与美国紧张局势持续升级，德黑兰已准备好根据需要同时进行谈判和战斗。",
+          "url": "https://flash.jin10.com/detail/20260521230241923800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
           "url": "https://flash.jin10.com/detail/20260521024809837800",
           "source": "金十数据",
@@ -163,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗最高领袖驻革命卫队代表萨德吉：傲慢的敌人必须明白，如果他们犯错，如果不接受伊朗的条件，如果拒绝承认波斯湾和霍尔木兹海峡发生的一切都由我们的海军掌控，那么只要他们犯下任何错误，我们不仅会在本地区，还会在区域之外让他们无法通行。",
+          "url": "https://flash.jin10.com/detail/20260521230140147800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
@@ -198,6 +253,17 @@
           "time_info": "15时50分"
         },
         {
+          "title": "31艘船只在伊斯兰革命卫队的协调下通过霍尔木兹海峡。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3107505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
           "url": "https://flash.jin10.com/detail/20260521064008184800",
           "source": "金十数据",
@@ -209,6 +275,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "伊朗最高领袖：接近武器级的铀得留下",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普：如果我没有得到关于伊朗的正确答案，事情会迅速发展；我需要伊朗提供完全100%的好答案。",
           "url": "https://flash.jin10.com/detail/20260521024612399800",
           "source": "金十数据",
@@ -218,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗最高领袖驻革命卫队代表萨德吉：如果敌人犯错，要知道等待着他们的是更艰难的日子，海军和革命卫队将在‘真实承诺’行动之外与他们对抗。",
+          "url": "https://flash.jin10.com/detail/20260521230008488800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
@@ -240,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗最高领袖驻革命卫队代表萨德吉：伊朗海军如今更加强大，拥有更先进的工具，并以更加坚定和果决的意志，准备以力量和权威对抗任何敌人。",
+          "url": "https://flash.jin10.com/detail/20260521225954270800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
@@ -292,7 +391,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -317,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "伊朗驻法国大使谈退出欧佩克可能性：该组织仍是“极其宝贵的成果”",
+          "url": "https://flash.jin10.com/detail/20260521225300209800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
@@ -369,7 +479,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -383,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗驻法国大使：无意敌视海湾领国，希望局势尽快恢复正常",
+          "url": "https://flash.jin10.com/detail/20260521224844262800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "特朗普：美国与伊朗谈判已进入最后阶段",
@@ -413,7 +534,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -440,6 +561,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗大使：与阿曼就建立霍尔木兹海峡永久性“过路费”机制展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3107487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
           "url": "https://wallstreetcn.com/livenews/3106858",
           "source": "华尔街见闻-快讯",
@@ -460,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "伊朗总统：政府全力支持伊武装力量",
+          "url": "https://wallstreetcn.com/livenews/3107485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
@@ -467,6 +610,18 @@
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
       "match_count": 22,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 23时21分]"
+        },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
@@ -512,17 +667,6 @@
           "time_info": "05时52分"
         },
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "谷歌(GOOG.O)将在人工智能模式中推出更有帮助的广告。",
           "url": "https://flash.jin10.com/detail/20260521000207884800",
           "source": "金十数据",
@@ -543,17 +687,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
@@ -605,15 +738,28 @@
           "time_info": "[00时28分 ~ 07时12分]"
         },
         {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 23时21分]"
+        },
+        {
           "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
           "url": "https://wallstreetcn.com/articles/3772764",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 23时21分]"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -644,7 +790,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
