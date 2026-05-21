@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-21T15:50:34.739567+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-05-21T19:22:40.192387+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐与巴基斯坦内政部长会晤，讨论间接的伊朗-美国谈判。",
+          "url": "https://flash.jin10.com/detail/20260521185430855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "【伊朗最高领袖下令：接近武器级的铀必须留在国内】记者获悉，当地时间21日下午，有消息人士表示，伊朗最高领袖已经下令，接近武器级的铀必须留在伊朗。消息人士还称，伊朗最高领袖的指示反映了伊朗当局的共识。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3107378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://flash.jin10.com/detail/20260521185251373800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
         {
           "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3106888",
@@ -88,13 +121,24 @@
           "time_info": "11时32分"
         },
         {
+          "title": "布伦特原油5分钟内上涨1.67美元/桶，报106.12美元/桶；WTI原油5分钟内上涨1.46美元/桶，报99.53美元/桶。据报道，伊朗最高领袖下令：接近武器级的铀必须留在国内。",
+          "url": "https://wallstreetcn.com/livenews/3107372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "伊朗公布霍尔木兹海峡管辖范围",
           "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -149,7 +193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -242,6 +286,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "市场消息：巴基斯坦内政部长在德黑兰与伊朗内政部长、国家安全委员会成员伊斯坎达尔·莫梅尼会面。",
+          "url": "https://flash.jin10.com/detail/20260521184047400800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
           "url": "https://wallstreetcn.com/livenews/3106829",
           "source": "华尔街见闻-快讯",
@@ -308,6 +363,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美国股指期货下跌，美国标普500 E-Mini期货下跌0.25%，纳斯达克100期货下跌0.35%，道琼斯期货下跌0.09%。有报道称伊朗最高领袖下令近武器级铀必须留在伊朗。",
+          "url": "https://flash.jin10.com/detail/20260521183829684800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
           "url": "https://wallstreetcn.com/livenews/3106869",
           "source": "华尔街见闻-快讯",
@@ -336,9 +402,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗媒体：伊朗“正在回应”美方谈判文本",
+          "url": "https://wallstreetcn.com/livenews/3107339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美股三大指数持续拉升，均涨超1%。特朗普表示，与伊朗的谈判已进入“最后阶段”。",
@@ -388,7 +465,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -435,6 +512,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "谷歌(GOOG.O)将在人工智能模式中推出更有帮助的广告。",
           "url": "https://flash.jin10.com/detail/20260521000207884800",
           "source": "金十数据",
@@ -455,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
@@ -512,9 +611,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 19时22分]"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -539,6 +638,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "阿里云陈宇森透露 MuleRun 为阿里产品，AI Native 转型窗口期仅 18 个月，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040758441325618022",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
           "url": "https://flash.jin10.com/detail/20260521063630853800",
           "source": "金十数据",
@@ -556,7 +666,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
