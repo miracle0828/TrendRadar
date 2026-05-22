@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-22T18:49:53.144303+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-22T21:32:18.605224+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 21时32分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时53分 ~ 18时49分]"
+        },
+        {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -69,17 +81,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "鲁比奥：伊朗问题确实有一些进展",
-          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
           "url": "https://wallstreetcn.com/livenews/3107575",
           "source": "华尔街见闻-快讯",
@@ -102,6 +103,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 21时32分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -162,6 +175,17 @@
           "time_info": "[05时27分 ~ 07时02分]"
         },
         {
+          "title": "知情人士透露，卡塔尔已派遣一个谈判小组前往德黑兰，与美国协调，以帮助达成结束伊朗冲突的协议。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3108072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗总统佩泽希齐扬称，不会在谈判中退让。",
           "url": "https://flash.jin10.com/detail/20260522025123533800",
           "source": "金十数据",
@@ -184,15 +208,26 @@
           "time_info": "01时56分"
         },
         {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
+          "title": "巴基斯坦安全官员在向记者发表的声明中表示，巴基斯坦陆军参谋长前往伊朗，作为和平谈判的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3108069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "伊朗石油部长称战争对燃料和天然气设施造成破坏，呼吁公众“优化”燃料消耗。（SHANA通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3108068",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "21时32分"
         },
         {
           "title": "日本：希望伊朗发挥最大程度的灵活性",
@@ -201,9 +236,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "伊朗革命卫队：谈判是战场的另一个领域，而“真实承诺”是我们国家最伟大的防御盾牌。",
+          "url": "https://flash.jin10.com/detail/20260522212253740800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "据伊朗学生通讯社：（美伊）信息交流旨在达成协议框架。",
@@ -239,13 +285,24 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗媒体称巴基斯坦陆军参谋长已前往伊朗 将与伊朗高级官员会面",
+          "url": "https://wallstreetcn.com/livenews/3108059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "日本外务省：日本外务大臣茂木与伊朗外长阿拉格齐举行了电话会谈。",
           "url": "https://flash.jin10.com/detail/20260522180213279800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -267,7 +324,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -289,9 +346,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "伊朗和日本外长在通话中讨论了中东局势。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3108057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "市场消息：卡塔尔航空因伊朗战争影响将取消员工奖金。",
@@ -311,7 +379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -360,13 +428,24 @@
           "time_info": "05时27分"
         },
         {
+          "title": "据路透社：知情人士透露，在与美国的协调下，卡塔尔已派遣一个谈判小组前往德黑兰，以帮助达成结束伊朗战争的协议。",
+          "url": "https://flash.jin10.com/detail/20260522211002586800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "据沙特媒体Alhadath：巴基斯坦陆军参谋长正在等待内政部长德黑兰会谈的结果，特别是在他会见伊朗外长阿拉格齐之后。",
           "url": "https://flash.jin10.com/detail/20260522175248220800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -396,7 +475,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -457,6 +536,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 07时02分]"
+        },
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -543,7 +633,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -554,7 +644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -587,7 +677,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -595,7 +685,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周四（5月21日）纽约尾盘，ICE美元指数涨0.15%，报99.241点，日内交投区间为99.064-99.515点，整体持续走高，北京时间15:25-18:40、01:04以来先后出现一波V形走势。 彭博美元指数涨0.10%，报1202.12点，日内交投区间为1200.67-1205.24点。 美元兑日元涨0.07%，报159.03日元，日内交投区间为158.81-159.34日元。",
@@ -640,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "布伦特原油5分钟内下跌1.13美元/桶，报103.19美元/桶；WTI原油5分钟内下跌1.13美元/桶，报96.33美元/桶。 美股期货拉升，标普500指数期货涨0.4%。 美国国债扩大涨幅，10年期国债收益率触及盘中低点4.54%。 欧洲债券扩大涨幅，德国10年期国债收益率下跌7个基点至3.03%。",
+          "url": "https://wallstreetcn.com/livenews/3108046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
