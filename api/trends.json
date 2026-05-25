@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T12:46:09.608655+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-05-25T16:56:28.234795+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -71,6 +71,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时00分 ~ 06时57分]"
+        },
+        {
+          "title": "伊朗称将部署新型防空系统",
+          "url": "https://wallstreetcn.com/livenews/3108782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗称对通过霍尔木兹海峡船只收“航行服务费”",
+          "url": "https://wallstreetcn.com/livenews/3108780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "阿曼与伊朗官员举行会晤，依据国际法讨论了霍尔木兹海峡航行自由的管辖原则。",
@@ -414,6 +436,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗外交部发言人Esmail Baghaei：伊朗外长阿拉格齐访美之行因签证问题取消。 阿拉格齐原计划出席联合国会议。",
+          "url": "https://wallstreetcn.com/livenews/3108774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
           "url": "https://flash.jin10.com/detail/20260525025220703800",
           "source": "金十数据",
@@ -442,7 +475,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -456,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊朗外交部：目前暂不派团前往巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3108769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
@@ -535,6 +579,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "伊朗外交部：目前不讨论霍尔木兹海峡管理权细节",
+          "url": "https://wallstreetcn.com/livenews/3108765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "据福克斯新闻援引美国政府官员的话报道，如果最终协议中伊朗仍在进行铀浓缩，那就不算是最终协议。",
           "url": "https://flash.jin10.com/detail/20260524234317749800",
           "source": "金十数据",
@@ -544,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "据福克斯新闻援引美国政府官员的话报道，我们的计划包括处理伊朗的全部浓缩材料库存。",
@@ -563,9 +629,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗称对通过霍尔木兹海峡船只收“航行服务费”",
+          "url": "https://flash.jin10.com/detail/20260525161740486800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们不会在霍尔木兹海峡收取通行费。将来提供的服务需要收费是正常的，但不应该被说成是征收通行费。",
+          "url": "https://wallstreetcn.com/livenews/3108761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "美国国务卿鲁比奥：（关于伊朗）我认为我们在能够开放霍尔木兹海峡方面有一个相当可靠的方案。",
@@ -574,9 +662,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗称将部署新型防空系统",
+          "url": "https://flash.jin10.com/detail/20260525161656450800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "据福克斯新闻援引一位美国高级政府官员的话称，与伊朗的协议今天不会签署，但我们正在朝着这一目标取得进展。",
@@ -596,7 +695,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -612,6 +711,28 @@
           "time_info": "01时00分"
         },
         {
+          "title": "伊朗外交部发言人：我们对以色列政权不抱任何期望，除了他们会破坏任何可能缓解本地区紧张局势的进程。",
+          "url": "https://flash.jin10.com/detail/20260525160941690800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗外交部：伊美达成共识“不意味着即将签署协议”",
+          "url": "https://wallstreetcn.com/livenews/3108757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "美政府高官：与伊朗的协议预计不会在24日签署",
           "url": "https://flash.jin10.com/detail/20260524233920672800",
           "source": "金十数据",
@@ -621,6 +742,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        },
+        {
+          "title": "伊朗高级外交官：霍尔木兹海峡的管理将是伊朗和阿曼之间的问题",
+          "url": "https://wallstreetcn.com/livenews/3108756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
@@ -640,9 +783,64 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗外交部发言人：卡塔尔埃米尔并未前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260525160852879800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗外交部：现阶段不与美方谈核问题细节",
+          "url": "https://wallstreetcn.com/livenews/3108755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们已经达成了一项框架协议，但没有人能断言美国和伊朗之间会很快达成协议。 这份潜在的谅解备忘录并未包含有关霍尔木兹海峡管理的具体细节。 海峡的管理权属于沿岸国家。 我们已就讨论的许多议题达成了结论，但这并不意味着我们即将签署协议。 我们目前没有向巴基斯坦派遣代表团的计划。",
+          "url": "https://wallstreetcn.com/livenews/3108754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：如果谅解备忘录最终确定，谅解备忘录的一些细节以及包括核问题在内的其他议题将在60天内进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260525160211908800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "伊朗媒体：伊美双方均未在协议草案中就核问题作出任何承诺",
+          "url": "https://wallstreetcn.com/livenews/3108751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
@@ -670,7 +868,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -714,11 +912,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 12时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 16时56分]"
         },
         {
           "title": "巴基斯坦与阿里宣布达成多项合作",
@@ -748,13 +947,24 @@
           "time_info": "[04时04分 ~ 08时02分]"
         },
         {
+          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
+          "url": "https://wallstreetcn.com/livenews/3108773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "阿里达摩院玄铁9系列处理器正式适配安卓 RISC-V加速规模化商业落地",
           "url": "https://wallstreetcn.com/livenews/3108644",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
