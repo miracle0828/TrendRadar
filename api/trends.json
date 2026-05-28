@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T14:56:38.047513+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-05-28T18:56:23.479570+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -71,11 +71,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 14时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 18时56分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -102,16 +103,30 @@
           "time_info": "[10时57分 ~ 14时56分]"
         },
         {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 18时56分]"
+        },
+        {
           "title": "伊朗将浓缩铀运往中俄？特朗普回应",
           "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
           "source": "凤凰网",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 18时56分]"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -156,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：敌人试图制造分裂。",
+          "url": "https://flash.jin10.com/detail/20260528184313914800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。 对潜在伊朗协议的内容还感到不满意。 我们可能会重返伊朗并完成任务，也可能不会再过去。 伊朗不可以拥有核武器。 其他国家非常支持。",
@@ -203,18 +229,6 @@
           "time_info": "[05时54分 ~ 07时16分]"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 14时56分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2043104464907629617",
           "source": "知乎",
@@ -223,8 +237,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 14时56分]"
+          "time_info": "[14时56分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 18时56分]"
         },
         {
           "title": "美军事力量将撤出伊朗周边",
@@ -359,28 +396,6 @@
           "time_info": "05时54分"
         },
         {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "当地居民称，伊朗南部阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260528063440282800",
           "source": "金十数据",
@@ -420,7 +435,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -508,7 +523,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -585,7 +600,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -607,7 +622,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
@@ -615,7 +630,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何评价阿里十三薪将并入年终奖，发放时间延至 4-5 月？对员工是好消息吗？会成为行业趋势吗？",
@@ -636,11 +651,12 @@
           "ranks": [
             14,
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[03时23分 ~ 18时56分]"
         },
         {
           "title": "阿里员工十三薪将并入年终奖",
@@ -660,7 +676,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -700,15 +716,49 @@
           "time_info": "[03时23分 ~ 07时16分]"
         },
         {
+          "title": "全球权威编程榜单放榜，阿里千问 3.7 编程能力跻身全球前二，含金量有多高？将如何影响软件开发？",
+          "url": "https://www.zhihu.com/question/2042588462981939735",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 18时56分]"
+        },
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "MiniMax ARR 60天实现翻番",
           "url": "https://wallstreetcn.com/livenews/3110514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
+          "url": "https://www.cls.cn/detail/2384059",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
@@ -720,17 +770,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "全球权威编程榜单放榜，阿里千问 3.7 编程能力跻身全球前二，含金量有多高？将如何影响软件开发？",
-          "url": "https://www.zhihu.com/question/2042588462981939735",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "DeepSeek崩了",
