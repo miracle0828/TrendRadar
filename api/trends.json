@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T19:28:27.967238+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-29T23:23:21.491504+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗称击落一架美军飞机，美方回应",
@@ -78,15 +78,37 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国总统特朗普：伊朗将完成清除或引爆遗留的水雷。",
+          "url": "https://flash.jin10.com/detail/20260529225553724800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3111401",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
+          "url": "https://news.ifeng.com/c/8tWwzy1f6k3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
@@ -95,7 +117,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -111,6 +133,20 @@
           "time_info": "05时07分"
         },
         {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 23时23分]"
+        },
+        {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
           "url": "https://flash.jin10.com/detail/20260529045159520800",
           "source": "金十数据",
@@ -121,19 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 07时15分]"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 19时28分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -158,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "美国总统特朗普：现在将召开会议以最终决定伊朗问题；伊朗必须同意他们永远不会拥有核武器和炸弹；霍尔木兹海峡必须立即开放，且不收取通行费。",
+          "url": "https://flash.jin10.com/detail/20260529225323525800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "伊朗外交部谴责美国对阿曼的威胁",
@@ -204,6 +238,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
+          "url": "https://wallstreetcn.com/livenews/3111511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗布什尔听到爆炸声。",
           "url": "https://flash.jin10.com/detail/20260529043124929800",
           "source": "金十数据",
@@ -237,6 +282,17 @@
           "time_info": "02时12分"
         },
         {
+          "title": "伊朗最高领袖军事顾问：伊朗将迫使美国结束海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3111509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们并不寻求核武器。",
           "url": "https://flash.jin10.com/detail/20260529005558902800",
           "source": "金十数据",
@@ -259,6 +315,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "伊朗外长与阿曼外交大臣通话 讨论霍尔木兹海峡未来管理问题",
+          "url": "https://wallstreetcn.com/livenews/3111508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗副外长称伊方不会签署任何不符合国家利益的谅解协议",
           "url": "https://flash.jin10.com/detail/20260529005505187800",
           "source": "金十数据",
@@ -270,6 +337,17 @@
           "time_info": "02时12分"
         },
         {
+          "title": "伊朗和阿曼外长通话 讨论了双边关系和地区局势",
+          "url": "https://flash.jin10.com/detail/20260529223626089800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
           "url": "https://wallstreetcn.com/livenews/3110963",
           "source": "华尔街见闻-快讯",
@@ -279,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美伊停火协议草案细节曝光：伊朗要求3千亿美元投资，并全面停战",
+          "url": "https://flash.jin10.com/detail/20260529223419088800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国副总统万斯：伊朗在谈判中带着诚意。 美国与伊朗正在讨论某些措辞。（记者团播报Pool Report）",
@@ -312,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：伊朗将迫使美国结束海上封锁",
+          "url": "https://flash.jin10.com/detail/20260529223343610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "伊朗最高领袖强调维护民族团结",
@@ -358,6 +458,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "受伊朗战事波及的大型油轮中，已有四分之一成功驶出海峡",
+          "url": "https://flash.jin10.com/detail/20260529223311492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗武装部队从南部地区朝着多个特定目标发射导弹。（FARS）",
           "url": "https://wallstreetcn.com/livenews/3110915",
           "source": "华尔街见闻-快讯",
@@ -375,7 +486,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -413,6 +524,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "伊朗外长与阿曼外长讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3111497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗官员：美国一架飞机被伊朗摧毁",
           "url": "https://flash.jin10.com/detail/20260529045323641800",
           "source": "金十数据",
@@ -427,7 +549,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -442,6 +564,17 @@
           "time_info": "[02时12分 ~ 11时26分]"
         },
         {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 23时23分]"
+        },
+        {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
           "url": "https://wallstreetcn.com/livenews/3110939",
           "source": "华尔街见闻-快讯",
@@ -451,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
-          "url": "https://www.zhihu.com/question/2043515093007303790",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -474,6 +596,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 15时54分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 23时23分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -511,17 +645,6 @@
           "time_info": "[02时12分 ~ 05时07分]"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 19时28分]"
-        },
-        {
           "title": "OpenAI的Codex怎么玩",
           "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -531,6 +654,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 23时23分]"
         },
         {
           "title": "Claude Opus 4.8版本来了",
@@ -588,17 +722,6 @@
           "time_info": "05时07分"
         },
         {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "Anthropic推出了Claude Opus 4.8。Claude Opus 4.8常规使用定价与Opus 4.7保持一致：输入令牌每百万单位定价5美元，输出令牌每百万单位定价25美元。Claude Opus 4.8快速模式定价为每百万输入令牌10美元，每百万输出令牌50美元。",
           "url": "https://flash.jin10.com/detail/20260529005420532800",
           "source": "金十数据",
@@ -654,13 +777,24 @@
           "time_info": "15时54分"
         },
         {
+          "title": "谷歌TPU或迎空前大单 私募巨头正为Anthropic筹划巨额芯片融资",
+          "url": "https://flash.jin10.com/detail/20260529222227532800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "欧盟委员会：与Anthropic进行了“良好且富有成效”的交流。",
           "url": "https://wallstreetcn.com/livenews/3111365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -668,8 +802,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国总统特朗普称，现在将开会，对伊朗问题做出最终决定。 伊朗必须同意他们永远不会拥有核武器和核弹。 霍尔木兹海峡必须立即开放，不得收费。 所有水雷，如果有的话，都将被清除。 彭博美元指数刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3111525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美债延续涨势，美元指数DXY跌至盘中低点，现报98.8。",
+          "url": "https://flash.jin10.com/detail/20260529225533139800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
           "url": "https://wallstreetcn.com/livenews/3110872",
