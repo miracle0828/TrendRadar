@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T11:39:10.691225+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-05-31T15:45:16.844531+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -27,11 +27,12 @@
             13,
             5,
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 11时39分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 15时45分]"
         },
         {
           "title": "联合海上信息中心：美军仍在封锁伊朗港口",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普要求修改特使谈成的伊朗协议，美国封杀霍尔木兹“买路钱”",
+          "url": "https://flash.jin10.com/detail/20260531145730531800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -154,6 +166,18 @@
           "time_info": "[03时12分 ~ 07时09分]"
         },
         {
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 15时45分]"
+        },
+        {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
           "url": "https://flash.jin10.com/detail/20260531033706700800",
           "source": "金十数据",
@@ -206,6 +230,18 @@
           "time_info": "[06时01分 ~ 11时39分]"
         },
         {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时45分]"
+        },
+        {
           "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
           "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
           "source": "凤凰网",
@@ -217,15 +253,16 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
-          "source": "凤凰网",
+          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3111863",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "time_info": "[11时39分 ~ 15时45分]"
         },
         {
           "title": "美媒：特朗普推迟就伊朗相关协议作最终决定",
@@ -237,28 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3111863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
@@ -282,11 +297,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 11时39分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 15时45分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -305,11 +321,12 @@
           "url": "https://www.cls.cn/detail/2386240",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 15时45分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
