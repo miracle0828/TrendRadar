@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-06-03T01:22:21.664983+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T04:47:06.249737+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
           "url": "https://news.ifeng.com/c/8tdbOC5wjyj",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时47分]"
+        },
+        {
+          "title": "以总理扬言伊朗政权将覆灭",
+          "url": "https://news.ifeng.com/c/8tdSbmQMMVt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时47分]"
         },
         {
           "title": "美国总统特朗普：（与伊朗）结果如何，谁也不知道，但正如我对伊朗所说，“是时候了，无论如何，你们都需要达成协议。”",
@@ -41,17 +54,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "以总理扬言伊朗政权将覆灭",
-          "url": "https://news.ifeng.com/c/8tdSbmQMMVt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
@@ -61,6 +63,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时47分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于世界杯）美国决心不让与伊朗革命卫队有关的人士“混进他们的代表团”。",
+          "url": "https://flash.jin10.com/detail/20260603040701151800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国中央司令部：“亚伯拉罕·林肯”号航空母舰正在穿越阿拉伯海，继续支持美国对伊朗实施的封锁。美国军方已重新引导122艘商船改道，以确保合规。",
@@ -85,21 +110,21 @@
           "time_info": "01时22分"
         },
         {
-          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
-          "source": "百度热搜",
+          "title": "美国制裁伊朗加密货币交易平台及相关人员",
+          "url": "https://flash.jin10.com/detail/20260603033217597800",
+          "source": "金十数据",
           "ranks": [
-            18
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -109,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时47分]"
         },
         {
           "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
@@ -146,6 +171,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "标普500指数初步收涨0.1%，公用事业板、原材料、能源、工业板块至少涨约1%，电信板块跌2.6%。 纳斯达克100指数初步收涨0.5%，成分股中，黄仁勋一句话让迈威尔科技/美满科技初步收涨32.2%，Lumentum涨13.9%，应用材料涨7.1%，思科、高通涨超3.4%，谷歌A跌3.8%，Autodesk跌4.3%，Palantir跌5.4%，Workday跌6%，Zscaler跌7.6%，汤森路透跌7.9%，财捷跌8.9%，Strategy跌9.2%。 卡特彼勒涨超5%，IBM涨超3%，苹果涨约2.8%，与思科领跑道指成分股，波音、微软、Salesforce、耐克至少跌超3%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3113264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，腾讯初步收涨9.3%，美团涨6.4%，理想涨6.1%，阿里涨4.3%，比亚迪涨4.2%，百度涨3.4%，日月光半导体涨2.7%，网易涨1.3%，拼多多涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3113262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
           "url": "https://wallstreetcn.com/livenews/3113188",
           "source": "华尔街见闻-快讯",
@@ -155,12 +202,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "微软Build连发七模型,首款旗舰推理叫板Anthropic，打造”思考+编程”智能体闭环。",
+          "url": "https://wallstreetcn.com/livenews/3113256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普500指数总市值历史上首次突破69万亿美元。",
@@ -172,6 +230,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260603035246747800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周二（6月2日）纽约尾盘，ICE美元指数持平，报99.205点，日内交投区间为99.049-99.329点，整体呈现出W形反转。 彭博美元指数跌0.03%，报1201.62点，日内交投区间为1200.43-1202.78点。 美元兑日元涨0.16%，报159.92日元，日内交投区间为159.60-159.99日元。",
+          "url": "https://wallstreetcn.com/livenews/3113255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     }
