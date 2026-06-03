@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T11:56:01.331138+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-06-03T16:55:20.375432+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -36,11 +36,12 @@
           "url": "https://news.ifeng.com/c/8teM8SFj90x",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 16时55分]"
         },
         {
           "title": "美军发射“地狱火”导弹，击中一艘伊朗相关油轮",
@@ -109,6 +110,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
           "source": "百度热搜",
@@ -120,6 +132,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 16时55分]"
         },
         {
           "title": "美以袭击伊朗进入第 96 天，当前局势如何？哪些信息值得关注？",
@@ -155,17 +179,6 @@
           "time_info": "[11时55分 ~ 11时56分]"
         },
         {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
-        },
-        {
           "title": "伊朗袭击位于科威特的美军基地",
           "url": "https://flash.jin10.com/detail/20260603062608170800",
           "source": "金十数据",
@@ -175,6 +188,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "科威特外交部：科威特遭伊朗袭击，一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260603164756758800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美国国务卿鲁比奥：（关于世界杯）美国决心不让与伊朗革命卫队有关的人士“混进他们的代表团”。",
@@ -210,6 +245,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗谴责美对伊油轮和格什姆岛的“侵略性袭击”",
+          "url": "https://wallstreetcn.com/livenews/3113640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "伊朗南部格什姆岛传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260603054721403800",
           "source": "金十数据",
@@ -230,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗谴责美对格什姆岛侵略性袭击",
+          "url": "https://wallstreetcn.com/livenews/3113635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
@@ -274,12 +331,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗谴责美国袭击伊朗油轮和电信站点。",
+          "url": "https://wallstreetcn.com/livenews/3113626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -369,6 +437,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "透过阿里 MuleRun 上线的 Messages 能力，可以看到「人机协同」的哪些趋势？",
+          "url": "https://www.zhihu.com/question/2045479206470014286",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
