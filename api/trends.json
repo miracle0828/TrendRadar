@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T07:42:40.742277+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-04T11:50:38.483448+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 11时50分]"
         },
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时22分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗突然变了，美国突然客气了",
+          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "【伊媒：伊美谅解备忘录若谈成，将分四阶段推进】伊朗法尔斯通讯社3日援引伊朗与美国间接谈判知情人士的话报道，伊美正在讨论的谅解备忘录若最终敲定，将分四个主要阶段依次推进，其中第三阶段将讨论核问题。（新华社）",
@@ -93,7 +104,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -104,7 +115,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -219,6 +230,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美众院通过决议限制特朗普对伊朗动武",
+          "url": "https://www.toutiao.com/trending/7646226299874426916/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
           "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
           "url": "https://flash.jin10.com/detail/20260604010608456800",
           "source": "金十数据",
@@ -252,6 +274,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "特朗普施压见效？以色列与黎巴嫩同意停火，伊朗谈判或现转机",
+          "url": "https://flash.jin10.com/detail/20260604105245920800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
           "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
           "url": "https://wallstreetcn.com/livenews/3113932",
           "source": "华尔街见闻-快讯",
@@ -280,7 +313,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -321,7 +354,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
@@ -345,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "英国监管机构给谷歌AI搜索“立新规”",
+          "url": "https://wallstreetcn.com/livenews/3114177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
@@ -420,6 +464,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
           "title": "报道：Anthropic选定摩根士丹利和高盛牵头其IPO工作",
           "url": "https://wallstreetcn.com/livenews/3113950",
           "source": "华尔街见闻-快讯",
@@ -448,7 +503,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -459,7 +514,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
