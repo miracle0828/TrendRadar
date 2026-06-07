@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T15:54:42.513640+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-06-07T18:29:09.126958+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
@@ -52,6 +52,17 @@
           "time_info": "[01时12分 ~ 11时42分]"
         },
         {
+          "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
+          "url": "https://news.ifeng.com/c/8tlaJRmbbef",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美国授意一个团队评估海湾盟友们遭受的损失情况。 美方将向它们开放伊朗资产。（路透）",
           "url": "https://wallstreetcn.com/livenews/3115503",
           "source": "华尔街见闻-快讯",
@@ -61,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
+          "url": "https://wallstreetcn.com/livenews/3115542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
@@ -100,13 +122,24 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗称已起草《霍尔木兹海峡环境服务收费条例》",
+          "url": "https://wallstreetcn.com/livenews/3115541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：德黑兰股市综合指数逼近历史新高。",
           "url": "https://flash.jin10.com/detail/20260607151353868800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -162,6 +195,18 @@
           "time_info": "[05时03分 ~ 15时54分]"
         },
         {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 18时29分]"
+        },
+        {
           "title": "伊朗外交部谴责美军多次违反停火协议",
           "url": "https://wallstreetcn.com/livenews/3115473",
           "source": "华尔街见闻-快讯",
@@ -190,6 +235,18 @@
           "time_info": "[01时12分 ~ 07时02分]"
         },
         {
+          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 18时29分]"
+        },
+        {
           "title": "美媒曝以色列在伊朗周边多国设据点",
           "url": "https://wallstreetcn.com/livenews/3115465",
           "source": "华尔街见闻-快讯",
@@ -202,6 +259,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 07时02分]"
+        },
+        {
+          "title": "美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。（新华国际）",
+          "url": "https://wallstreetcn.com/livenews/3115510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 18时29分]"
+        },
+        {
+          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
+          "url": "https://www.cls.cn/detail/2392742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 18时29分]"
+        },
+        {
+          "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
+          "url": "https://wallstreetcn.com/livenews/3115503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 18时29分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -239,16 +333,15 @@
           "time_info": "[05时03分 ~ 07时02分]"
         },
         {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
+          "title": "伊朗世界杯代表团多人遭美拒签",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%9A%E4%BA%BA%E9%81%AD%E7%BE%8E%E6%8B%92%E7%AD%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗内政部长收到巴基斯坦陆军参谋长阿西姆·穆尼尔致伊朗最高领袖的信函。",
@@ -263,18 +356,6 @@
           "time_info": "[03时20分 ~ 05时03分]"
         },
         {
-          "title": "美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。（新华国际）",
-          "url": "https://wallstreetcn.com/livenews/3115510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 15时54分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：哈尔克岛上的爆炸声是受控弹药引爆所致。",
           "url": "https://flash.jin10.com/detail/20260607021731743800",
           "source": "金十数据",
@@ -285,17 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 05时03分]"
-        },
-        {
-          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 15时54分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：哈尔克岛附近传出爆炸声。",
@@ -310,16 +380,37 @@
           "time_info": "[03时20分 ~ 05时03分]"
         },
         {
-          "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
-          "url": "https://wallstreetcn.com/livenews/3115503",
-          "source": "华尔街见闻-快讯",
+          "title": "美以袭击伊朗进入第 100 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2013683121216832501",
+          "source": "知乎",
           "ranks": [
-            14,
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "伊朗称已起草《霍尔木兹海峡环境服务收费条例》",
+          "url": "https://flash.jin10.com/detail/20260607173036236800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗驻墨西哥大使：世界杯参赛队比赛当日进出美国",
@@ -366,17 +457,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
-          "url": "https://www.cls.cn/detail/2392742",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "据知情人士透露，美国将考虑伊朗资产是否可用于支持修复过去的损失。",
           "url": "https://flash.jin10.com/detail/20260607044834072800",
           "source": "金十数据",
@@ -394,9 +474,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：高级外交消息人士透露，巴基斯坦内政部长向伊朗传达了美国同意放宽制裁的消息。",
+          "url": "https://flash.jin10.com/detail/20260607162839747800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦方面发出的特别信函已交给作为伊朗革命领袖代表的伊朗外长阿拉格齐。",
+          "url": "https://flash.jin10.com/detail/20260607162711175800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -432,6 +534,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "伊朗政府：巴基斯坦内政部长莫辛·纳克维会见了伊朗外长阿拉格齐，就共同关心的问题以及进一步加强两国之间的合作进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260607161629412800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美国军方：美军当地时间周六在霍尔木兹海峡击落了两架威胁海上交通的伊朗攻击无人机。",
           "url": "https://flash.jin10.com/detail/20260607085557297800",
           "source": "金十数据",
@@ -457,7 +570,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -470,8 +583,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[05时03分 ~ 18时29分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -488,6 +601,20 @@
           "time_info": "[05时03分 ~ 15时54分]"
         },
         {
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 18时29分]"
+        },
+        {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
@@ -501,19 +628,6 @@
           "time_info": "[01时12分 ~ 11时42分]"
         },
         {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 15时54分]"
-        },
-        {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
           "url": "https://www.cls.cn/detail/2392589",
           "source": "财联社热门",
@@ -522,30 +636,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 18时29分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 18时29分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 18时29分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         }
       ]
     },
