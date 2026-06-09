@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T17:40:35.259819+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-06-09T20:36:56.560002+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -180,6 +180,18 @@
           "time_info": "[06时26分 ~ 08时05分]"
         },
         {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 20时36分]"
+        },
+        {
           "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
           "url": "https://wallstreetcn.com/livenews/3116364",
           "source": "华尔街见闻-快讯",
@@ -200,8 +212,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 20时36分]"
         },
         {
           "title": "伊朗时隔两个月再袭以色列",
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 08时05分]"
-        },
-        {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "WTI原油期货日内跌超1%。特朗普称，与伊朗的谈判仍在进行中，可能在一两天内对伊朗问题有一个明确的想法（或决定）；封锁仍在继续维持。",
@@ -278,7 +279,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -366,7 +367,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -377,7 +378,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -454,7 +455,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -462,8 +463,20 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美方将阿里巴巴等中企列入“涉军”清单，中方：坚决反对",
+          "url": "https://news.ifeng.com/c/8tojgYoyeXn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 20时36分]"
+        },
         {
           "title": "怎么看诺奖得主联手 Claude，40 轮对话证出 12 年物理猜想?",
           "url": "https://www.zhihu.com/question/2047276929548604568",
@@ -476,17 +489,6 @@
           "time_info": "13时04分"
         },
         {
-          "title": "美方将阿里巴巴等中企列入“涉军”清单，中方：坚决反对",
-          "url": "https://news.ifeng.com/c/8tojgYoyeXn",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
           "url": "https://wallstreetcn.com/livenews/3116301",
           "source": "华尔街见闻-快讯",
@@ -496,6 +498,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 20时36分]"
+        },
+        {
+          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
+          "url": "https://www.cls.cn/detail/2394752",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 20时36分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -522,6 +548,29 @@
           "time_info": "[08时05分 ~ 13时04分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 20时36分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 20时36分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -545,36 +594,13 @@
           "time_info": "[04时13分 ~ 06时26分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 17时40分]"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 17时40分]"
-        },
-        {
           "title": "阿里巴巴百度蔚来紧急公告",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E5%BA%A6%E8%94%9A%E6%9D%A5%E7%B4%A7%E6%80%A5%E5%85%AC%E5%91%8A%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -588,17 +614,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
-          "url": "https://www.cls.cn/detail/2394636",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "谷歌A跌幅收窄至不足1%，此前一度跌2.2%。",
@@ -621,17 +636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
-        },
-        {
-          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
-          "url": "https://www.cls.cn/detail/2394752",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
@@ -665,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "瑞幸咖啡.skill",
+          "url": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1.skill&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
@@ -728,7 +743,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -764,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "猫眼娱乐与腾讯围绕AI Agent达成合作：打造智能化票务新体验",
+          "url": "https://wallstreetcn.com/livenews/3116801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "阿里巴巴ADR短线昨日，日内整体跌超0.2%。 百度ADR跌超2%。",
