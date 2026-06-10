@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-10T17:57:21.700028+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-06-10T20:57:57.582565+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时57分]"
+        },
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
           "url": "https://www.zhihu.com/question/2047657469275641746",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时12分 ~ 17时57分]"
-        },
-        {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时57分]"
         },
         {
           "title": "美军称对伊朗发动“自卫性”打击",
@@ -77,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时12分 ~ 20时57分]"
         },
         {
           "title": "消息称伊朗无人机飞越伊拉克领空 对美目标发动袭击",
@@ -222,16 +234,15 @@
           "time_info": "08时13分"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时12分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时57分]"
         },
         {
           "title": "消息称伊朗无人机飞越伊拉克领空，对美目标发动袭击",
@@ -282,26 +293,16 @@
           "time_info": "[04时56分 ~ 08时13分]"
         },
         {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时57分]"
-        },
-        {
           "title": "美军对伊朗发动打击",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时57分]"
         },
         {
           "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
@@ -312,8 +313,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时57分]"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -542,7 +543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -586,7 +587,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -600,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗副外长表示，德黑兰不是霍尔木兹海峡上空针对美军“阿帕奇”直升机袭击事件的幕后主使。（半岛电视台）",
@@ -729,7 +741,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -762,7 +774,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -784,7 +796,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -798,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "伊朗公布击落美军MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗霍尔木兹甘省部分地区发生爆炸",
@@ -839,7 +862,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -894,7 +917,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -932,6 +955,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E5%8E%82%E5%92%8C%E6%A1%A5%E6%A2%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "据纽约邮报：美国针对伊朗的报复性打击大约在30分钟前开始。美军声明中提到行动保持“对等性”，这可能暗示此次打击并非要重回全面战争状态。",
           "url": "https://flash.jin10.com/detail/20260610052954565800",
           "source": "金十数据",
@@ -965,6 +999,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：尽管美国在战场上屡遭挫败，但仍选择试探我们的决心。",
           "url": "https://flash.jin10.com/detail/20260610063154364800",
           "source": "金十数据",
@@ -982,7 +1027,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
@@ -1015,6 +1060,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时03分 ~ 13时32分]"
+        },
+        {
+          "title": "阿里合伙人委员会内网发帖：钉钉团队的管理方式“不是阿里文化该有的样子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33348435",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时57分]"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -1077,27 +1135,28 @@
           "time_info": "[04时56分 ~ 13时32分]"
         },
         {
+          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
+          "url": "https://wallstreetcn.com/articles/3774258",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时57分]"
+        },
+        {
           "title": "阿里合伙人委员会内网发帖，称钉钉管理「不是阿里文化该有的样子」，钉钉管理到底出了什么问题？该如何纠偏？",
           "url": "https://www.zhihu.com/question/2048010218446001940",
           "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "阿里合伙人委员会内网发帖：钉钉团队的管理方式“不是阿里文化该有的样子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33348435",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            3
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时57分]"
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 20时57分]"
         },
         {
           "title": "谷歌英伟达",
@@ -1111,18 +1170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时56分 ~ 08时13分]"
-        },
-        {
-          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
-          "url": "https://wallstreetcn.com/articles/3774258",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时57分]"
         },
         {
           "title": "知名科技记者爆料：Anthropic明天将发布“公开版本Mythos”",
@@ -1186,7 +1233,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1197,7 +1244,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1263,7 +1310,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
@@ -1271,8 +1318,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国CPI数据公布后，美股股指期货小幅走高，纳指期货日内跌幅收窄至0.9%，此前跌超1.5%。美元指数短线走低，日内跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3117505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
         {
           "title": "美元指数周二呈现出V形走势",
           "url": "https://wallstreetcn.com/livenews/3116999",
