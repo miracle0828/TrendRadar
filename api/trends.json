@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T04:09:10.594626+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-13T06:24:25.950951+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -28,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
-          "url": "https://flash.jin10.com/detail/20260613035630897800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "美国政府高级官员：与伊朗达成的协议包含一项广泛的地区和平协议，涉及黎巴嫩、伊朗以及海湾国家。",
@@ -86,26 +75,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
-          "url": "https://flash.jin10.com/detail/20260613035052032800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
-          "url": "https://wallstreetcn.com/livenews/3119069",
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "06时24分"
         },
         {
           "title": "美国政府高级官员：这项协议是确保伊朗无法获得核武器的重要第一步。",
@@ -119,6 +97,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
           "title": "美国政府高级官员：根据协议，美方将取得伊朗浓缩核材料。",
           "url": "https://flash.jin10.com/detail/20260613012535576800",
           "source": "金十数据",
@@ -128,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
-          "url": "https://flash.jin10.com/detail/20260613034446617800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
@@ -152,6 +130,54 @@
           "time_info": "01时37分"
         },
         {
+          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
+          "url": "https://flash.jin10.com/detail/20260613035630897800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
+          "url": "https://flash.jin10.com/detail/20260613035052032800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://wallstreetcn.com/livenews/3119069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
+          "url": "https://flash.jin10.com/detail/20260613034446617800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
@@ -159,8 +185,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 06时24分]"
         },
         {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
@@ -170,8 +196,92 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
+          "url": "https://flash.jin10.com/detail/20260613034424534800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
+          "url": "https://flash.jin10.com/detail/20260613034201146800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
+          "url": "https://flash.jin10.com/detail/20260613033925939800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
+          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
+          "url": "https://flash.jin10.com/detail/20260613033747065800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260613033658913800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://flash.jin10.com/detail/20260613033606513800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
         },
         {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
@@ -185,48 +295,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
-          "url": "https://flash.jin10.com/detail/20260613034424534800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
-          "url": "https://flash.jin10.com/detail/20260613034201146800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
-          "url": "https://flash.jin10.com/detail/20260613033925939800",
-          "source": "金十数据",
+          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3119085",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
-          "url": "https://flash.jin10.com/detail/20260613033812680800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "06时24分"
         },
         {
           "title": "报道：美方认为，伊朗协议签署的可能性为80%-85%",
@@ -246,7 +323,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -262,26 +339,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
-          "url": "https://flash.jin10.com/detail/20260613033747065800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260613033658913800",
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://flash.jin10.com/detail/20260613040333383800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "06时24分"
         },
         {
           "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
@@ -290,7 +356,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -306,24 +372,13 @@
           "time_info": "01时37分"
         },
         {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
-          "url": "https://flash.jin10.com/detail/20260613033606513800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
           "url": "https://wallstreetcn.com/livenews/3119056",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -345,7 +400,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -356,7 +411,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -367,7 +422,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -378,7 +433,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -433,7 +488,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -449,13 +504,24 @@
           "time_info": "01时37分"
         },
         {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3119061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
           "url": "https://wallstreetcn.com/livenews/3119037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -471,11 +537,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 06时24分]"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -499,11 +566,12 @@
           "url": "https://wallstreetcn.com/livenews/3119062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
         }
       ]
     }
