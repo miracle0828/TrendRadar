@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T16:56:59.218496+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-06-13T19:14:19.320670+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 73,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -52,6 +52,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "伊朗外长阿拉格齐：伊朗和阿曼将就霍尔木兹海峡发布联合声明。",
+          "url": "https://flash.jin10.com/detail/20260613185617701800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
@@ -83,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -117,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
@@ -174,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
+          "url": "https://flash.jin10.com/detail/20260613183636185800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
@@ -334,6 +378,19 @@
           "time_info": "[04时09分 ~ 08时20分]"
         },
         {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 19时14分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2048669431962625669",
           "source": "知乎",
@@ -357,6 +414,17 @@
           "time_info": "[04时09分 ~ 08时20分]"
         },
         {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 19时14分]"
+        },
+        {
           "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3119085",
           "source": "华尔街见闻-快讯",
@@ -367,6 +435,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 08时20分]"
+        },
+        {
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 19时14分]"
         },
         {
           "title": "伊朗外长披露谅解备忘录细节",
@@ -403,16 +483,16 @@
           "time_info": "[13时20分 ~ 16时56分]"
         },
         {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时20分 ~ 16时56分]"
+          "time_info": "[16时56分 ~ 19时14分]"
         },
         {
           "title": "伊朗外长：霍尔木兹相关服务将收费",
@@ -426,17 +506,6 @@
           "time_info": "[08时19分 ~ 08时20分]"
         },
         {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
           "url": "https://flash.jin10.com/detail/20260613012446661800",
           "source": "金十数据",
@@ -448,15 +517,26 @@
           "time_info": "01时37分"
         },
         {
-          "title": "世界杯伊朗队训练场旁发现腐尸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
-          "source": "百度热搜",
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://flash.jin10.com/detail/20260613183333910800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "19时14分"
         },
         {
           "title": "报道：美方认为，伊朗协议签署的可能性为80%-85%",
@@ -479,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美国政府高级官员：伊朗方面有一些人并不喜欢这项协议。我们认为这种反对意见相当有限。",
@@ -591,17 +682,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "美国政府高级官员：根据伊朗的履约情况，将有大幅制裁减免。",
           "url": "https://flash.jin10.com/detail/20260613011526576800",
           "source": "金十数据",
@@ -635,6 +715,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "巴基斯坦外长：与瑞士外长一致希望美国与伊朗的努力能促进地区和平与稳定。",
+          "url": "https://flash.jin10.com/detail/20260613173510600800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "美国政府高级官员：伊朗协议对开放霍尔木兹海峡、解除封锁措施及转移浓缩材料作出了明确规定。",
           "url": "https://flash.jin10.com/detail/20260613011330362800",
           "source": "金十数据",
@@ -646,6 +737,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "黎巴嫩外长否认美伊协议中包含了黎巴嫩停火条款，并强调需要将黎巴嫩事务与伊朗事务分开。",
+          "url": "https://flash.jin10.com/detail/20260613173416307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "美国政府高级官员：伊朗方面正在解决围绕该协议存在的内部分歧。",
           "url": "https://flash.jin10.com/detail/20260613011212352800",
           "source": "金十数据",
@@ -655,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
+          "url": "https://flash.jin10.com/detail/20260613173245745800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "伊朗外长阿拉格齐：黎巴嫩战争结束意味着以色列从被占领地区撤退。",
@@ -729,6 +842,19 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
+          "url": "https://wallstreetcn.com/articles/3774567",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 19时14分]"
+        },
+        {
           "title": "美国商务部长卢特尼克发函给Anthropic的CEO，阻止外国接触其先进AI（模型）。 卢特尼克认为，近日发布的Mythos 5、Fable 5都受到出口管制的限制。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119106",
           "source": "华尔街见闻-快讯",
@@ -748,20 +874,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 16时56分]"
-        },
-        {
-          "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
-          "url": "https://wallstreetcn.com/articles/3774567",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 19时14分]"
         },
         {
           "title": "如何看待阿里合伙人委员会发的内部帖《有情有义有成长，才是阿里文化》回应《置身钉内》？",
