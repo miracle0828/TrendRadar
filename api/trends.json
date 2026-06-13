@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T08:20:13.781581+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-06-13T13:20:55.607054+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -52,6 +52,17 @@
           "time_info": "[01时37分 ~ 08时20分]"
         },
         {
+          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
+          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美国政府高级官员：与伊朗达成的协议包含一项广泛的地区和平协议，涉及黎巴嫩、伊朗以及海湾国家。",
           "url": "https://flash.jin10.com/detail/20260613012727715800",
           "source": "金十数据",
@@ -84,6 +95,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时37分 ~ 04时09分]"
+        },
+        {
+          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
+          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
@@ -120,17 +142,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
           "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
           "url": "https://flash.jin10.com/detail/20260613035052032800",
           "source": "金十数据",
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
+          "url": "https://flash.jin10.com/detail/20260613121408335800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
@@ -177,6 +199,32 @@
           "time_info": "[04时09分 ~ 08时20分]"
         },
         {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 13时20分]"
+        },
+        {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 13时20分]"
+        },
+        {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
           "url": "https://wallstreetcn.com/livenews/3119069",
           "source": "华尔街见闻-快讯",
@@ -189,28 +237,16 @@
           "time_info": "[04时09分 ~ 06时24分]"
         },
         {
-          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3119092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "伊朗南部爆炸声因警告性射击",
-          "url": "https://wallstreetcn.com/livenews/3119090",
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
+          "time_info": "[08时20分 ~ 13时20分]"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
@@ -235,6 +271,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 08时20分]"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 13时20分]"
         },
         {
           "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
@@ -306,17 +354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 08时20分]"
-        },
-        {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 08时20分]"
         },
         {
           "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
@@ -419,6 +456,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美国政府高级官员：伊朗方面已经表示“可以接受（协议）相关表述措辞”。协议签署的日期和地点尚未最终确认。我认为我们已经接近确定签署日期和地点。",
           "url": "https://flash.jin10.com/detail/20260613011859806800",
           "source": "金十数据",
@@ -428,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
+          "url": "https://flash.jin10.com/detail/20260613104207547800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
@@ -461,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡的主权属于伊朗和阿曼。",
@@ -518,6 +588,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
+          "url": "https://flash.jin10.com/detail/20260613093322843800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美国政府高级官员：伊朗协议对开放霍尔木兹海峡、解除封锁措施及转移浓缩材料作出了明确规定。",
           "url": "https://flash.jin10.com/detail/20260613011330362800",
           "source": "金十数据",
@@ -562,6 +643,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://wallstreetcn.com/livenews/3119061",
           "source": "华尔街见闻-快讯",
@@ -582,12 +674,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普转发伊朗外长表态",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%A1%A8%E6%80%81%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国商务部长卢特尼克发函给Anthropic的CEO，阻止外国接触其先进AI（模型）。 卢特尼克认为，近日发布的Mythos 5、Fable 5都受到出口管制的限制。（Axios）",
@@ -596,18 +699,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -625,6 +717,40 @@
           "time_info": "[01时37分 ~ 06时24分]"
         },
         {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 13时20分]"
+        },
+        {
+          "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
+          "url": "https://wallstreetcn.com/articles/3774567",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "如何评价 Claude Fable 5 全球暂停访问？",
+          "url": "https://www.zhihu.com/question/2049072203191342205",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
           "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
@@ -634,6 +760,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://wallstreetcn.com/livenews/3119114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "Anthropic称美国限制外国访问Fable 5和Mythos 5",
+          "url": "https://wallstreetcn.com/livenews/3119109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://flash.jin10.com/detail/20260613093036412800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "美国禁止外国主体访问Fable 5和Mythos 5，Anthropic发长文驳斥",
+          "url": "https://flash.jin10.com/detail/20260613092355958800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     },
