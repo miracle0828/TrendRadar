@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T07:08:39.355072+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-15T12:05:57.916533+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 85,
+      "match_count": 93,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 12时05分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
           "url": "https://news.ifeng.com/c/8txGeQ5OLJm",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 12时05分]"
         },
         {
           "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
@@ -91,7 +92,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -102,9 +103,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗军方称羞辱了美国和以色列",
+          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社报道，伊朗“鉴于当前局势”已取消该国西部的航班。",
@@ -135,9 +147,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "伊朗最高联合军事指挥部：'随时准备开火，瞄准敌人心脏'。",
@@ -179,7 +202,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -190,7 +213,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -401,6 +424,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美国须提出3000亿美元伊朗重建计划",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "美国总统特朗普对福克斯新闻表示：与伊朗的协议将先以远程方式签署，随后可能在一周后于欧洲举行面对面签字仪式。",
           "url": "https://flash.jin10.com/detail/20260615002828559800",
           "source": "金十数据",
@@ -418,7 +452,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -473,9 +507,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗确认伊美达成谅解备忘录",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E4%BC%8A%E7%BE%8E%E8%BE%BE%E6%88%90%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "据以色列《耶路撒冷邮报》：伊朗暂停对以色列的回应，旨在给协议留出机会。",
@@ -517,7 +562,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -528,7 +573,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -539,7 +584,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -561,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -572,7 +617,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -583,9 +628,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "据以色列YNet新闻网：美国总统特朗普向伊朗传递了强硬信息，警告称如果德黑兰胆敢发动攻击，引发以色列报复并导致局势进一步升级从而使谈判破裂，他将让德黑兰承担责任。",
@@ -605,9 +661,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗武装部队：成功使美以承认失败",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%EF%BC%9A%E6%88%90%E5%8A%9F%E4%BD%BF%E7%BE%8E%E4%BB%A5%E6%89%BF%E8%AE%A4%E5%A4%B1%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书就以色列袭击黎巴嫩事件表示：各方团结形成了捍卫地区安全的链条。黎巴嫩是我们的灵魂，侵犯伊朗的红线将不会被容忍。",
@@ -638,7 +705,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -649,9 +716,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "伊朗外交部就以色列袭击贝鲁特南郊发表声明：严重违反停火协议",
@@ -671,7 +749,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -704,7 +782,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -715,7 +793,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -742,6 +820,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美国须提出3000亿美元伊朗重建计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "伊朗议会议长：黎巴嫩勇士的牺牲和伊朗强有力的外交确保了黎巴嫩的主权和领土完整。",
           "url": "https://flash.jin10.com/detail/20260615030819259800",
           "source": "金十数据",
@@ -759,7 +848,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -792,7 +881,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -803,7 +892,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -825,7 +914,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -858,7 +947,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -913,7 +1002,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -965,7 +1054,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -997,8 +1086,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 12时05分]"
         },
         {
           "title": "Anthropic派技术人员赴华盛顿 力图化解白宫争端",
@@ -1021,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "Claude Fable 5预测世界杯",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Fable%205%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     }
