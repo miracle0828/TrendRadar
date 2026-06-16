@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-06-16T07:03:10.702250+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-06-16T11:55:53.130329+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 11时55分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时03分]"
-        },
-        {
-          "title": "录音显示美军仍在执行对伊朗海上封锁",
-          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -43,6 +44,19 @@
           "time_info": "[00时17分 ~ 07时03分]"
         },
         {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 11时55分]"
+        },
+        {
           "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
           "url": "https://wallstreetcn.com/articles/3774682",
           "source": "华尔街见闻",
@@ -51,20 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时03分]"
-        },
-        {
-          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
-          "url": "https://wallstreetcn.com/articles/3774714",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 11时55分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗革命卫队圣城旅指挥官表示，曼德海峡是抵抗阵线的王牌之一，如有必要，还会使用其他牌。",
@@ -76,6 +78,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "伊朗2比2新西兰",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%972%E6%AF%942%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗2:2新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国高级官员：美国与伊朗本周晚些时候将启动技术性会谈。",
@@ -95,7 +119,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -134,13 +158,24 @@
           "time_info": "[00时17分 ~ 07时03分]"
         },
         {
+          "title": "伊朗2-2新西兰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "据NBC新闻：美国副总统万斯表示，根据谅解备忘录，核检查员绝对将会重返伊朗。协议的核心内容之一就是国际原子能机构和美国将协助伊朗销毁高浓铀库存。",
           "url": "https://flash.jin10.com/detail/20260616064450467800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -170,6 +205,28 @@
           "time_info": "[04时25分 ~ 07时03分]"
         },
         {
+          "title": "伊朗两度扳平2-2新西兰 华裔前锋双响",
+          "url": "https://www.toutiao.com/trending/7651096132386635803/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗2比2战平新西兰",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%972%E6%AF%942%E6%88%98%E5%B9%B3%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "美国高级官员：未来几周的局势将预示与伊朗关系的走向。",
           "url": "https://flash.jin10.com/detail/20260615234525536800",
           "source": "金十数据",
@@ -187,7 +244,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -288,13 +345,24 @@
           "time_info": "[00时17分 ~ 04时25分]"
         },
         {
+          "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
+          "url": "https://news.ifeng.com/c/8tzCGDrMLoe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "据AXIOS网站：消息人士称，美国中央情报局局长对伊朗协议持怀疑态度，认为伊朗并不愿意在最终协议中做出美国所要求的核妥协。",
           "url": "https://flash.jin10.com/detail/20260616062552119800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -308,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "世界杯第一战，伊朗顽强扳平！",
+          "url": "https://sports.ifeng.com/c/8u02WQ6gWhG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "伊朗：伊美谅解备忘录部分条款15日就开始执行",
@@ -360,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -393,9 +472,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗国足获准世界杯比赛时在美过夜",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%8E%B7%E5%87%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%97%B6%E5%9C%A8%E7%BE%8E%E8%BF%87%E5%A4%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "伊朗外长：我们基于不信任、（对方）违背承诺及过往经验来规划谈判及协议执行的进程。",
@@ -407,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "伊朗国足获准世界杯比赛时在美国过夜",
+          "url": "https://www.toutiao.com/trending/7651802129094463002/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "伊朗外长：首轮谈判将在伊朗与美国签署谅解备忘录后举行。",
@@ -426,7 +527,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -448,7 +549,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -462,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "巴基斯坦财政部长：若伊朗冲突缓和，2027财年经济前景存在上行空间，但修订预算为时过早。",
+          "url": "https://flash.jin10.com/detail/20260616113119201800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "伊朗外长与黎巴嫩官员通话 通报伊美谅解备忘录细节",
@@ -481,7 +593,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -492,7 +604,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -503,7 +615,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -536,7 +648,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -566,7 +678,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
@@ -587,7 +699,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -609,7 +721,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -623,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI去年支出达340亿美元。",
+          "url": "https://flash.jin10.com/detail/20260616113107944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -659,7 +782,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
