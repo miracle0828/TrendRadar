@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T07:23:45.803308+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-06-18T11:44:08.678732+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -19,6 +19,39 @@
           "time_info": "[02时14分 ~ 07时23分]"
         },
         {
+          "title": "伊朗方面披露美伊谅解备忘录文本内容",
+          "url": "https://news.ifeng.com/c/8u2tb6kUsML",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
+          "title": "美国公布与伊朗达成的谅解备忘录正式文本",
+          "url": "https://news.ifeng.com/c/8u2tzPSA7C4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
+          "title": "伊朗学者：霍尔木兹海峡不会再回到从前",
+          "url": "https://news.ifeng.com/c/8u3AJ4a0eEd",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：我们在谅解备忘录中接受的每一项承诺都是基于“行动换行动”原则。如果美国未能履行其承诺，我们就不可能履行承诺。",
           "url": "https://flash.jin10.com/detail/20260618045236862800",
           "source": "金十数据",
@@ -28,6 +61,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时14分 ~ 11时44分]"
+        },
+        {
+          "title": "勒令伊朗队离境 美方辩称本应如此",
+          "url": "https://www.toutiao.com/trending/7652270116297690634/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时14分 ~ 11时44分]"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时14分 ~ 11时44分]"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时14分 ~ 11时44分]"
         },
         {
           "title": "伊朗方面披露美伊谅解备忘录文本内容",
@@ -69,7 +156,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -91,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -101,56 +188,6 @@
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "勒令伊朗队离境 美方辩称本应如此",
-          "url": "https://www.toutiao.com/trending/7652270116297690634/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            24
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -187,7 +224,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -209,7 +246,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -231,7 +268,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -242,9 +279,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普伊朗协议引发分歧：内塔尼亚胡强烈不满，盟友阵营分裂",
+          "url": "https://flash.jin10.com/detail/20260618110329911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "美国官员：伊朗协议将与伊朗的行为挂钩。 伊朗已开始解除其封锁。 伊朗可能今晚发布谅解备忘录（MoU）文本。 备忘录文本自上周日以来未作更改。",
@@ -264,7 +312,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -275,7 +323,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -286,7 +334,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -308,7 +356,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -319,7 +367,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -341,7 +389,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -352,7 +400,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -363,7 +411,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -374,7 +422,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -396,7 +444,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -440,9 +488,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "伊朗称若以继续袭击黎巴嫩将被视为违反美承诺",
+          "url": "https://wallstreetcn.com/livenews/3121368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
@@ -459,8 +518,19 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
           "url": "https://www.cls.cn/detail/2402553",
@@ -502,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
