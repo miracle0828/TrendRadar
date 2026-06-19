@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-19T08:26:18.235995+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-06-19T14:17:52.496387+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
           "url": "https://news.ifeng.com/c/8u3juhtDVpR",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 08时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 14时17分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -47,11 +48,23 @@
           "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时17分]"
+        },
+        {
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "14时17分"
         },
         {
           "title": "以色列总理内塔尼亚胡将于今晚召开安全内阁会议，讨论伊朗协议进展。",
@@ -74,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
+          "url": "https://www.cls.cn/detail/2404208",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美特使：伊朗将邀请国际原子能机构检查其核设施",
@@ -99,6 +123,18 @@
           "time_info": "[06时07分 ~ 06时08分]"
         },
         {
+          "title": "新西兰华裔边锋贾斯特世界杯对阵伊朗梅开二度，一战成名，为何我们从来未关注到这位华裔球员？",
+          "url": "https://www.zhihu.com/question/2050210872241476932",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时17分]"
+        },
+        {
           "title": "美国或赔偿伊朗3千亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
@@ -116,7 +152,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -231,6 +267,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "美国副总统万斯：伊朗发射导弹的能力已受到削弱。",
           "url": "https://flash.jin10.com/detail/20260619000429759800",
           "source": "金十数据",
@@ -297,17 +344,6 @@
           "time_info": "06时08分"
         },
         {
-          "title": "新西兰华裔边锋贾斯特世界杯对阵伊朗梅开二度，一战成名，为何我们从来未关注到这位华裔球员？",
-          "url": "https://www.zhihu.com/question/2050210872241476932",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
           "title": "伊朗最高国家安全委员会：已责成波斯湾海峡管理局尽快发放通行许可。",
           "url": "https://flash.jin10.com/detail/20260619024735217800",
           "source": "金十数据",
@@ -317,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "瑞士外交部19日证实，美国和伊朗原定当日在瑞士举行的会谈取消。",
+          "url": "https://wallstreetcn.com/livenews/3121978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美国与伊朗将就释放伊朗被冻结资金进行谈判。",
@@ -449,13 +496,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3121964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "Faker拍谷歌广告血赚7个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 14时17分]"
+        },
         {
           "title": "DeepSeek正式上线识图模式",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
@@ -466,19 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 08时26分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
@@ -525,6 +584,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "上线自营家装App，京东阿里字节快手激战万亿市场",
+          "url": "https://wallstreetcn.com/livenews/3121989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
           "url": "https://www.cls.cn/detail/2403949",
           "source": "财联社热门",
@@ -538,26 +608,38 @@
           "time_info": "[00时36分 ~ 06时08分]"
         },
         {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时17分]"
+        },
+        {
           "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
           "url": "https://wallstreetcn.com/articles/3775011",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时17分]"
         },
         {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "14时17分"
         },
         {
           "title": "Anthropic承诺与白宫展开更紧密合作 努力解决模型安全隐患",
@@ -577,7 +659,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         }
@@ -585,7 +667,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -594,9 +676,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时17分]"
         },
         {
           "title": "美元指数DXY日内涨超0.50%，现报100.89。",
@@ -608,6 +690,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "美伊瑞士会谈生变，日韩股市盘中跳水，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3121982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     }
