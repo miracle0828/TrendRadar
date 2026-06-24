@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T15:39:17.203958+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-06-24T18:48:07.366292+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
         {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
           "url": "https://flash.jin10.com/detail/20260624034400729800",
@@ -30,6 +41,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "伊朗副外长：尽管国际原子能机构总干事格罗西提出了请求，但在瑞士并未与他举行会晤。此外，也没有关于进入遭袭设施及核材料的具体安排。",
+          "url": "https://flash.jin10.com/detail/20260624184134398800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "路透社/益普索民调显示，52%的美国人认为伊朗问题不值得付出代价，24%的人认为值得付出代价。",
           "url": "https://flash.jin10.com/detail/20260624014349851800",
           "source": "金十数据",
@@ -47,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -103,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -131,6 +153,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 04时02分]"
+        },
+        {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 18时48分]"
         },
         {
           "title": "比利时0-0伊朗",
@@ -180,16 +214,26 @@
           "time_info": "[01时52分 ~ 04时02分]"
         },
         {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
+          "title": "伊朗总统种树太投入巴总理没拦住",
+          "url": "https://www.toutiao.com/trending/7654472597551205924/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时39分]"
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "伊朗总统称若无导弹伊朗已成加沙",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%8B%A5%E6%97%A0%E5%AF%BC%E5%BC%B9%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%88%90%E5%8A%A0%E6%B2%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "以色列驻美大使：将伊朗纳入黎巴嫩问题谈判无异于一场“灾难”",
@@ -209,7 +253,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -242,7 +286,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -341,7 +385,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -484,7 +528,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -555,6 +599,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "市场消息：美国国务卿鲁比奥与阿联酋总统就伊朗谅解备忘录、国防及贸易问题进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260624182357682800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "美国允许伊朗队下一场比赛前2天入境",
           "url": "https://flash.jin10.com/detail/20260624025630035800",
           "source": "金十数据",
@@ -572,7 +627,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -594,9 +649,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "伊朗副外长：进入遭袭核设施及核材料的问题将“完全在与美国达成的最终协议框架内进行审议和解决”。",
+          "url": "https://flash.jin10.com/detail/20260624182248611800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
@@ -608,6 +674,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "伊朗议会议长：黎巴嫩停火与伊朗停火同等重要",
+          "url": "https://wallstreetcn.com/livenews/3123913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "伊朗说准备与海湾国家达成安全协议",
+          "url": "https://wallstreetcn.com/livenews/3123910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -639,6 +727,18 @@
           "time_info": "[07时55分 ~ 11时25分]"
         },
         {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 18时48分]"
+        },
+        {
           "title": "标普道琼斯指数：谷歌A(GOOGL.O)将于6月29日开盘前取代Verizon(VZ.N)，加入道琼斯工业指数。",
           "url": "https://flash.jin10.com/detail/20260624052412130800",
           "source": "金十数据",
@@ -648,17 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "Anthropic因Fable AI模型的限制措施而遭到用户起诉。",
@@ -711,7 +800,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -722,6 +811,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 18时48分]"
+        },
+        {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -731,17 +831,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 04时02分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 15时39分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
