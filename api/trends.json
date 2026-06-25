@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-06-26T05:49:07.253738+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-06-26T07:17:16.872916+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
-          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3124866",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
           "ranks": [
-            1
+            9,
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时17分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
@@ -41,27 +43,52 @@
           "time_info": "01时12分"
         },
         {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
+          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3124866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时49分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时17分]"
         },
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时17分]"
+        },
+        {
+          "title": "报道：OpenAI倾向于等到2027年再进行IPO",
+          "url": "https://wallstreetcn.com/livenews/3124858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时17分]"
+        },
+        {
+          "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260626043517228800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时17分]"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -75,35 +102,13 @@
           "time_info": "01时12分"
         },
         {
-          "title": "报道：OpenAI倾向于等到2027年再进行IPO",
-          "url": "https://wallstreetcn.com/livenews/3124858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
-          "url": "https://flash.jin10.com/detail/20260626043517228800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -114,7 +119,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -125,9 +130,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
+          "url": "https://wallstreetcn.com/livenews/3124869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
@@ -136,7 +152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -147,7 +163,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -155,18 +171,18 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
-          "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
-          "url": "https://flash.jin10.com/detail/20260626010507176800",
-          "source": "金十数据",
+          "title": "特朗普：我们有一个叫做伊朗的新市场。 伊朗将购买小麦、大豆和玉米。",
+          "url": "https://wallstreetcn.com/livenews/3124890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "07时17分"
         },
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -177,8 +193,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时17分]"
+        },
+        {
+          "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
+          "url": "https://flash.jin10.com/detail/20260626010507176800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
@@ -258,11 +285,12 @@
           "url": "https://flash.jin10.com/detail/20260626045241323800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时17分]"
         },
         {
           "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
