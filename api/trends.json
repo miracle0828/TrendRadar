@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T06:10:29.184473+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-06-29T08:08:03.736734+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -24,11 +24,87 @@
           "source": "财联社热门",
           "ranks": [
             4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
+        },
+        {
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
+        },
+        {
+          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
+        },
+        {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
+        },
+        {
+          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
@@ -37,18 +113,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
-        },
-        {
-          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -66,52 +130,6 @@
           "time_info": "[01时08分 ~ 06时10分]"
         },
         {
-          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
-          "url": "https://www.cls.cn/detail/2411069",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
-        },
-        {
-          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
-        },
-        {
           "title": "伊朗队球员哭诉：这届世界杯是场灾难",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E7%90%83%E5%91%98%E5%93%AD%E8%AF%89%EF%BC%9A%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%9C%BA%E7%81%BE%E9%9A%BE",
           "source": "百度热搜",
@@ -120,17 +138,6 @@
             16,
             18,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
-        },
-        {
-          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -179,9 +186,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "伊朗与黎巴嫩商定设立冲突管控工作组",
+          "url": "https://flash.jin10.com/detail/20260629075006896800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
@@ -323,6 +341,17 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
+          "title": "伊朗与黎巴嫩商定设立冲突管控工作组",
+          "url": "https://wallstreetcn.com/livenews/3125742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
           "title": "伊朗外长与伊拉克总理举行会谈",
           "url": "https://flash.jin10.com/detail/20260629014334485800",
           "source": "金十数据",
@@ -334,13 +363,24 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国官员表示，与伊朗的技术谈判预计将在谅解备忘录的各个领域继续进行，双方目前将暂时保持克制，船只可以自由通行。",
+          "url": "https://flash.jin10.com/detail/20260629072439714800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
           "title": "伊朗球员道歉 说着说着哭了",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%81%93%E6%AD%89%20%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%93%AD%E4%BA%86&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -367,6 +407,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
+          "url": "https://wallstreetcn.com/livenews/3125716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
           "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3125668",
           "source": "华尔街见闻-快讯",
@@ -391,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -402,8 +453,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -412,11 +463,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 08时08分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
