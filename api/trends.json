@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:11:44.030692+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-01T11:40:02.273389+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -162,6 +162,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
+          "url": "https://flash.jin10.com/detail/20260701111507956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
           "url": "https://flash.jin10.com/detail/20260701005528456800",
           "source": "金十数据",
@@ -231,7 +242,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -275,7 +286,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -292,6 +303,28 @@
           "time_info": "[01时52分 ~ 03时53分]"
         },
         {
+          "title": "万物 Agent 的时代，拥有「手搓精神」的人都「长什么样」？",
+          "url": "https://www.zhihu.com/topic/2048772796415571841/hot",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "Anthropic宣布Fable 5 将于明天在Claude平台全球上线",
+          "url": "https://flash.jin10.com/detail/20260701112635319800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
           "url": "https://flash.jin10.com/detail/20260701010526378800",
           "source": "金十数据",
@@ -303,15 +336,81 @@
           "time_info": "01时52分"
         },
         {
+          "title": "AWS：Anthropic的Claude Fable 5模型将于明天在Bedrock上再次向客户提供。",
+          "url": "https://flash.jin10.com/detail/20260701111917615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "Anthropic：Pro、Max、Team和Select Enterprise用户可访问Fable 5，使用量在每周最高限制为50%，有效期至7月7日。",
+          "url": "https://flash.jin10.com/detail/20260701111804270800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "消息称Anthropic模型Fable即将解禁",
           "url": "https://flash.jin10.com/detail/20260701062215295800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
+          "url": "https://flash.jin10.com/detail/20260701111702765800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
+          "url": "https://flash.jin10.com/detail/20260701111504167800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "Anthropic：将继续与美国政府协调，扩大“Glasswing”计划下Mythos 5模型的开放范围，使更多美国国内及国际合作伙伴能够获得使用权限。",
+          "url": "https://flash.jin10.com/detail/20260701111441386800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "Anthropic：Fable 5 将于明天在Claude平台全球上线。",
+          "url": "https://flash.jin10.com/detail/20260701111339492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
