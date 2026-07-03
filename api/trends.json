@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:04:25.835173+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-07-04T07:02:16.468293+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 07时02分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -50,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 07时02分]"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -137,7 +137,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -177,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "曝阿里7月10日起全面禁用Claude",
@@ -187,23 +187,12 @@
           "ranks": [
             12,
             7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
             10,
-            9
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
@@ -215,19 +204,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
           "url": "https://www.zhihu.com/question/2056384180200498322",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -236,7 +226,20 @@
           "ranks": [
             14,
             18,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
