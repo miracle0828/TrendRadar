@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T21:21:15.098103+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-07-04T23:04:40.071168+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -49,19 +49,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时20分 ~ 23时04分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
           "url": "https://wallstreetcn.com/livenews/3128943",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗外长会晤黎真主党及哈马斯代表",
+          "url": "https://wallstreetcn.com/livenews/3128948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://wallstreetcn.com/livenews/3128947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
+          "url": "https://flash.jin10.com/detail/20260704221625100800",
+          "source": "金十数据",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "23时04分"
         },
         {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
@@ -88,16 +122,31 @@
           "time_info": "[03时19分 ~ 07时02分]"
         },
         {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 23时04分]"
+        },
+        {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
           "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时04分]"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -124,19 +173,6 @@
           "time_info": "[14时18分 ~ 17时22分]"
         },
         {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 21时21分]"
-        },
-        {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
           "url": "https://flash.jin10.com/detail/20260704184728055800",
           "source": "金十数据",
@@ -154,11 +190,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 23时04分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -171,6 +208,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时04分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
@@ -220,15 +269,15 @@
           "time_info": "14时18分"
         },
         {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
+          "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "23时04分"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -253,6 +302,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
           "url": "https://flash.jin10.com/detail/20260704113342386800",
           "source": "金十数据",
@@ -273,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
+          "url": "https://flash.jin10.com/detail/20260704212154579800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
@@ -402,17 +473,6 @@
       "match_count": 18,
       "titles": [
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
           "title": "豆包、千问：将下线智能体功能",
           "url": "https://wallstreetcn.com/articles/3776193",
           "source": "华尔街见闻",
@@ -423,8 +483,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 23时04分]"
+        },
+        {
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时18分 ~ 21时21分]"
+          "time_info": "[17时21分 ~ 23时04分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
@@ -439,18 +522,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时42分 ~ 21时21分]"
-        },
-        {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 21时21分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -469,25 +540,15 @@
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://flash.jin10.com/detail/20260704211410750800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
           "url": "https://wallstreetcn.com/livenews/3128945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时04分]"
         },
         {
           "title": "高盛：维持MiniMax买入，目标价860港元",
@@ -538,6 +599,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时04分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
