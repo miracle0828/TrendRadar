@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T16:23:40.195888+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-07-07T19:48:59.772456+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -77,6 +77,17 @@
           "time_info": "[02时55分 ~ 06时13分]"
         },
         {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时48分]"
+        },
+        {
           "title": "伊朗最高领袖发布任免令",
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "穆迪评级：伊朗冲突进一步凸显了澳大利亚作为关键液化天然气供应国的地位，尽管其面临的政策风险正在上升。",
@@ -146,7 +146,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -166,11 +166,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时48分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -202,9 +203,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，比亚迪、腾讯、日月光半导体、阿特斯太阳能初步收涨4.5%，蔚来、美团涨4.1%，小鹏涨3.6%，新东方、网易涨3%，阿里巴巴涨1.9%。 ETF中，EMXC涨3.3%，KWEB涨2.4%，CQQQ涨0.8%。",
@@ -235,7 +258,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
