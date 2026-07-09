@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T00:27:19.372366+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-10T02:50:18.401706+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时50分]"
         },
         {
           "title": "美军称再次对伊朗发起打击",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时50分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260710023830037800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时50分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -48,8 +59,54 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时50分]"
+        },
+        {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时50分]"
+        },
+        {
+          "title": "伊朗称发射导弹摧毁美军一指挥中心",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时50分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260710023239108800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时50分"
+        },
+        {
+          "title": "报道：伊朗多地传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "据伊朗媒体：哈马斯发言人哈齐姆·卡西姆在以色列的一次暗杀企图中幸免于难。",
@@ -107,15 +164,26 @@
           "time_info": "00时27分"
         },
         {
-          "title": "伊朗发射巡航导弹袭击美国舰艇",
-          "url": "https://www.toutiao.com/trending/7659924718308327474/",
-          "source": "今日头条",
+          "title": "据伊朗迈赫尔通讯社：数分钟前，伊朗布什尔周边以及乔加达克市附近传出两起爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260710022459240800",
+          "source": "金十数据",
           "ranks": [
-            14
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时50分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔省科纳拉克传出三声爆炸声。目前尚无关于爆炸原因以及可能造成损失程度的详细信息。",
+          "url": "https://flash.jin10.com/detail/20260710022142127800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "海湾合作委员会：伊朗应完全遵守与美国的谅解备忘录，并执行其中的内容。",
@@ -140,17 +208,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "伊朗称发射导弹摧毁美军一指挥中心",
-          "url": "https://www.toutiao.com/trending/7660492985578032683/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
           "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3131446",
           "source": "华尔街见闻-快讯",
@@ -160,12 +217,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "以总理：“不允许”伊朗拥核，拟大幅追加国防预算",
+          "url": "https://wallstreetcn.com/livenews/3131486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
@@ -205,11 +273,23 @@
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时50分]"
+        },
+        {
+          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
+          "url": "https://wallstreetcn.com/livenews/3131501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时50分"
         },
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
@@ -221,6 +301,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "马斯克：承认此前低估Anthropic，称其目前无疑是AI行业领先者",
+          "url": "https://flash.jin10.com/detail/20260710020628223800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
+          "url": "https://wallstreetcn.com/livenews/3131490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.64%，暂报2168.03点。 MarketVectorTM数字资产100中盘指数涨0.89%，报2538.31点。 MarketVector数字资产100指数涨0.69%，报12443.14点。 目前，Solana涨0.44%，狗狗币涨0.11%，XRP持平。 比特币涨0.68%，暂报62572.83美元；以太坊跌0.11%，暂报1734.71美元。",
+          "url": "https://wallstreetcn.com/livenews/3131481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     }
