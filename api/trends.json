@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-09T07:05:38.534188+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-09T10:48:17.420095+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 75,
+      "match_count": 88,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
           "url": "https://wallstreetcn.com/articles/3776459",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时48分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时48分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -99,6 +101,17 @@
           "time_info": "[01时27分 ~ 03时22分]"
         },
         {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 10时48分]"
+        },
+        {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
           "url": "https://www.cls.cn/detail/2420443",
           "source": "财联社热门",
@@ -109,6 +122,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "伊朗议长：你敢打，我就还击",
+          "url": "https://news.ifeng.com/c/8uc9jpXww8R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "特朗普：我在伊朗的刺杀名单排第一位",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
           "title": "美军开始对伊朗实施更多打击",
@@ -128,7 +174,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -172,7 +218,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -188,15 +234,15 @@
           "time_info": "05时06分"
         },
         {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
+          "title": "伊朗称袭击科威特巴林3个美军基地",
+          "url": "https://wallstreetcn.com/livenews/3131044",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "10时48分"
         },
         {
           "title": "伊媒：伊朗防御系统正在应对美军打击",
@@ -219,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "伊朗革命卫队：我们的战士不会对美国军队的侵略行为置之不理。",
+          "url": "https://flash.jin10.com/detail/20260709102911827800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "伊朗与卡塔尔通电话，讨论霍尔木兹海峡事件。",
@@ -272,11 +329,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 10时48分]"
+        },
+        {
+          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
+          "url": "https://www.cls.cn/detail/2421013",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时22分 ~ 07时05分]"
+          "time_info": "[07时05分 ~ 10时48分]"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -299,6 +368,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 05时06分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
           "title": "美军对伊朗发动强力打击",
@@ -325,6 +405,17 @@
           "time_info": "[01时28分 ~ 03时22分]"
         },
         {
+          "title": "伊朗：将大规模打击美军基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
           "url": "https://www.zhihu.com/question/2058125610363401206",
           "source": "知乎",
@@ -336,15 +427,37 @@
           "time_info": "[05时06分 ~ 07时05分]"
         },
         {
-          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
-          "url": "https://www.cls.cn/detail/2421013",
-          "source": "财联社热门",
+          "title": "伊朗称将大规模打击美军基地",
+          "url": "https://www.toutiao.com/trending/7659929891621584946/",
+          "source": "今日头条",
           "ranks": [
-            6
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
           "title": "花旗：预计2026年第四季度布伦特原油均价为70美元/桶，2027年均价为65美元/桶，前提是假设美国与伊朗最终达成协议，霍尔木兹海峡恢复开放。",
@@ -391,6 +504,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "伊朗革命卫队：如果美国再次发动攻击，我们的反应将扩展到地区的其他美国基地。",
+          "url": "https://flash.jin10.com/detail/20260709102727845800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "特朗普称“伊朗协议已终结”，拉美资产应声下滑",
           "url": "https://wallstreetcn.com/livenews/3130889",
           "source": "华尔街见闻-快讯",
@@ -419,7 +543,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -496,9 +620,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗革命卫队：在针对美国的惩罚性反击的第一阶段，通过导弹和无人机，袭击了科威特的两个美国基地以及巴林的两个美国基地。（外媒更正非“一个”巴林美军基地）",
+          "url": "https://flash.jin10.com/detail/20260709102417070800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "美国总统特朗普：在伊朗的“黑名单”上，我是第一号。 刚刚猛烈地袭击了伊朗。 我们有很多方法可以获胜。 不知道伊朗是否会遵守一份协议。 伊朗“气急败坏地”想要（与特朗普）达成一份协议。",
@@ -507,7 +642,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -611,6 +746,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "伊朗议长：美国敢打 伊朗就还击",
+          "url": "https://wallstreetcn.com/livenews/3131026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗科纳拉克和恰巴哈尔附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260709041300738800",
           "source": "金十数据",
@@ -661,7 +807,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -716,7 +862,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -727,7 +873,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -760,7 +906,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -771,7 +917,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -782,7 +928,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -793,7 +939,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -815,7 +961,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -837,7 +983,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
@@ -845,8 +991,19 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 10时48分]"
+        },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
@@ -860,15 +1017,31 @@
           "time_info": "[01时27分 ~ 03时22分]"
         },
         {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
+          "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
+          "url": "https://wallstreetcn.com/articles/3776446",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            8,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时48分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时48分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -893,19 +1066,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
-          "url": "https://wallstreetcn.com/articles/3776446",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时05分]"
-        },
-        {
           "title": "OpenAI：推出GPT-LIVE。",
           "url": "https://flash.jin10.com/detail/20260709010325337800",
           "source": "金十数据",
@@ -915,18 +1075,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时05分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -940,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时27分 ~ 05时06分]"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至2%，华虹宏力涨近8%，中芯国际、联想集团涨超6%，阿里巴巴涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3131030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -973,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "智谱大涨逾20%，MINIMAX涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3131015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
@@ -1001,6 +1171,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家统计局：6月份，受国际市场价格波动影响，国内黄金饰品和汽油价格环比分别下降8.7%和4.9%，降幅比上月分别扩大5.9个和4.6个百分点，合计影响CPI环比下降约0.22个百分点，对CPI的下拉影响比上月增加约0.19个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3131009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     }
