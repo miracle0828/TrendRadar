@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T22:52:09.627754+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-07-11T23:54:43.281333+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 22时52分]"
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 23时54分]"
         },
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
@@ -29,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时03分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时03分 ~ 23时54分]"
         },
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -90,28 +91,6 @@
           "time_info": "19时04分"
         },
         {
-          "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
-          "url": "https://flash.jin10.com/detail/20260711222557487800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "伊朗学者称美方从未真正履行备忘录",
-          "url": "https://flash.jin10.com/detail/20260711222306519800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
           "url": "https://flash.jin10.com/detail/20260711004559228800",
           "source": "金十数据",
@@ -123,6 +102,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260711224608958800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "伊朗称美方撤回立场前不会进行任何谈判",
           "url": "https://flash.jin10.com/detail/20260711180734540800",
           "source": "金十数据",
@@ -132,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
-        },
-        {
-          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
-          "url": "https://flash.jin10.com/detail/20260711221401757800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：美国多次违反相关谅解备忘录中的承诺，伊朗的政策仍基于“承诺换承诺”原则，任何来自华盛顿的违约行为都将遭到伊朗的对等回应。",
@@ -169,6 +148,18 @@
           "time_info": "[00时55分 ~ 07时08分]"
         },
         {
+          "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
+          "url": "https://flash.jin10.com/detail/20260711222557487800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
+        },
+        {
           "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
           "url": "https://wallstreetcn.com/livenews/3132333",
           "source": "华尔街见闻-快讯",
@@ -193,6 +184,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 07时08分]"
+        },
+        {
+          "title": "伊朗学者称美方从未真正履行备忘录",
+          "url": "https://flash.jin10.com/detail/20260711222306519800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。",
@@ -318,6 +321,18 @@
           "time_info": "[10时29分 ~ 13时39分]"
         },
         {
+          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
+          "url": "https://flash.jin10.com/detail/20260711221401757800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
+        },
+        {
           "title": "伊朗西部一座炼油厂发生大火",
           "url": "https://wallstreetcn.com/livenews/3132214",
           "source": "华尔街见闻-快讯",
@@ -427,6 +442,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时52分 ~ 19时04分]"
+        },
+        {
+          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
+          "url": "https://wallstreetcn.com/livenews/3132344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
+          "url": "https://wallstreetcn.com/livenews/3132342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时54分]"
+        },
+        {
+          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3132340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时54分]"
         },
         {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
@@ -549,18 +600,6 @@
           "time_info": "[06时01分 ~ 07时08分]"
         },
         {
-          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
-          "url": "https://wallstreetcn.com/livenews/3132344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时52分]"
-        },
-        {
           "title": "美国高级官员：美国要求伊朗发表公开声明，承诺停止向霍尔木兹海峡船只开火，并确认所有航运通道均保持开放。",
           "url": "https://flash.jin10.com/detail/20260711050147694800",
           "source": "金十数据",
@@ -571,30 +610,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时08分]"
-        },
-        {
-          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
-          "url": "https://wallstreetcn.com/livenews/3132342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时52分]"
-        },
-        {
-          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
-          "url": "https://wallstreetcn.com/livenews/3132340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时52分]"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
@@ -619,6 +634,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时08分]"
+        },
+        {
+          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
+          "url": "https://flash.jin10.com/detail/20260711212852417800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
@@ -842,17 +869,6 @@
           "time_info": "15时52分"
         },
         {
-          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
-          "url": "https://flash.jin10.com/detail/20260711212852417800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：当地官员证实，伊朗西部洛雷斯坦省一座工业城发生火灾。",
           "url": "https://flash.jin10.com/detail/20260711013500067800",
           "source": "金十数据",
@@ -945,8 +961,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时03分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时03分 ~ 23时54分]"
         },
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
@@ -966,9 +982,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -1033,6 +1049,18 @@
           "time_info": "[06时01分 ~ 07时08分]"
         },
         {
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://flash.jin10.com/detail/20260711213701077800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
+        },
+        {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
           "url": "https://flash.jin10.com/detail/20260711042558788800",
           "source": "金十数据",
@@ -1054,17 +1082,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
-          "url": "https://flash.jin10.com/detail/20260711213701077800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         }
       ]
     },
