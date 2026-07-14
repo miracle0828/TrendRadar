@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T18:07:40.035967+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-07-14T20:10:42.811551+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 102,
+      "match_count": 105,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 18时07分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 20时10分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -31,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 18时07分]"
+          "appearance_count": 7,
+          "time_info": "[07时53分 ~ 20时10分]"
         },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -53,11 +54,12 @@
             18,
             16,
             14,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 18时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 20时10分]"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
@@ -79,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时10分]"
         },
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -90,8 +92,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时10分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "【伊朗称美进入正式战争状态】据伊朗媒体报道，伊朗最高领袖穆杰塔巴·哈梅内伊的军事顾问雷扎伊今天（7月14日）表示，“已不再存在伊美谅解备忘录，敌人已正式进入战争状态。” (CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3133647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
@@ -645,7 +658,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -733,7 +746,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -780,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://flash.jin10.com/detail/20260714200039846800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "伊朗外长与塞浦路斯外长讨论霍尔木兹海峡的冲突。",
@@ -870,6 +894,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "伊朗称布什尔市四个地区遭美军袭击",
+          "url": "https://www.toutiao.com/trending/7662322212086484530/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "美国海军主导的联合海事信息中心：美国实施的海上封锁覆盖整个伊朗海岸线，包括但不限于伊朗各港口及石油码头。",
           "url": "https://flash.jin10.com/detail/20260714015443805800",
           "source": "金十数据",
@@ -942,7 +977,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1170,8 +1205,21 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时10分]"
+        },
         {
           "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
           "url": "https://flash.jin10.com/detail/20260714020541003800",
@@ -1184,28 +1232,17 @@
           "time_info": "02时43分"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时07分]"
-        },
-        {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 20时10分]"
         },
         {
           "title": "加拿大银行监管部门从在4月份邮件中警告众多金融机构关于Anthropic旗下Claude Mythos的诸多风险。（路透）",
@@ -1218,6 +1255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 04时14分]"
+        },
+        {
+          "title": "阿里云：下调GLM-5.2 Fast mode模式价格",
+          "url": "https://wallstreetcn.com/livenews/3133635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
