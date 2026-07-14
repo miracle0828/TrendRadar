@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T07:53:54.605006+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-07-14T10:14:42.209484+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 91,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -19,6 +19,18 @@
           "time_info": "[00时32分 ~ 07时53分]"
         },
         {
+          "title": "霍尔木兹海峡，伊朗不能承受之重",
+          "url": "https://news.ifeng.com/c/8uixCdUTtOq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 10时14分]"
+        },
+        {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
           "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
@@ -28,8 +40,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 10时14分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 10时14分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -43,15 +68,16 @@
           "time_info": "[00时32分 ~ 07时53分]"
         },
         {
-          "title": "霍尔木兹海峡，伊朗不能承受之重",
-          "url": "https://news.ifeng.com/c/8uixCdUTtOq",
-          "source": "凤凰网",
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时53分]"
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时14分]"
         },
         {
           "title": "美国中央司令部确认恢复对伊朗港口的封锁",
@@ -90,16 +116,15 @@
           "time_info": "[00时32分 ~ 07时53分]"
         },
         {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
+          "title": "伊朗称袭击美国海军第五舰队司令部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            16
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
@@ -133,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        },
-        {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         },
         {
           "title": "俄罗斯能源部长：正如伊朗伊斯兰共和国始终顶住外部压力和霸凌一样，俄罗斯也绝不会向以强权为基础的政策低头屈服。",
@@ -188,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
-        },
-        {
-          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
-          "url": "https://www.zhihu.com/question/2060130032056366712",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         },
         {
           "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
@@ -249,6 +252,18 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
+          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
+          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时14分]"
+        },
+        {
           "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
           "url": "https://wallstreetcn.com/livenews/3133041",
           "source": "华尔街见闻-快讯",
@@ -259,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
+          "url": "https://www.zhihu.com/question/2060130032056366712",
+          "source": "知乎",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时14分]"
         },
         {
           "title": "美军称对伊朗发起新一轮打击",
@@ -441,6 +468,17 @@
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
+          "title": "伊朗袭击美国海军第五舰队司令部",
+          "url": "https://www.toutiao.com/trending/7661886519921573894/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "据伊朗媒体：俄罗斯能源部长与伊朗总统举行了会晤。",
           "url": "https://flash.jin10.com/detail/20260714000852763800",
           "source": "金十数据",
@@ -491,7 +529,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -549,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "伊朗努尔新闻：伊朗南部布什尔省部分地区遭到美国新一轮袭击。",
+          "url": "https://flash.jin10.com/detail/20260714094819693800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美国将从15日凌晨4点起封锁伊朗港口",
@@ -612,18 +661,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
-          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -733,7 +771,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -747,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "A股油气股开盘领涨，科力股份涨超10%，潜能恒信、中曼石油、蓝焰控股、石化油服涨幅居前，消息上，美国总统特朗普已正式通知国会，伊朗战事重新爆发，美军开始对伊朗发动新一轮打击。",
+          "url": "https://wallstreetcn.com/livenews/3133196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美军给出封锁伊朗港口的具体时间",
@@ -865,9 +914,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称攻击并摧毁两艘“违规船只”",
+          "url": "https://wallstreetcn.com/livenews/3133189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -890,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美官员：美军将稍后公布“封锁伊朗”的具体启动时间",
@@ -936,6 +1007,28 @@
           "time_info": "05时55分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
+          "url": "https://wallstreetcn.com/livenews/3133180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "美军连续第三晚空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E6%99%9A%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "美国中央司令部：美军首次在战斗中使用海上无人机。 上周日打击了位于伊朗的潜艇和舰船设施。",
           "url": "https://wallstreetcn.com/livenews/3132975",
           "source": "华尔街见闻-快讯",
@@ -950,7 +1043,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
@@ -985,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "港股大模型概念股盘初走低，智谱(02513.HK)跌9.30%，MINIMAX-W(00100.HK)跌5.03%。",
+          "url": "https://flash.jin10.com/detail/20260714094319868800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
