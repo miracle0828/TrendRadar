@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T18:07:33.037949+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-07-16T20:20:44.047118+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -136,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "消息人士：伊朗告知也门胡塞武装，若美国袭击伊朗电网，则关闭通往红海的曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260716195103491800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "美国总统特朗普：伊朗已经允许被扣押的美国人离开。 美方对伊朗释放的这种善意表示感谢。",
@@ -442,6 +453,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "消息人士称，伊朗告知也门胡塞武装，若美国攻击其电力网络，则关闭红海门户曼德海峡。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3135058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗问题）我们正在进行一场微妙的外交博弈。",
           "url": "https://flash.jin10.com/detail/20260716013824653800",
           "source": "金十数据",
@@ -484,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
@@ -569,7 +602,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -624,7 +657,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -734,7 +767,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -904,6 +937,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "俄罗斯安全官员：美国对伊朗和委内瑞拉的行动是为了控制能源市场。",
+          "url": "https://flash.jin10.com/detail/20260716192902688800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "特朗普：当伊朗局势稳定下来，油价将跌至55美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3134597",
           "source": "华尔街见闻-快讯",
@@ -1028,7 +1072,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -1050,11 +1094,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 20时20分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -1062,11 +1107,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -1088,7 +1134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1125,7 +1171,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1221,6 +1267,28 @@
           "time_info": "08时06分"
         },
         {
+          "title": "【海光信息：预计2026年上半年净利润同比增长41.50%到52.32%】海光信息公告，预计2026年上半年净利润17亿元到18.3亿元，同比增长41.50%到52.32%。公司持续优化“CPU+DCU”业务布局，通过高强度研发投入，不断实现技术创新、产品性能提升，保持了国内领先的市场地位。报告期内，在人工智能大模型加速迭代、AI Agent应用规模化落地、国产化进程迈向商业化应用的多重驱动下，公司持续加码研发投入、迭代优化产品性能，牢牢把握发展机遇期，推动公司高端处理器产品的市场版图扩展，实现了公司营业收入的快速增长，整体业绩的持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3135049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "腾讯云SkillPay上线",
+          "url": "https://wallstreetcn.com/livenews/3135047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "据The Information：Anthropic正就在IPO前增加25亿美元的银行信贷额度进行谈判。",
           "url": "https://flash.jin10.com/detail/20260716070929444800",
           "source": "金十数据",
@@ -1230,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "MiniMax将携M3、H3等全模态模型及产品亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3135046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "报道：Anthropic计划在IPO临近之际安排投资者会议",
@@ -1271,7 +1350,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1357,6 +1436,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "兴业银锡：兴业黄金（香港）以每股0.053澳元的价格分两批认购TAT在澳大利亚证券交易所定向增发的普通股，认购股份总数占认购完成日其已发行股份的20%，合计交易金额约518.27万澳元。",
+          "url": "https://wallstreetcn.com/livenews/3135031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     }
