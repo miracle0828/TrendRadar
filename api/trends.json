@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:22:52.077132+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-07-16T18:07:33.037949+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 18时07分]"
         },
         {
           "title": "伊朗议长发声：这是与美国的生存之战",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 18时07分]"
         },
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -111,7 +111,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -393,7 +393,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -563,6 +563,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "克里姆林宫：与伊朗保持联系，但尚未收到与俄罗斯总统普京通话的请求。",
+          "url": "https://flash.jin10.com/detail/20260716174534979800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "伊朗南部阿瓦士和恰巴哈尔传出爆炸声。（迈赫尔通讯社MEHR）",
           "url": "https://wallstreetcn.com/livenews/3134576",
           "source": "华尔街见闻-快讯",
@@ -605,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "克里姆林宫：伊朗危机的新一轮动荡令人担忧，可能对全球经济造成伤害。",
+          "url": "https://flash.jin10.com/detail/20260716174529210800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "伊朗外交部称伊方目前没有谈判计划，专注于防御",
@@ -657,7 +679,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -704,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗：美国袭击儿童癌症中心 犯下战争罪行",
+          "url": "https://flash.jin10.com/detail/20260716174330864800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们别无选择，只能依靠自己的力量变得强大。",
@@ -987,7 +1020,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -995,7 +1028,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -1016,11 +1049,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 18时07分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -1048,6 +1082,17 @@
           "time_info": "[00时20分 ~ 08时06分]"
         },
         {
+          "title": "据英国金融时报：中国人工智能初创公司月之暗面计划在未来几天内发布Kimi K3，该模型参数规模达2万亿至3万亿，将成为中国迄今最大的AI模型。",
+          "url": "https://flash.jin10.com/detail/20260716175440934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/3134592",
           "source": "华尔街见闻-快讯",
@@ -1072,6 +1117,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 08时06分]"
+        },
+        {
+          "title": "据英国金融时报：中国人工智能初创公司月之暗面将推出新模型，挑战Anthropic的领先地位。",
+          "url": "https://flash.jin10.com/detail/20260716175410630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收2.9%。 热门中概股里，名创优品初步收涨9.2%，美团涨6.2%，再鼎医药涨5.8%，腾讯涨5%，阿里涨4.8%，亚朵涨4.5%，万国数据涨4%，阿特斯、华住、金山云涨超3%。 ETF中，KWEB涨3.2%，CQQQ跌0.3%。",
@@ -1193,7 +1249,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1207,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "南向资金今日大幅净买入50.39亿元。港股通（沪）方面，智谱、阿里巴巴-W分别获净买入18.4亿港元、11.91亿港元；小米集团-W净卖出额居首，金额为6.87亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净买入16.42亿港元、15.41亿港元；建滔积层板净卖出额居首，金额为10.7亿港元。",
+          "url": "https://flash.jin10.com/detail/20260716173158022800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "报告：阿里领跑中国AI编程市场，份额超第二至第五名总和",
