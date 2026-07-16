@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T02:05:30.088149+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-07-17T04:02:49.660962+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 33,
       "titles": [
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -14,9 +14,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊媒：伊朗布什尔市传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260717035252961800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美军对阿巴斯港居民区发动袭击，目前已造成至少7人受伤。",
+          "url": "https://flash.jin10.com/detail/20260717034718899800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊媒：伊朗布什尔市传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3135256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：也门军事官员表示，以色列正协助沙特阿拉伯拦截也门的报复性攻击。",
@@ -30,6 +63,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗布什尔省省长表示，在美国持续发动袭击背景下，布什尔市当地时间稍早传出两次爆炸声，相关情况仍在进一步调查中。",
+          "url": "https://flash.jin10.com/detail/20260717033207726800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国副总统万斯：以色列政府内部有人试图在伊朗协议问题上影响美国",
+          "url": "https://wallstreetcn.com/livenews/3135253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
           "url": "https://www.cls.cn/detail/2428434",
           "source": "财联社热门",
@@ -37,8 +92,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时02分]"
         },
         {
           "title": "白宫：将继续关注伊朗进展。",
@@ -47,7 +102,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -58,7 +113,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -69,9 +124,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗绝不会允许美国介入霍尔木兹海峡事务。伊朗规定的航行路线是安全的，任何偏离该路线的航线都将面临风险，相关船只可能遭受损害。",
+          "url": "https://flash.jin10.com/detail/20260717031824680800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗革命卫队：美国目前已陷入困境，唯一出路是撤出西亚地区。美国霸凌和挑衅的时代已经结束。",
+          "url": "https://flash.jin10.com/detail/20260717031532132800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
@@ -80,9 +157,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊朗革命卫队：自宣布停火以来，美国战斗机没有一天离开霍尔木兹海峡区域，美方军事活动仍持续存在。",
+          "url": "https://flash.jin10.com/detail/20260717030827920800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗城市阿瓦士传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260717030750035800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "据伊朗媒体Fars News：美国导弹击中阿巴斯港附近目标。",
@@ -102,7 +201,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -124,9 +223,108 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊朗革命卫队：如果伊朗基础设施遭到破坏，伊朗将把该地区所有相关基础设施作为打击目标。",
+          "url": "https://flash.jin10.com/detail/20260717030502776800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗具备与敌人长期作战的能力。",
+          "url": "https://flash.jin10.com/detail/20260717030420934800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "科威特称伊朗周四的袭击造成了损失。",
+          "url": "https://wallstreetcn.com/livenews/3135241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
+          "url": "https://flash.jin10.com/detail/20260717025637220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
+          "url": "https://flash.jin10.com/detail/20260717024825919800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3135236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗阿巴斯港西部传出三次爆炸声",
+          "url": "https://flash.jin10.com/detail/20260717023701527800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗阿巴斯港西部传出三次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3135235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "伊朗格什姆岛附近区域遭袭",
@@ -146,15 +344,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美军开始对伊朗实施新一轮袭击。",
+          "url": "https://wallstreetcn.com/livenews/3135229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "白宫称伊朗仍在与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3135227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -164,8 +384,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时02分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -201,15 +421,27 @@
           "time_info": "00时25分"
         },
         {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3135254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
           "url": "https://www.zhihu.com/question/2060635206651065501",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时02分]"
         },
         {
           "title": "市场消息：英特尔(INTC.O)正在探索基于谷歌云(GOOG.O)的解决方案，以帮助团队简化市场营销和沟通工作流程。",
@@ -221,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
+          "url": "https://flash.jin10.com/detail/20260717032122881800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
@@ -240,7 +483,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -256,13 +499,24 @@
           "time_info": "00时25分"
         },
         {
+          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
+          "url": "https://wallstreetcn.com/livenews/3135246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "中国企业发布全球最大规模的开源模型Kimi K3",
           "url": "https://wallstreetcn.com/livenews/3135204",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -276,13 +530,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260717022948795800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "谷歌A跌幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3135230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数涨约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3135248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
           "url": "https://wallstreetcn.com/livenews/3135199",
@@ -290,7 +577,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         }
