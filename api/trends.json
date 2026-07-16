@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-16T20:20:44.047118+08:00",
-  "total_titles_processed": 1498,
-  "failed_sources": [],
+  "generated_at": "2026-07-16T23:01:49.627228+08:00",
+  "total_titles_processed": 1630,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 95,
+      "match_count": 96,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -144,7 +146,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -225,6 +227,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时06分 ~ 12时08分]"
+        },
+        {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 23时01分]"
         },
         {
           "title": "美军对驶往伊朗油轮射“地狱火”导弹",
@@ -459,7 +473,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -506,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
-          "url": "https://www.cls.cn/detail/2428434",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
         },
         {
           "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
@@ -605,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "沙特外交部：我们强烈谴责伊朗对科威特、巴林和约旦的无端攻击。",
+          "url": "https://flash.jin10.com/detail/20260716222800246800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "伊朗南部阿瓦士和恰巴哈尔传出爆炸声。（迈赫尔通讯社MEHR）",
@@ -943,7 +957,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1072,8 +1086,22 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 23时01分]"
+        },
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
           "url": "https://www.cls.cn/detail/2427348",
@@ -1086,20 +1114,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 08时06分]"
-        },
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 20时20分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -1273,7 +1287,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1284,7 +1298,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1306,7 +1320,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1342,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "月之暗面Kimi K3已经开始向用户提供使用",
+          "url": "https://flash.jin10.com/detail/20260716220404472800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "南向资金今日大幅净买入50.39亿元。港股通（沪）方面，智谱、阿里巴巴-W分别获净买入18.4亿港元、11.91亿港元；小米集团-W净卖出额居首，金额为6.87亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净买入16.42亿港元、15.41亿港元；建滔积层板净卖出额居首，金额为10.7亿港元。",
@@ -1450,7 +1475,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
