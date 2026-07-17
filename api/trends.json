@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:09:17.619753+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-07-17T22:43:47.518774+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 88,
       "titles": [
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -114,7 +114,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -215,11 +215,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 22时43分]"
         },
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -547,7 +548,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -607,6 +608,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "伊拉克北部一伊朗反政府武装遭袭9死3伤",
+          "url": "https://wallstreetcn.com/livenews/3135761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
           "url": "https://flash.jin10.com/detail/20260717024825919800",
           "source": "金十数据",
@@ -662,6 +674,17 @@
           "time_info": "18时46分"
         },
         {
+          "title": "俄罗斯外长拉夫罗夫：如果针对伊朗的军事行动持续，我们将看到其后果蔓延至红海。届时，不仅是石油部门，全球贸易都将面临更糟糕的局面。",
+          "url": "https://flash.jin10.com/detail/20260717220300757800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
           "url": "https://wallstreetcn.com/livenews/3135236",
           "source": "华尔街见闻-快讯",
@@ -671,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "伊朗阿巴斯港西部传出三次爆炸声",
@@ -726,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：我们正努力建设一条连接伊朗、阿塞拜疆和俄罗斯的铁路线，以应对现有水道通道的紧张局势。霍尔木兹海峡危机的持续将对船舶航行、国际运输和全球经济产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260717220241233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "伊朗格什姆岛附近区域遭袭",
@@ -814,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "伊朗桥梁、水厂、粮仓接连被炸，是极限施压还是地面入侵前兆？",
+          "url": "https://flash.jin10.com/detail/20260717220130366800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "伊朗方面否认有美籍人员从该国监狱获释",
@@ -929,7 +985,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -953,8 +1009,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 20时09分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 22时43分]"
         },
         {
           "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
@@ -969,6 +1025,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 18时46分]"
+        },
+        {
+          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
+          "url": "https://wallstreetcn.com/articles/3777138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 22时43分]"
         },
         {
           "title": "全球最大规模开源模型Kimi K3发布",
@@ -993,19 +1063,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时51分 ~ 13时43分]"
-        },
-        {
-          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
-          "url": "https://wallstreetcn.com/articles/3777138",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 20时09分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -1187,6 +1244,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "南向资金追踪｜本周累计净买入约370亿港元 加仓阿里巴巴及网易抛售建滔积层板",
+          "url": "https://www.cls.cn/detail/2429746",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
           "url": "https://wallstreetcn.com/livenews/3135246",
           "source": "华尔街见闻-快讯",
@@ -1253,6 +1321,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "阿里云王坚：对AI理解科学的想象，还局限在人类写出来的知识里",
+          "url": "https://wallstreetcn.com/livenews/3135763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "MINIMAX-W(00100.HK)跌幅扩大至10%，智谱(02513.HK)现跌15.96%。",
           "url": "https://flash.jin10.com/detail/20260717102630751800",
           "source": "金十数据",
@@ -1262,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "中国企业发布全球最大规模的开源模型Kimi K3",
