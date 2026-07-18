@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T17:24:12.900773+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-07-18T19:02:28.809792+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -93,6 +93,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3136001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://flash.jin10.com/detail/20260718064504516800",
           "source": "金十数据",
@@ -115,6 +126,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "阿联酋外交部：阿联酋强烈谴责伊朗对巴林、科威特和约旦再次发动的侵略性袭击。",
+          "url": "https://flash.jin10.com/detail/20260718183940867800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：一艘泰国籍船只因未经伊朗革命卫队许可驶经霍尔木兹海峡，遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260718013628025800",
           "source": "金十数据",
@@ -135,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
+          "url": "https://wallstreetcn.com/livenews/3135999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：知情人士称，伊朗革命卫队在霍尔木兹海峡袭击了一艘船只。",
@@ -168,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://flash.jin10.com/detail/20260718181052420800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -359,6 +403,17 @@
           "time_info": "[05时52分 ~ 07时52分]"
         },
         {
+          "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
+          "url": "https://wallstreetcn.com/articles/3777224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
           "url": "https://flash.jin10.com/detail/20260718044353532800",
           "source": "金十数据",
@@ -449,6 +504,18 @@
           "time_info": "[00时14分 ~ 04时05分]"
         },
         {
+          "title": "科威特消防局表示，在应对伊朗袭击引发的火灾时，有消防员和工作人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260718165423000800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时02分]"
+        },
+        {
           "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
           "url": "https://flash.jin10.com/detail/20260718121106633800",
           "source": "金十数据",
@@ -473,15 +540,16 @@
           "time_info": "[10时13分 ~ 13时24分]"
         },
         {
-          "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
-          "url": "https://wallstreetcn.com/articles/3777224",
-          "source": "华尔街见闻",
+          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135987",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 19时02分]"
         },
         {
           "title": "美国官员：伊朗向沙特美军基地发射导弹",
@@ -541,15 +609,15 @@
           "time_info": "13时24分"
         },
         {
-          "title": "科威特消防局表示，在应对伊朗袭击引发的火灾时，有消防员和工作人员受伤。",
-          "url": "https://flash.jin10.com/detail/20260718165423000800",
+          "title": "据科威特国家通讯社：科威特石油公司（KPC）称，伊朗袭击导致一处石油设施遭到破坏，此次袭击造成人员受伤和重大财产损失。",
+          "url": "https://flash.jin10.com/detail/20260718180425107800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗第一副总统：任何侵犯伊朗领土的行为都将遭到坚决、出其不意且超常规的回应。",
@@ -596,6 +664,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "伊朗说以色列是地区战争根源",
+          "url": "https://flash.jin10.com/detail/20260718174648913800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美军连炸伊朗5座桥，伊朗要求封锁曼德海峡！中东多国遭袭，特朗普想扩大打击，施压伊朗重返谈判",
           "url": "https://wallstreetcn.com/articles/3777193",
           "source": "华尔街见闻",
@@ -618,15 +697,15 @@
           "time_info": "15时47分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135987",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
+          "url": "https://flash.jin10.com/detail/20260718174502327800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "19时02分"
         },
         {
           "title": "卡塔尔外交部：伊朗对这些侵略行为及其引发的所有后果和影响负有全部法律责任。",
@@ -673,6 +752,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。",
+          "url": "https://flash.jin10.com/detail/20260718174139867800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗军方声称，最新的攻击瞄准了科威特的美国弹药库、桥梁以及约旦的燃料储备。",
           "url": "https://flash.jin10.com/detail/20260718085336636800",
           "source": "金十数据",
@@ -715,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "伊朗革命卫队：两枚伊朗导弹成功突破多枚“爱国者”导弹的防线。至少有两枚伊朗弹道导弹击中了位于约旦的空军基地。尽管伊朗发射的弹道导弹数量相对较少，但其袭击的成功率在过去几天里似乎稳步提高。",
+          "url": "https://flash.jin10.com/detail/20260718171933578800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美军袭击伊朗哈尔克岛油轮",
@@ -800,7 +901,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -844,7 +945,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -951,7 +1052,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -961,8 +1062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 17时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 19时02分]"
         },
         {
           "title": "南向资金追踪｜本周累计净买入约370亿港元 加仓阿里巴巴及网易抛售建滔积层板",
@@ -977,6 +1078,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时14分 ~ 17时24分]"
+        },
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 19时02分]"
         },
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
@@ -1007,19 +1121,6 @@
           "time_info": "[00时14分 ~ 10时13分]"
         },
         {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 17时24分]"
-        },
-        {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
@@ -1042,8 +1143,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 17时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 19时02分]"
+        },
+        {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时02分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -1057,15 +1169,15 @@
           "time_info": "[06时47分 ~ 06时48分]"
         },
         {
-          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
-          "url": "https://www.zhihu.com/question/2061412232924337204",
-          "source": "知乎",
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时02分]"
         },
         {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
@@ -1084,33 +1196,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时24分]"
-        },
-        {
-          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
-          "url": "https://www.cls.cn/detail/2430098",
-          "source": "财联社热门",
-          "ranks": [
-            6
+            14,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时24分]"
+          "time_info": "[15时47分 ~ 19时02分]"
         },
         {
           "title": "KimiK3",
           "url": "https://s.weibo.com/weibo?q=KimiK3&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 19时02分]"
         },
         {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
@@ -1134,6 +1237,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 15时47分]"
+        },
+        {
+          "title": "阿里与荣耀共创面向手机场景的解决方案，已落地Robot Phone",
+          "url": "https://wallstreetcn.com/livenews/3135986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时02分]"
+        },
+        {
+          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时02分]"
         },
         {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
@@ -1182,35 +1309,13 @@
           "time_info": "00时14分"
         },
         {
-          "title": "阿里与荣耀共创面向手机场景的解决方案，已落地Robot Phone",
-          "url": "https://wallstreetcn.com/livenews/3135986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
-          "url": "https://wallstreetcn.com/livenews/3135984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "阿里云发布Agent Native Cloud 全栈产品体系让智能体成为企业原生能力",
           "url": "https://flash.jin10.com/detail/20260718162807590800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1235,6 +1340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
