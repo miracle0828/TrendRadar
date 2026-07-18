@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T22:51:14.514490+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-07-18T23:55:42.085253+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 104,
+      "match_count": 110,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -93,6 +93,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "伊朗革命卫队海军司令：美国别无选择，只能远离海湾。",
+          "url": "https://flash.jin10.com/detail/20260718230600966800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://flash.jin10.com/detail/20260718064504516800",
           "source": "金十数据",
@@ -126,6 +137,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3136066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：一艘泰国籍船只因未经伊朗革命卫队许可驶经霍尔木兹海峡，遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260718013628025800",
           "source": "金十数据",
@@ -146,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "伊朗外交部：谅解备忘录不允许美在霍尔木兹海峡开辟独立平行航线",
+          "url": "https://wallstreetcn.com/livenews/3136065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：知情人士称，伊朗革命卫队在霍尔木兹海峡袭击了一艘船只。",
@@ -181,6 +214,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "伊朗外交部发言人：美国违反协议，造成“不可能”全面落实谅解备忘录（MoU）。 美国违反MoU期间，伊朗不会全面履行MoU提出的义务。（伊朗半官方媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3136064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美中央司令部：结束连续第七晚对伊朗的打击行动",
           "url": "https://flash.jin10.com/detail/20260718094142790800",
           "source": "金十数据",
@@ -201,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
+          "url": "https://wallstreetcn.com/livenews/3136063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -229,6 +284,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时52分 ~ 10时13分]"
+        },
+        {
+          "title": "伊朗已停止履行伊美谅解备忘录",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时09分 ~ 23时55分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗革命卫队称，两艘油轮在驶经霍尔木兹海峡以南一条布设有水雷的航线后发生爆炸并起火。",
@@ -411,18 +478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 13时24分]"
-        },
-        {
-          "title": "伊朗已停止履行伊美谅解备忘录",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时09分 ~ 22时51分]"
         },
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -613,6 +668,18 @@
           "time_info": "[10时13分 ~ 13时24分]"
         },
         {
+          "title": "卡塔尔外交部：“强烈”批评伊朗对约旦、巴林、科威特的袭击。 伊朗的袭击“公然违反”国际法。 袭击持续，意味着局势“危险升级”。 袭击将让维护安全与稳定的努力变得更加复杂。",
+          "url": "https://wallstreetcn.com/livenews/3136052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
           "url": "https://wallstreetcn.com/livenews/3135987",
           "source": "华尔街见闻-快讯",
@@ -637,6 +704,30 @@
           "time_info": "[13时24分 ~ 15时47分]"
         },
         {
+          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
+          "url": "https://flash.jin10.com/detail/20260718212017645800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
+          "title": "伊朗卫生部：自6月27日以来美对伊袭击已致至少50人死亡",
+          "url": "https://wallstreetcn.com/livenews/3136039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
           "title": "伊朗发射巡航导弹打击美军舰艇",
           "url": "https://wallstreetcn.com/livenews/3135904",
           "source": "华尔街见闻-快讯",
@@ -658,6 +749,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "卡塔尔外交部：强烈谴责伊朗对约旦、巴林和科威特的反复袭击。此举公然侵犯了受袭国家的主权和领土完整，严重违反了国际法、《联合国宪章》以及睦邻友好原则。",
+          "url": "https://flash.jin10.com/detail/20260718210251434800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -737,15 +840,15 @@
           "time_info": "04时05分"
         },
         {
-          "title": "卡塔尔外交部：“强烈”批评伊朗对约旦、巴林、科威特的袭击。 伊朗的袭击“公然违反”国际法。 袭击持续，意味着局势“危险升级”。 袭击将让维护安全与稳定的努力变得更加复杂。",
-          "url": "https://wallstreetcn.com/livenews/3136052",
+          "title": "业内：随着伊朗加大对船舶的袭击力度，霍尔木兹海峡油轮面临“最坏情况”",
+          "url": "https://wallstreetcn.com/livenews/3136060",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时55分"
         },
         {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
@@ -957,17 +1060,6 @@
           "time_info": "15时47分"
         },
         {
-          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
-          "url": "https://flash.jin10.com/detail/20260718212017645800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
           "url": "https://wallstreetcn.com/livenews/3135815",
           "source": "华尔街见闻-快讯",
@@ -1010,17 +1102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "伊朗卫生部：自6月27日以来美对伊袭击已致至少50人死亡",
-          "url": "https://wallstreetcn.com/livenews/3136039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "美国官员：伊朗向沙特美军基地发射导弹",
@@ -1098,17 +1179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "卡塔尔外交部：强烈谴责伊朗对约旦、巴林和科威特的反复袭击。此举公然侵犯了受袭国家的主权和领土完整，严重违反了国际法、《联合国宪章》以及睦邻友好原则。",
-          "url": "https://flash.jin10.com/detail/20260718210251434800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "伊朗说以色列是地区战争根源",
@@ -1213,7 +1283,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -1223,8 +1293,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时51分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[07时51分 ~ 23时55分]"
+        },
+        {
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时24分 ~ 23时55分]"
         },
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -1239,19 +1322,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时51分 ~ 21时10分]"
-        },
-        {
-          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
-          "url": "https://www.cls.cn/detail/2430098",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时24分 ~ 22时51分]"
         },
         {
           "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
@@ -1336,6 +1406,18 @@
           "time_info": "[00时14分 ~ 06时48分]"
         },
         {
+          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
+          "url": "https://wallstreetcn.com/articles/3777291",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时09分 ~ 23时55分]"
+        },
+        {
           "title": "Kimi K3测评报告",
           "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%B5%8B%E8%AF%84%E6%8A%A5%E5%91%8A",
           "source": "bilibili 热搜",
@@ -1360,27 +1442,27 @@
           "time_info": "[06时47分 ~ 06时48分]"
         },
         {
-          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
-          "url": "https://wallstreetcn.com/articles/3777291",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时09分 ~ 22时51分]"
-        },
-        {
           "title": "据伊朗媒体Fars News：一名伊朗安全官员警告称，若美国对伊朗基础设施发动袭击，迪拜和阿布扎比的机场以及富查伊拉和杰贝阿里港应做好疏散准备。",
           "url": "https://flash.jin10.com/detail/20260718223420925800",
           "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
+          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3136067",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时55分"
         },
         {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
@@ -1418,6 +1500,29 @@
           "time_info": "[15时47分 ~ 19时02分]"
         },
         {
+          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
+          "url": "https://wallstreetcn.com/articles/3777257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时55分]"
+        },
+        {
+          "title": "性能强悍,Kimi新模型引爆外网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356296&amp;topic_name=%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%2CKimi%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%BC%95%E7%88%86%E5%A4%96%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时55分]"
+        },
+        {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
           "url": "https://wallstreetcn.com/articles/3777138",
           "source": "华尔街见闻",
@@ -1427,28 +1532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时06分]"
-        },
-        {
-          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
-          "url": "https://wallstreetcn.com/articles/3777257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "性能强悍,Kimi新模型引爆外网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356296&amp;topic_name=%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%2CKimi%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%BC%95%E7%88%86%E5%A4%96%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "网易智企：集中展示AI Agent编排、AI Coding、AI客服等企业AI能力",
@@ -1473,6 +1556,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 19时02分]"
+        },
+        {
+          "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
+          "url": "https://flash.jin10.com/detail/20260718213228936800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
         },
         {
           "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
@@ -1511,6 +1606,30 @@
           "time_info": "[13时24分 ~ 15时47分]"
         },
         {
+          "title": "全球首个基于光量子技术路线的智能体平台：图灵量子发布行业级量子-经典混合Agent平台QAgent",
+          "url": "https://wallstreetcn.com/livenews/3136037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
+          "title": "阿里发布秒悟团队版，打造企业级AI应用创作平台",
+          "url": "https://wallstreetcn.com/livenews/3136035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3135881",
           "source": "华尔街见闻-快讯",
@@ -1531,17 +1650,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
-          "url": "https://flash.jin10.com/detail/20260718213228936800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "阿里云发布Agent Native Cloud 全栈产品体系让智能体成为企业原生能力",
@@ -1566,17 +1674,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "全球首个基于光量子技术路线的智能体平台：图灵量子发布行业级量子-经典混合Agent平台QAgent",
-          "url": "https://wallstreetcn.com/livenews/3136037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
           "url": "https://flash.jin10.com/detail/20260718104940134800",
           "source": "金十数据",
@@ -1586,17 +1683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "阿里发布秒悟团队版，打造企业级AI应用创作平台",
-          "url": "https://wallstreetcn.com/livenews/3136035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
@@ -1616,7 +1702,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
