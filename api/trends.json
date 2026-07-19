@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T03:12:47.683835+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-20T04:44:51.596623+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
+        {
+          "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
+          "url": "https://news.ifeng.com/c/8utkEK9m79P",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 04时44分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -41,15 +52,48 @@
           "time_info": "00时58分"
         },
         {
-          "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
-          "url": "https://news.ifeng.com/c/8utkEK9m79P",
-          "source": "凤凰网",
+          "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
+          "url": "https://flash.jin10.com/detail/20260720041116682800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时44分"
+        },
+        {
+          "title": "据《今日以色列报》援引官员消息称，受地区安全局势紧张影响，以色列总理内塔尼亚胡原定于下周赴美国出席美国参议员格雷厄姆葬礼的行程面临取消风险。以方担忧伊朗可能将打击目标扩大至内塔尼亚胡以外的以色列高级官员，并表示“受到威胁的人数非常多”。",
+          "url": "https://flash.jin10.com/detail/20260720034714973800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "科威特称伊朗袭击造成关键基础设施受损",
+          "url": "https://flash.jin10.com/detail/20260720033247369800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美国中央司令部：一名驻伊拉克北部的美军军人于7月18日在执行作战任务时死亡。当时，该军人正在对一架被击落的伊朗单向攻击无人机遗留的未爆炸弹进行受控引爆处理。另有一名美军军人在此次事件中受伤。",
+          "url": "https://flash.jin10.com/detail/20260720031309262800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "据科威特国家通讯社：科威特谴责伊朗针对一处电力及海水淡化设施发动的袭击。伊朗应对针对民用基础设施的袭击承担全部责任。",
@@ -96,8 +140,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "美国能源部长称对伊朗军事行动将持续进行",
@@ -105,11 +149,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "以军：伊朗向约旦发射导弹或波及以色列",
@@ -117,11 +162,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "伊朗阿巴丹传出爆炸声",
@@ -129,11 +175,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
@@ -141,11 +188,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
@@ -155,8 +203,32 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台：卫星图像显示，位于卡塔尔乌代德空军基地的美国空军中央后勤零部件仓库遭到摧毁。",
+          "url": "https://flash.jin10.com/detail/20260720012648465800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 04时44分]"
+        },
+        {
+          "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260720011531221800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时44分]"
         },
         {
           "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
@@ -171,6 +243,18 @@
           "time_info": "[00时58分 ~ 03时12分]"
         },
         {
+          "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
+          "url": "https://flash.jin10.com/detail/20260720010610722800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时44分]"
+        },
+        {
           "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
           "url": "https://wallstreetcn.com/livenews/3136292",
           "source": "华尔街见闻-快讯",
@@ -181,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 03时12分]"
+        },
+        {
+          "title": "据阿拉伯卫星电视台援引消息人士称，伊朗内政部长将于明日在伊斯兰堡与巴基斯坦领导层举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260720010304917800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时44分]"
         },
         {
           "title": "伊朗外长：部分核争端可能“无法解决”",
@@ -207,37 +303,26 @@
           "time_info": "[00时58分 ~ 03时12分]"
         },
         {
-          "title": "据伊朗伊斯兰共和国广播电视台：卫星图像显示，位于卡塔尔乌代德空军基地的美国空军中央后勤零部件仓库遭到摧毁。",
-          "url": "https://flash.jin10.com/detail/20260720012648465800",
+          "title": "卡塔尔外交部：卡塔尔首相与约旦副首相通话，谴责伊朗袭击约旦。",
+          "url": "https://flash.jin10.com/detail/20260720025356593800",
           "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时44分"
         },
         {
-          "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260720011531221800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
-          "url": "https://flash.jin10.com/detail/20260720010610722800",
-          "source": "金十数据",
+          "title": "伊拉克总理将于本周末访问伊朗首都德黑兰。（伊拉克国家新闻社）",
+          "url": "https://wallstreetcn.com/livenews/3136317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时44分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗称，阿巴丹发生的爆炸与伊朗军方行动有关，并非美国发动的袭击。",
@@ -251,24 +336,13 @@
           "time_info": "00时58分"
         },
         {
-          "title": "据阿拉伯卫星电视台援引消息人士称，伊朗内政部长将于明日在伊斯兰堡与巴基斯坦领导层举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260720010304917800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗方面称，数小时前一枚美国发射的巡航导弹在伊朗西部地区遭防空系统成功拦截和击中，导弹已被摧毁。",
           "url": "https://flash.jin10.com/detail/20260720005741846800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -298,7 +372,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -308,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -320,8 +394,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -331,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -343,8 +417,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
@@ -355,8 +429,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
@@ -364,11 +438,36 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时44分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -383,27 +482,15 @@
           "time_info": "[00时58分 ~ 03时12分]"
         },
         {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
+          "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
+          "url": "https://wallstreetcn.com/livenews/3136316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
-        },
-        {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            20,
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     }
