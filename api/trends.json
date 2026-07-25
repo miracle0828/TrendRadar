@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T00:11:18.361890+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T01:58:20.558397+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
-          "url": "https://flash.jin10.com/detail/20260725223644816800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
@@ -47,42 +36,101 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗革命卫队发言人：在15天的战斗中，我们摧毁了11架美国战斗机和直升机。",
+          "url": "https://flash.jin10.com/detail/20260726010608879800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时58分"
+        },
+        {
+          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260726010043722800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
+          "url": "https://flash.jin10.com/detail/20260726005417008800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗石油部：在战争期间出售了115亿美元的石油，在停火期间出售了65亿美元的石油。",
+          "url": "https://flash.jin10.com/detail/20260726005108655800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时58分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
           "url": "https://www.cls.cn/detail/2437013",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "伊朗官员：镐山设施“目前是空的”",
           "url": "https://flash.jin10.com/detail/20260725214500074800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时58分]"
         },
         {
           "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
@@ -91,9 +139,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时58分]"
         }
       ]
     },
@@ -120,19 +168,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
           "url": "https://www.zhihu.com/question/2064106505993971519",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时58分]"
         }
       ]
     }
