@@ -1,33 +1,68 @@
 {
-  "generated_at": "2026-07-25T08:03:33.973168+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-25T12:08:53.039400+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
           "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 12时08分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://flash.jin10.com/detail/20260725113145513800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "特朗普称美国与伊朗仍在对话",
@@ -92,6 +127,18 @@
           "time_info": "[06时14分 ~ 08时03分]"
         },
         {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时08分]"
+        },
+        {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
           "url": "https://www.toutiao.com/trending/7665519115210899499/",
           "source": "今日头条",
@@ -121,9 +168,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260725111226216800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "伊朗与巴基斯坦两国外长会晤 讨论地区及国际局势",
@@ -148,15 +206,15 @@
           "time_info": "03时23分"
         },
         {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时08分"
         },
         {
           "title": "伊朗指控美军误袭商船 致两名船员死亡",
@@ -170,6 +228,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
+          "url": "https://flash.jin10.com/detail/20260725105906223800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美媒：情报机构评估称伊朗新领导层具有更大的核野心",
           "url": "https://flash.jin10.com/detail/20260725024552710800",
           "source": "金十数据",
@@ -179,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "伊朗军方称将对美军实施对等报复",
+          "url": "https://wallstreetcn.com/livenews/3139696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
@@ -280,6 +360,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "据美联社：美军周五表示，向另一艘试图突破其对伊朗港口封锁的商船开火。美军在阿曼湾使M/T Lavine号油轮丧失了航行能力。",
+          "url": "https://flash.jin10.com/detail/20260725101954738800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "王毅会见伊朗外长阿拉格齐",
           "url": "https://wallstreetcn.com/livenews/3139591",
           "source": "华尔街见闻-快讯",
@@ -289,6 +380,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "据伊朗Press TV：在沙特对也门发动袭击之际，沙特港口城市延布发生剧烈爆炸。",
+          "url": "https://flash.jin10.com/detail/20260725101746595800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗导弹齐发 打击多处美军目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E9%BD%90%E5%8F%91+%E6%89%93%E5%87%BB%E5%A4%9A%E5%A4%84%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：现在正在与伊朗人交谈，我认为他们变得更加认真了。",
@@ -305,7 +418,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -313,11 +426,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 12时08分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -376,6 +490,17 @@
           "time_info": "[06时14分 ~ 08时03分]"
         },
         {
+          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2063822441583993476",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "Anthropic推出Claude Opus 5。",
           "url": "https://wallstreetcn.com/livenews/3139584",
           "source": "华尔街见闻-快讯",
@@ -385,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "谷歌：正设法符合欧盟数字市场法案（DMA）的要求。",
@@ -398,6 +534,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "谷歌：对近期欧盟委员会相关决定的影响表示担忧；对美国政府的参与表达感谢。",
           "url": "https://flash.jin10.com/detail/20260725025810940800",
           "source": "金十数据",
@@ -409,6 +556,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "Claude Opus 5发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%205%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "Anthropic宣布推出Opus 5 AI模型，其性能接近前沿智能水平的 Fable 5，但价格仅为其一半。",
           "url": "https://flash.jin10.com/detail/20260725010125721800",
           "source": "金十数据",
@@ -418,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
@@ -440,6 +609,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "Anthropic CEO：已与三星电子和SK海力士签署供应协议。",
+          "url": "https://wallstreetcn.com/livenews/3139680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
+          "url": "https://wallstreetcn.com/livenews/3139676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
