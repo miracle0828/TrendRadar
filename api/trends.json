@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:57:31.703324+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-07-28T22:07:20.029571+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -75,6 +75,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
+          "url": "https://news.ifeng.com/c/8v8RFGTOHZW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3140466",
           "source": "华尔街见闻-快讯",
@@ -84,6 +95,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 22时07分]"
         },
         {
           "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
@@ -131,18 +157,18 @@
           "time_info": "[01时41分 ~ 07时01分]"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            17,
-            15,
-            12
+            14,
+            12,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时02分 ~ 19时57分]"
+          "time_info": "[14时36分 ~ 22时07分]"
         },
         {
           "title": "对伊朗停火 美国是不打了还是打不了",
@@ -158,17 +184,41 @@
           "time_info": "[01时41分 ~ 07时01分]"
         },
         {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            12,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时36分 ~ 19时57分]"
+          "time_info": "[17时36分 ~ 22时07分]"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 22时07分]"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 22时07分]"
         },
         {
           "title": "泽连斯基：乌克兰与伊朗已处于战争中",
@@ -182,39 +232,15 @@
           "time_info": "[14时36分 ~ 19时57分]"
         },
         {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
           "ranks": [
-            7
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时57分]"
-        },
-        {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时57分]"
-        },
-        {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "泽连斯基：与伊朗已处于战争中",
@@ -234,7 +260,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -248,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普称美国目前在伊朗问题上地位强势",
+          "url": "https://wallstreetcn.com/livenews/3141044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "伊朗外长与沙特和阿曼外长通话，讨论了在霍尔木兹海峡开展合作的必要性。",
@@ -311,7 +348,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -333,7 +370,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -355,7 +392,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -374,7 +411,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "真逗,DeepSeek说要去吃饭",
@@ -384,11 +421,12 @@
             1,
             7,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 22时07分]"
         },
         {
           "title": "外媒丑化Kimi创始人惹众怒",
@@ -398,11 +436,12 @@
             12,
             18,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 22时07分]"
         },
         {
           "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
@@ -437,9 +476,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
+        },
+        {
+          "title": "对话Kimi领投人叶奇意",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9DKimi%E9%A2%86%E6%8A%95%E4%BA%BA%E5%8F%B6%E5%A5%87%E6%84%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "阿里押注长鑫76亿搏出近1700亿",
@@ -453,6 +503,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时01分]"
+        },
+        {
+          "title": "刚刚Kimi K3开源！2.8万亿参数全面开放，海外开发者称其为“本地版Fable 5”",
+          "url": "https://wallstreetcn.com/articles/3778078",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 22时07分]"
         },
         {
           "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿，背后是怎样的投资逻辑？",
@@ -491,19 +554,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "刚刚Kimi K3开源！2.8万亿参数全面开放，海外开发者称其为“本地版Fable 5”",
-          "url": "https://wallstreetcn.com/articles/3778078",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 19时57分]"
         },
         {
           "title": "月之暗面全面开源Kimi K3！30分钟登顶开源社区趋势榜 国内外云厂商集体宣布Day0适配",
@@ -554,6 +604,17 @@
           "time_info": "[01时41分 ~ 03时25分]"
         },
         {
+          "title": "高难度真实项目实测Kimi K3",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E9%9A%BE%E5%BA%A6%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%B5%8BKimi%20K3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
           "url": "https://flash.jin10.com/detail/20260728011120494800",
           "source": "金十数据",
@@ -593,7 +654,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
