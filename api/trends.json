@@ -1,78 +1,22 @@
 {
-  "generated_at": "2026-07-28T22:07:20.029571+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-07-29T00:40:09.908928+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 9,
       "titles": [
         {
-          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
-          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
-          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
-          "source": "凤凰网",
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 17时36分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
-          "url": "https://flash.jin10.com/detail/20260728025702923800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
-          "url": "https://flash.jin10.com/detail/20260728012752786800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "据以色列媒体：以色列一名部长表示，以色列确实想攻击伊朗的能源目标，但美国目前并未授权。",
-          "url": "https://flash.jin10.com/detail/20260728171118544800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
           "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
@@ -81,107 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3140466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 22时07分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
-          "url": "https://wallstreetcn.com/livenews/3140458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时25分]"
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 22时07分]"
-        },
-        {
-          "title": "对伊朗停火 美国是不打了还是打不了",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
           "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
@@ -191,527 +48,153 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 22时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
           "ranks": [
-            12,
-            7,
-            23
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 22时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            13,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 22时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 19时57分]"
-        },
-        {
-          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
-          "url": "https://www.cls.cn/detail/2439032",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "伊朗政府：伊朗道路部长法尔扎内·萨迪格在土库曼斯坦与土库曼总统、交通部长及外交部长进行了富有成果的会谈，重点讨论了加强运输车队、基础设施以及天然气和电力领域的能源合作。",
-          "url": "https://flash.jin10.com/detail/20260728193823710800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
-          "url": "https://flash.jin10.com/detail/20260728021523729800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普称美国目前在伊朗问题上地位强势",
-          "url": "https://wallstreetcn.com/livenews/3141044",
+          "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
+          "url": "https://wallstreetcn.com/livenews/3141123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "00时40分"
         },
         {
-          "title": "伊朗外长与沙特和阿曼外长通话，讨论了在霍尔木兹海峡开展合作的必要性。",
-          "url": "https://wallstreetcn.com/livenews/3140755",
+          "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
+          "url": "https://wallstreetcn.com/livenews/3141108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "00时40分"
         },
         {
-          "title": "伊朗副外长加里巴巴迪：对美国罪行的调查将继续进行，即使需要15年时间。",
-          "url": "https://flash.jin10.com/detail/20260728020110622800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
-          "url": "https://wallstreetcn.com/livenews/3140436",
+          "title": "MIZAN：伊朗伊斯兰革命卫队呼吁沙特阿拉伯结束对也门的封锁。",
+          "url": "https://wallstreetcn.com/livenews/3141107",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
-          "url": "https://wallstreetcn.com/livenews/3140435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
-          "url": "https://wallstreetcn.com/livenews/3140533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "伊朗外长与日本外相在通话中就合作应对海峡安全问题进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260728192842428800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美媒：内塔尼亚胡拟向特朗普证明伊朗仍在推进“镐山”核计划",
-          "url": "https://flash.jin10.com/detail/20260728053007305800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "德国央行称伊朗冲突冲击下 德国经济料仍实现增长",
-          "url": "https://wallstreetcn.com/livenews/3140969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
-          "url": "https://flash.jin10.com/detail/20260728052319740800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "日本外相与伊朗外长进行电话交谈",
-          "url": "https://flash.jin10.com/detail/20260728192241889800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
-          "url": "https://wallstreetcn.com/livenews/3140434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 25,
+      "match_count": 6,
       "titles": [
         {
-          "title": "真逗,DeepSeek说要去吃饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
-          "source": "贴吧",
+          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
+          "url": "https://wallstreetcn.com/livenews/3141128",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            15,
-            17,
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 22时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "外媒丑化Kimi创始人惹众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            18,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 22时07分]"
-        },
-        {
-          "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
-          "url": "https://www.zhihu.com/question/2065214142915654338",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 17时36分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 17时36分]"
-        },
-        {
-          "title": "Kimi K3开源为何引发硅谷震动",
-          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E5%BC%80%E6%BA%90%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E7%A1%85%E8%B0%B7%E9%9C%87%E5%8A%A8",
+          "title": "Kimi K3官方教程来了",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
           "title": "对话Kimi领投人叶奇意",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9DKimi%E9%A2%86%E6%8A%95%E4%BA%BA%E5%8F%B6%E5%A5%87%E6%84%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "阿里押注长鑫76亿搏出近1700亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E6%8A%BC%E6%B3%A8%E9%95%BF%E9%91%AB76%E4%BA%BF%E6%90%8F%E5%87%BA%E8%BF%911700%E4%BA%BF%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "刚刚Kimi K3开源！2.8万亿参数全面开放，海外开发者称其为“本地版Fable 5”",
-          "url": "https://wallstreetcn.com/articles/3778078",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 22时07分]"
-        },
-        {
-          "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿，背后是怎样的投资逻辑？",
-          "url": "https://www.zhihu.com/question/2065338204207542577",
-          "source": "知乎",
-          "ranks": [
-            18,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时36分]"
-        },
-        {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "阿里76亿元投资长鑫搏出近1700亿",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C76%E4%BA%BF%E5%85%83%E6%8A%95%E8%B5%84%E9%95%BF%E9%91%AB%E6%90%8F%E5%87%BA%E8%BF%911700%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 07时01分]"
-        },
-        {
-          "title": "月之暗面全面开源Kimi K3！30分钟登顶开源社区趋势榜 国内外云厂商集体宣布Day0适配",
-          "url": "https://www.cls.cn/detail/2438566",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 17时36分]"
-        },
-        {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时57分]"
-        },
-        {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时25分]"
-        },
-        {
-          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
-          "url": "https://www.zhihu.com/question/2064349598202779354",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时25分]"
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
           "title": "高难度真实项目实测Kimi K3",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E9%9A%BE%E5%BA%A6%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%B5%8BKimi%20K3",
           "source": "bilibili 热搜",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
-          "url": "https://flash.jin10.com/detail/20260728011120494800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "Kimi K3技术报告发布",
-          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "刚刚Kimi K3开源！2.8万亿参数全面开放，海外开发者称其为“本地版Fable 5”",
+          "url": "https://wallstreetcn.com/articles/3778078",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
-          "url": "https://flash.jin10.com/detail/20260728061037912800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "怎么看待大批 Claude 分享的内容又一次被搜索引擎曝光了？",
-          "url": "https://www.zhihu.com/question/2065207444305867519",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "长鑫科技“上市盛宴”：合肥国资持股市值过万亿，阿里浮盈千亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667764",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "谷歌(GOOG.O)和微软(MSFT.O)表示发现的软件漏洞数量创下历史新高。美国方面称已知网络漏洞数量预计将大幅超过205个。",
-          "url": "https://flash.jin10.com/detail/20260728020553174800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "智谱股价在香港市场一度跌20%，MiniMax股价跌逾11%，此前月之暗面开放Kimi K3模型供公众下载。",
-          "url": "https://wallstreetcn.com/livenews/3140700",
-          "source": "华尔街见闻-快讯",
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "Anthropic：从未倡导过禁止公开权重模型",
-          "url": "https://wallstreetcn.com/livenews/3140532",
+          "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3141109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3140521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "00时40分"
         }
       ]
     }
