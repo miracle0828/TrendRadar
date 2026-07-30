@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T13:40:06.581923+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-07-30T16:24:04.930596+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,31 @@
           "time_info": "[02时06分 ~ 13时40分]"
         },
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 16时24分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时06分 ~ 16时24分]"
+        },
+        {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
@@ -31,29 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时06分 ~ 06时01分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时40分]"
-        },
-        {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时06分 ~ 13时40分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -112,6 +114,18 @@
           "time_info": "06时01分"
         },
         {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 16时24分]"
+        },
+        {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
           "url": "https://wallstreetcn.com/articles/3778174",
           "source": "华尔街见闻",
@@ -123,24 +137,23 @@
           "time_info": "[02时06分 ~ 06时01分]"
         },
         {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 16时24分]"
+        },
+        {
           "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2065729116125521259",
           "source": "知乎",
           "ranks": [
             6,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时40分]"
-        },
-        {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -156,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时12分]"
-        },
-        {
-          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
-          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
         },
         {
           "title": "美称伊朗发射导弹袭击驻中东美军",
@@ -219,7 +221,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -263,7 +265,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
@@ -273,6 +275,18 @@
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
       "match_count": 9,
       "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 16时24分]"
+        },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
@@ -296,27 +310,16 @@
           "time_info": "04时12分"
         },
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时40分]"
-        },
-        {
           "title": "Kimi K3为何全量开源",
           "url": "https://www.douyin.com/hot/2589996",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 16时24分]"
         },
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
