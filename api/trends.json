@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T21:16:22.162216+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-08-01T23:00:08.562031+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -32,17 +32,6 @@
           "time_info": "[00时44分 ~ 06时04分]"
         },
         {
-          "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
-          "url": "https://news.ifeng.com/c/8vDwIljTGY5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 06时04分]"
-        },
-        {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
           "url": "https://wallstreetcn.com/articles/3778460",
           "source": "华尔街见闻",
@@ -52,8 +41,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 21时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 23时00分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 23时00分]"
+        },
+        {
+          "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
+          "url": "https://news.ifeng.com/c/8vDwIljTGY5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 06时04分]"
         },
         {
           "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
@@ -124,17 +137,6 @@
           "time_info": "06时04分"
         },
         {
-          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
-          "url": "https://wallstreetcn.com/livenews/3143616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）总统特使威特科夫、库什纳、美国副总统万斯、美国国务卿鲁比奥参与谈判。",
           "url": "https://flash.jin10.com/detail/20260801002313960800",
           "source": "金十数据",
@@ -168,17 +170,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
-          "url": "https://flash.jin10.com/detail/20260801202347340800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "【伊朗称已关闭霍尔木兹海峡，美中央司令部否认】7月31日，美军中央司令部表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。美军中央司令部称，“霍尔木兹海峡对于商船通行依然保持开放。伊朗并不控制该海峡”；过去四个月里，“已有数千艘船只通过这一国际水道”。 7月31日稍早，伊朗“波斯湾海峡管理局”发布声明称，由于美军在相关海域持续采取侵略性行动，目前霍尔木兹海峡已无法正常通行。（央视）",
           "url": "https://wallstreetcn.com/livenews/3143392",
           "source": "华尔街见闻-快讯",
@@ -188,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://flash.jin10.com/detail/20260801222142745800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -203,17 +205,31 @@
           "time_info": "[11时42分 ~ 21时16分]"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            8,
-            9
+            15,
+            14,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时42分 ~ 21时16分]"
+          "time_info": "[17时05分 ~ 23时00分]"
+        },
+        {
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 23时00分]"
         },
         {
           "title": "伊朗称中东地区国家应重新考虑与美国的“合作与结盟”",
@@ -264,16 +280,16 @@
           "time_info": "[00时44分 ~ 02时19分]"
         },
         {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时16分]"
+          "time_info": "[21时16分 ~ 23时00分]"
         },
         {
           "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
@@ -300,6 +316,18 @@
           "time_info": "[19时15分 ~ 21时16分]"
         },
         {
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时00分]"
+        },
+        {
           "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
           "url": "https://wallstreetcn.com/livenews/3143576",
           "source": "华尔街见闻-快讯",
@@ -310,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时05分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 23时00分]"
         },
         {
           "title": "伊朗警告打击美以能源基础设施",
@@ -330,19 +369,6 @@
             6,
             21,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 21时16分]"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -403,17 +429,6 @@
           "ranks": [
             9,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时16分]"
-        },
-        {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -496,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://wallstreetcn.com/livenews/3143618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "美国无力消除霍尔木兹海峡的伊朗威胁",
@@ -699,7 +725,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -714,6 +740,19 @@
           "time_info": "[00时44分 ~ 06时04分]"
         },
         {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时05分 ~ 23时00分]"
+        },
+        {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
           "url": "https://wallstreetcn.com/articles/3778448",
           "source": "华尔街见闻",
@@ -725,18 +764,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时42分 ~ 21时16分]"
-        },
-        {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 21时16分]"
         },
         {
           "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
@@ -775,6 +802,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 06时04分]"
+        },
+        {
+          "title": "蔡崇信宣布离婚，不涉及出售阿里股份",
+          "url": "https://news.ifeng.com/c/8vEMQDCNZQw",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 23时00分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -859,16 +898,16 @@
           "time_info": "[14时27分 ~ 19时15分]"
         },
         {
-          "title": "蔡崇信宣布离婚，不涉及出售阿里股份",
-          "url": "https://news.ifeng.com/c/8vEMQDCNZQw",
-          "source": "凤凰网",
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
           "ranks": [
             11,
-            3
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 23时00分]"
         },
         {
           "title": "实测DeepSeek V4 Flash",
@@ -896,18 +935,6 @@
           "time_info": "[00时44分 ~ 06时04分]"
         },
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时16分]"
-        },
-        {
           "title": "头部AI再失控 Claude黑进三家公司",
           "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -918,6 +945,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 17时05分]"
+        },
+        {
+          "title": "Kimi K3为何引发市场热议",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B8%82%E5%9C%BA%E7%83%AD%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -937,7 +975,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
