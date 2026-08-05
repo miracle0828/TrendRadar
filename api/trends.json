@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T04:26:25.030704+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-08-06T06:12:19.989594+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
@@ -30,6 +30,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
+          "url": "https://wallstreetcn.com/livenews/3145624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "伊朗：美国说准备恢复履行承诺",
           "url": "https://wallstreetcn.com/livenews/3145532",
           "source": "华尔街见闻-快讯",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260806054735118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
@@ -52,15 +74,37 @@
           "time_info": "02时21分"
         },
         {
+          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260806054724205800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
           "url": "https://flash.jin10.com/detail/20260806035340632800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
@@ -69,7 +113,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -102,9 +146,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美国化肥供应商CF二季度净销售22.2亿美元，分析师预期24.4亿美元。 二季度每股收益（EPS）为4.73美元，上年同期2.37美元。 二季度现金与现金等价物24.8亿美元，分析师预期27亿美元。 伊朗冲突造成中东地区的尿素供应缩减400万-450万吨。",
+          "url": "https://wallstreetcn.com/livenews/3145616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "伊朗副外长否认就霍尔木兹海峡与美国谈判",
@@ -157,7 +212,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -184,6 +239,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
+          "url": "https://wallstreetcn.com/livenews/3145607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "伊朗副外长：近期未与美国进行谈判。",
           "url": "https://flash.jin10.com/detail/20260806011229694800",
           "source": "金十数据",
@@ -201,7 +267,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -234,7 +300,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -245,7 +311,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -267,9 +333,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
+          "url": "https://flash.jin10.com/detail/20260806042849231800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
@@ -278,7 +355,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -300,7 +377,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -352,7 +429,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -385,8 +462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
@@ -399,6 +476,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 02时21分]"
+        },
+        {
+          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3145619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
@@ -484,9 +572,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
+          "url": "https://wallstreetcn.com/livenews/3145610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1%。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，KWEB跌1.1%，CQQQ涨0.7%。",
@@ -495,7 +594,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -514,7 +613,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。 MarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。 MarketVector数字资产100指数涨0.80%，报12794.08点。 目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。 比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
@@ -528,13 +627,24 @@
           "time_info": "02时21分"
         },
         {
+          "title": "美元指数5日下跌",
+          "url": "https://flash.jin10.com/detail/20260806042740895800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
           "url": "https://wallstreetcn.com/livenews/3145571",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -545,7 +655,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
