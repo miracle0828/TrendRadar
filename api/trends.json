@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:33:27.906244+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-08-06T19:22:35.828397+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -31,14 +31,27 @@
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 19时22分]"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 19时22分]"
         },
         {
           "title": "美国副总统万斯：伊朗政权内部有人希望结束战争，也有极端分子希望战争持续下去。",
@@ -50,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
@@ -107,6 +109,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "伊朗情报部门在该国境内逮捕多名摩萨德特工",
+          "url": "https://wallstreetcn.com/livenews/3146002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260806054735118800",
           "source": "金十数据",
@@ -140,16 +153,16 @@
           "time_info": "13时53分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 16时33分]"
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "伊朗与阿曼会谈最新细节曝光",
@@ -189,6 +202,18 @@
           "time_info": "[10时59分 ~ 13时53分]"
         },
         {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 19时22分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
           "url": "https://flash.jin10.com/detail/20260806054724205800",
           "source": "金十数据",
@@ -200,15 +225,15 @@
           "time_info": "06时12分"
         },
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
-          "source": "百度热搜",
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "19时22分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
@@ -385,6 +410,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗总统称没有力量能让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3145983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "伊朗总统称与最高领袖联络非常困难",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%81%94%E7%BB%9C%E9%9D%9E%E5%B8%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "伊朗副外长：近期未与美国进行谈判。",
@@ -577,7 +624,7 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -585,11 +632,24 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时22分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -603,27 +663,17 @@
           "time_info": "00时41分"
         },
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "DeepSeek拟上调API服务定价",
           "url": "https://www.douyin.com/hot/2599312",
           "source": "抖音",
           "ranks": [
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek拟调高API价格",
@@ -631,11 +681,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时22分]"
         },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -666,7 +717,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -712,11 +763,24 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时22分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -739,17 +803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
@@ -791,7 +844,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -857,7 +910,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -890,7 +943,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -915,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "UP主联合官方实测MiniMax H3",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E5%AE%98%E6%96%B9%E5%AE%9E%E6%B5%8BMiniMax%20H3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "港股人工智能股部分走高，MINIMAX-W(00100.HK)涨超15%，智谱(02513.HK)涨超9%，胜宏科技(02476.HK)涨超7%，剑桥科技(06166.HK)涨超3%。",
