@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-07T08:41:07.031670+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-07T11:50:17.260170+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
           "url": "https://wallstreetcn.com/articles/3778857",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时50分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -30,15 +31,51 @@
           "time_info": "[08时40分 ~ 08时41分]"
         },
         {
+          "title": "腾讯阿里“易中天”押注 NPO明年迈向商用 先进光互联“多路线竞速”",
+          "url": "https://www.cls.cn/detail/2447753",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时50分]"
+        },
+        {
           "title": "在被调入港股通后的第一天交易日，MiniMax获南向资金净买入近27亿港元，在成交活跃股中位列净买入首位。",
           "url": "https://wallstreetcn.com/livenews/3146326",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时50分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时50分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -52,37 +89,15 @@
           "time_info": "[08时40分 ~ 08时41分]"
         },
         {
-          "title": "DeepSeek官宣涨价，且“幅度较大”！",
-          "url": "https://wallstreetcn.com/articles/3778814",
-          "source": "华尔街见闻",
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "腾讯阿里“易中天”押注 NPO明年迈向商用 先进光互联“多路线竞速”",
-          "url": "https://www.cls.cn/detail/2447753",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "time_info": "[11时49分 ~ 11时50分]"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -127,23 +142,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 08时41分]"
+        },
+        {
+          "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
+          "url": "https://wallstreetcn.com/livenews/3146390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "港股大模型概念股持续走高，MINIMAX-W(00100.HK)涨近25%，智谱(02513.HK)涨超17%。",
+          "url": "https://flash.jin10.com/detail/20260807104654889800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
           "url": "https://www.cls.cn/detail/2447874",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时50分]"
         },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
@@ -163,7 +201,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -174,7 +212,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -185,9 +223,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "特朗普再称对伊朗战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3146368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         }
       ]
     }
