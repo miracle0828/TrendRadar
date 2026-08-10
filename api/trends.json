@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T01:01:44.594681+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-11T01:56:21.467155+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -48,30 +48,43 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
+        },
+        {
+          "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
+          "url": "https://flash.jin10.com/detail/20260811014323156800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时56分"
         },
         {
           "title": "特朗普要求伊朗赔偿",
           "url": "https://wallstreetcn.com/livenews/3147621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
           "url": "https://wallstreetcn.com/livenews/3147616",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -81,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
@@ -94,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：任何觊觎伊朗岛屿的人，我们都将予以坚决打击。",
+          "url": "https://flash.jin10.com/detail/20260811011553614800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
@@ -198,51 +222,66 @@
     },
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
+          "url": "https://wallstreetcn.com/livenews/3147639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
           "url": "https://flash.jin10.com/detail/20260811005217914800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
           "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
           "url": "https://flash.jin10.com/detail/20260811005131000800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
           "url": "https://flash.jin10.com/detail/20260811005120672800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -252,19 +291,75 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
         },
         {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
           "url": "https://www.zhihu.com/question/2066610730116421630",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时56分]"
+        },
+        {
+          "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
+          "url": "https://wallstreetcn.com/livenews/3147635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时56分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
+          "url": "https://flash.jin10.com/detail/20260811012108617800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
+          "url": "https://wallstreetcn.com/livenews/3147627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
