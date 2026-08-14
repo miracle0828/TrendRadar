@@ -1,339 +1,44 @@
 {
-  "generated_at": "2026-08-14T19:53:43.485702+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-08-15T00:51:15.179843+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 智普 谷歌 阿里 千问 minimax kimi gemini openai chatgpt karpathy claude anthropic agent skill",
-      "match_count": 51,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
-          "url": "https://www.zhihu.com/question/2071335529577239335",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 12时07分]"
-        },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            3,
-            2,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 19时53分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 19时53分]"
-        },
-        {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时46分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时39分]"
-        },
-        {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            9,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时39分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 12时07分]"
-        },
-        {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
-          "url": "https://www.cls.cn/detail/2453351",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时39分]"
-        },
-        {
-          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
-          "url": "https://www.zhihu.com/question/2071348486667237276",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时39分]"
-        },
-        {
-          "title": "如何看待 Deepseek Harness 发布？",
-          "url": "https://www.zhihu.com/question/2071331484284220938",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时40分]"
-        },
-        {
-          "title": "一次看懂DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 19时53分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 19时53分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            23,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 09时46分]"
-        },
-        {
-          "title": "Anthropic IPO前密会投资者 2万亿美元估值非官方目标",
-          "url": "https://flash.jin10.com/detail/20260814012816473800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
-          "url": "https://flash.jin10.com/detail/20260814012101785800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "据CNBC：据消息人士透露，Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。",
-          "url": "https://flash.jin10.com/detail/20260814011139162800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3149267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "为什么DeepSeek越涨价越是价格屠夫",
-          "url": "https://www.toutiao.com/trending/7673637537293798953/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时07分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
-          "url": "https://www.zhihu.com/question/2071225352072999482",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时07分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260814011003598800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010933087800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://wallstreetcn.com/livenews/3149264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010716822800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
-          "url": "https://wallstreetcn.com/livenews/3149263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
@@ -344,561 +49,57 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时53分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
+          "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
+          "url": "https://wallstreetcn.com/livenews/3149817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
-          "title": "OpenAI在不到一年内任命新首席营收官",
-          "url": "https://wallstreetcn.com/livenews/3149247",
+          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3149812",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "南向资金今日净卖出13.16亿元。港股通（沪）方面，阿里巴巴-W、美团-W分别获净卖出8.79亿港元、7.88亿港元；腾讯控股净买入额居首，金额为11.27亿港元；港股通（深）方面，华虹宏力、联想集团分别获净卖出7.83亿港元、2.93亿港元；净买入额居首，金额为6.3亿港元。",
-          "url": "https://flash.jin10.com/detail/20260814173152805800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "据Axios：OpenAI在IPO前进行高管更换。",
-          "url": "https://flash.jin10.com/detail/20260814173053117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "据悉OpenAI年化营收突破400亿美元",
-          "url": "https://flash.jin10.com/detail/20260814055506381800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://flash.jin10.com/detail/20260814010146739800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash将在今年年底前以限时优惠价格提供，输入价格为每100万个词元0.75美元，输出价格为每100万个词元3.75美元。",
-          "url": "https://flash.jin10.com/detail/20260814010117935800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
-          "title": "Anthropic已解决Claude Code服务性能下降问题",
-          "url": "https://wallstreetcn.com/livenews/3149398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
-          "url": "https://flash.jin10.com/detail/20260814000639384800",
-          "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出Gemini 3.7 Flash模型。",
-          "url": "https://flash.jin10.com/detail/20260814010050327800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
-          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260814000628612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "OpenAI任命达利·拉季奇为首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260814000501554800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "让DeepSeek给小说取架空国名",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814053819730800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
-          "url": "https://wallstreetcn.com/livenews/3149391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260813235531398800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "OpenAI营收部门二度换帅 加速营收增长为上市铺路",
-          "url": "https://flash.jin10.com/detail/20260814004747744800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
-          "title": "MINIMAX-W(00100.HK)：定于2026年8月26日举行本公司董事会会议，以考虑及通过本集团截至2026年6月30日止的六个月中期业绩，以及处理其他事项。",
-          "url": "https://flash.jin10.com/detail/20260814171624612800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "阿里超15亿美金向中信资本出售灵犀互娱",
-          "url": "https://wallstreetcn.com/livenews/3149494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "阿里巴巴：调整2032年到期零息可交换债券交换率",
-          "url": "https://wallstreetcn.com/livenews/3149699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "00时51分"
         },
         {
-          "title": "DeepSeek Harness公测",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+Harness%E5%85%AC%E6%B5%8B",
-          "source": "百度热搜",
+          "title": "阿里巴巴宣布：今天正式开源Qwen3.8系列模型",
+          "url": "https://flash.jin10.com/detail/20260814233839304800",
+          "source": "金十数据",
           "ranks": [
-            29
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时46分]"
-        },
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时46分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问：若条件得不到满足，或升级冲突",
-          "url": "https://news.ifeng.com/c/8vZAGoGTmeG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "伊朗称格什姆岛沿岸石油污染系外国军事侵略所致",
-          "url": "https://flash.jin10.com/detail/20260814194600074800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
-          "url": "https://flash.jin10.com/detail/20260814193446202800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3149271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时11分]"
-        },
-        {
-          "title": "美防长称可“无限期”对伊朗进行海上封锁",
-          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 17时59分]"
-        },
-        {
-          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时07分]"
-        },
-        {
-          "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
-          "url": "https://wallstreetcn.com/livenews/3149255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时11分]"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时07分]"
-        },
-        {
-          "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3149244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
-          "url": "https://flash.jin10.com/detail/20260814023025307800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
-          "url": "https://wallstreetcn.com/livenews/3149303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "伊朗外交部再次谴责美以违反国际人道法",
-          "url": "https://wallstreetcn.com/livenews/3149273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗外交部再次谴责美以违反国际人道法",
-          "url": "https://flash.jin10.com/detail/20260814020208321800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗革命卫队：真相要到战场上去看",
-          "url": "https://flash.jin10.com/detail/20260814031916413800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
-          "url": "https://wallstreetcn.com/livenews/3149241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美防长称可“无限期维持”对伊朗海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3149317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "伊朗危机搅乱能源市场 高度不确定性催生日本电力期货交易热潮",
-          "url": "https://flash.jin10.com/detail/20260814111515036800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
-          "url": "https://wallstreetcn.com/livenews/3149312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260814032112550800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
-          "url": "https://wallstreetcn.com/livenews/3149294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金价格反弹意味什么",
-          "url": "https://www.toutiao.com/trending/7673529634117389887/",
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
           "source": "今日头条",
           "ranks": [
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     }
